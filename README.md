@@ -19,6 +19,7 @@ DineScope is organised into four tasks.
 **Objective:** Predict a restaurant's aggregate rating using available restaurant attributes.
 
 Work completed:
+
 - Audited the dataset and performed exploratory data analysis.
 - Cleaned and preprocessed the data.
 - Trained and compared regression models.
@@ -29,7 +30,7 @@ Work completed:
 Final model results recorded in the verification analysis:
 
 | Model configuration | RMSE | MAE | R² |
-|---|---:|---:|---:|
+| --- | ---: | ---: | ---: |
 | Selected model with Votes | 0.3330 | 0.2461 | 0.6414 |
 | Selected model without Votes | 0.3860 | 0.2993 | 0.5183 |
 
@@ -40,6 +41,7 @@ The two configurations are reported separately because the availability of Votes
 **Objective:** Recommend restaurants using restaurant attributes and user preferences.
 
 Work completed:
+
 - Audited and prepared recommendation data.
 - Engineered cuisine and restaurant features.
 - Implemented a content-based recommendation approach.
@@ -52,6 +54,7 @@ Work completed:
 **Objective:** Predict cuisine labels from restaurant attributes using a multi-label classification approach.
 
 Work completed:
+
 - Audited and preprocessed cuisine data.
 - Engineered classification features.
 - Trained One-vs-Rest classification models using Logistic Regression and Linear Support Vector Classification.
@@ -61,7 +64,7 @@ Work completed:
 Recorded threshold-tuning result:
 
 | Evaluation | Micro F1 |
-|---|---:|
+| --- | ---: |
 | Baseline | 0.1545 |
 | Tuned | 0.4124 |
 
@@ -72,6 +75,7 @@ The tuned result is the result recorded in the verification notebook. It should 
 **Objective:** Analyse restaurant distribution and identify location-level patterns and recommendation opportunities.
 
 Work completed:
+
 - Audited and prepared geographical data.
 - Analysed restaurant distribution across cities and localities.
 - Performed geospatial analysis using restaurant coordinates.
@@ -82,7 +86,7 @@ Work completed:
 Recorded analysis summary:
 
 | Analysis item | Result |
-|---|---:|
+| --- | ---: |
 | Restaurants in dataset | 9,551 |
 | Restaurants with ratings | 7,403 |
 | Restaurants without ratings | 2,148 |
@@ -102,7 +106,7 @@ The recorded global city recommendation leader was **Orlando**; the top locality
 ## Technology Stack
 
 | Category | Technologies |
-|---|---|
+| --- | --- |
 | Programming language | Python |
 | Data manipulation | Pandas, NumPy |
 | Data visualisation | Matplotlib, Seaborn |
@@ -146,6 +150,12 @@ DineScope/
 │       ├── task_2/
 │       ├── task_3/
 │       └── task_4/
+├── docs/
+│   ├── index.html
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── script.js
 ├── Machine Learning.pdf
 ├── requirements.txt
 ├── .gitignore
@@ -153,6 +163,52 @@ DineScope/
 ```
 
 **Data and model artifact handling:** The repository's `.gitignore` excludes raw data, processed data, and model binaries. The source code, notebooks, reports, figures, and project documentation are maintained separately from those artifacts. Obtain the dataset and any required artifacts through an authorised distribution and place them in the corresponding project directories before running scripts that depend on them.
+
+---
+
+## DineScope Project Website
+
+DineScope also includes a responsive static website built with **HTML, CSS, and JavaScript**. It presents the project's four tasks, selected evaluation results, location-analysis findings, workflow, technology stack, and analytical limitations.
+
+**Live website:** [DineScope on GitHub Pages](https://kamalesh-suresh-kumar.github.io/DineScope-Restaurant-Intelligence/)
+
+### Website source files
+
+The website source is maintained in the `docs/` directory:
+
+| File | Purpose |
+| --- | --- |
+| `docs/index.html` | Website structure and project content |
+| `docs/css/style.css` | Responsive layout, styling, and visual design |
+| `docs/js/script.js` | Mobile navigation, active section highlighting, and dynamic footer year |
+
+### Run the website locally
+
+You can open `docs/index.html` directly in a browser. Alternatively, from the repository root, start a local static server:
+
+```bash
+python -m http.server 8000 --directory docs
+```
+
+Then open:
+
+```text
+http://localhost:8000
+```
+
+### GitHub Pages deployment
+
+To publish or update the website:
+
+1. Push the `docs/` directory to the `main` branch.
+2. Open the GitHub repository and go to **Settings → Pages**.
+3. Under **Build and deployment**, select **Deploy from a branch**.
+4. Choose branch `main` and folder `/docs`.
+5. Save and wait for the deployment to finish.
+
+The published site is available at the GitHub Pages URL above.
+
+**Deployment note:** GitHub Pages hosts static files. The website displays project information and recorded results; it does not execute Python scripts, run Jupyter notebooks, train models, or provide live predictions. Dataset files and trained model binaries are not required to render the website.
 
 ---
 
@@ -285,9 +341,14 @@ Developed as part of a **Machine Learning Internship at Cognifyz Technologies**.
 
 DineScope is an educational and analytical project. Results are based on the supplied dataset and the methods implemented in this repository. Predictions, classifications, recommendations, statistical findings, and geographical rankings should be interpreted within the stated methodological and data limitations. They should not be treated as guarantees or as a substitute for independent verification.
 
+---
 
-# Author
-<b>Name: Kamalesh S P</b><br/>
-<b>Roll Number: 230701138</b><br/>
-<b>Profolio: </b>[Portfolio link](https://kamalesh-suresh-kumar.github.io/Portfolio-KAI-HQ/)<br/>
-<b>Connect with Me: </b>[Connection Link](https://kamalesh-suresh-kumar.github.io/KAI-Nexus/)<br/>
+## Author
+
+**Name:** Kamalesh S P
+
+**Roll Number:** 230701138
+
+**Portfolio:** [Portfolio link](https://kamalesh-suresh-kumar.github.io/Portfolio-KAI-HQ/)
+
+**Connect with Me:** [Connection Link](https://kamalesh-suresh-kumar.github.io/KAI-Nexus/)
