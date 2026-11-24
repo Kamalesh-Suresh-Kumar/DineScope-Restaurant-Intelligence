@@ -1,0 +1,1266 @@
+Country Code,City,Locality,Restaurant_Count,Unique_Cuisine_Count,Cuisine_Diversity_Ratio
+1,New Delhi,Connaught Place,122,45,0.36885245901639346
+1,New Delhi,Rajouri Garden,99,36,0.36363636363636365
+1,New Delhi,Shahdara,87,13,0.14942528735632185
+1,New Delhi,Defence Colony,86,36,0.4186046511627907
+1,New Delhi,Pitampura,85,25,0.29411764705882354
+1,New Delhi,Mayur Vihar Phase 1,84,23,0.27380952380952384
+1,New Delhi,Malviya Nagar,84,36,0.42857142857142855
+1,New Delhi,Rajinder Nagar,81,22,0.2716049382716049
+1,New Delhi,Safdarjung,80,30,0.375
+1,New Delhi,Satyaniketan,79,26,0.3291139240506329
+1,New Delhi,Krishna Nagar,76,15,0.19736842105263158
+1,Noida,Sector 62,76,21,0.27631578947368424
+1,New Delhi,Karol Bagh,76,25,0.32894736842105265
+1,Noida,Sector 18,75,26,0.3466666666666667
+1,New Delhi,Hauz Khas,74,26,0.35135135135135137
+1,New Delhi,Kalkaji,73,21,0.2876712328767123
+1,Gurgaon,DLF Phase 3,69,26,0.37681159420289856
+1,New Delhi,Mahipalpur,69,16,0.2318840579710145
+1,New Delhi,Mukherjee Nagar,68,17,0.25
+1,New Delhi,Chandni Chowk,67,13,0.19402985074626866
+1,New Delhi,Shalimar Bagh,67,18,0.26865671641791045
+1,New Delhi,Greater Kailash (GK) 2,66,36,0.5454545454545454
+1,New Delhi,Greater Kailash (GK) 1,66,32,0.48484848484848486
+1,New Delhi,Kamla Nagar,65,21,0.3230769230769231
+1,New Delhi,Delhi University-GTB Nagar,65,21,0.3230769230769231
+1,New Delhi,Paharganj,64,21,0.328125
+1,New Delhi,Vasundhara Enclave,62,15,0.24193548387096775
+1,New Delhi,Jail Road,61,17,0.2786885245901639
+1,Noida,Sector 72,61,19,0.3114754098360656
+1,New Delhi,Punjabi Bagh,60,29,0.48333333333333334
+1,New Delhi,Vikaspuri,60,18,0.3
+1,New Delhi,Najafgarh,60,13,0.21666666666666667
+1,New Delhi,Tilak Nagar,60,17,0.2833333333333333
+1,New Delhi,Palam,60,12,0.2
+1,New Delhi,Uttam Nagar,59,14,0.23728813559322035
+1,New Delhi,Laxmi Nagar,58,19,0.3275862068965517
+1,New Delhi,Dilshad Garden,57,16,0.2807017543859649
+1,New Delhi,Jangpura,57,20,0.3508771929824561
+1,New Delhi,Kirti Nagar,56,17,0.30357142857142855
+1,New Delhi,Paschim Vihar,56,20,0.35714285714285715
+1,New Delhi,East of Kailash,56,25,0.44642857142857145
+1,Gurgaon,Sector 56,54,19,0.35185185185185186
+1,New Delhi,Naraina,54,17,0.3148148148148148
+1,Noida,Sector 110,53,20,0.37735849056603776
+1,Gurgaon,Sector 14,52,23,0.4423076923076923
+1,New Delhi,Subhash Nagar,51,14,0.27450980392156865
+1,New Delhi,East Patel Nagar,50,21,0.42
+1,Gurgaon,Palam Vihar,49,15,0.30612244897959184
+1,New Delhi,Preet Vihar,49,19,0.3877551020408163
+1,New Delhi,Rohini,48,22,0.4583333333333333
+1,New Delhi,Netaji Subhash Place,48,24,0.5
+1,New Delhi,New Friends Colony,47,29,0.6170212765957447
+1,New Delhi,IP Extension,47,16,0.3404255319148936
+1,New Delhi,Green Park,46,25,0.5434782608695652
+1,New Delhi,Chittaranjan Park,46,18,0.391304347826087
+1,New Delhi,Janakpuri,46,23,0.5
+1,Noida,Sector 41,45,23,0.5111111111111111
+1,New Delhi,Khan Market,44,32,0.7272727272727273
+1,New Delhi,Munirka,43,21,0.4883720930232558
+1,Noida,Sector 132,43,18,0.4186046511627907
+1,New Delhi,Daryaganj,43,12,0.27906976744186046
+1,New Delhi,Lajpat Nagar 1,42,14,0.3333333333333333
+1,Gurgaon,Sohna Road,42,27,0.6428571428571429
+1,New Delhi,Anand Vihar,42,17,0.40476190476190477
+1,Gurgaon,"Cyber Hub, DLF Cyber City",41,36,0.8780487804878049
+1,New Delhi,South Extension 2,41,25,0.6097560975609756
+1,Gurgaon,Old Railway Road,41,15,0.36585365853658536
+1,New Delhi,Nangloi,41,12,0.2926829268292683
+1,New Delhi,Moti Nagar,40,14,0.35
+1,New Delhi,Gujranwala Town,39,14,0.358974358974359
+1,New Delhi,Janpath,39,27,0.6923076923076923
+1,Noida,Greater Noida,38,17,0.4473684210526316
+1,New Delhi,R K Puram,38,14,0.3684210526315789
+1,Gurgaon,Sector 29,38,32,0.8421052631578947
+1,New Delhi,GTB Nagar,38,16,0.42105263157894735
+1,Noida,"The Great India Place, Sector 38",37,21,0.5675675675675675
+1,Gurgaon,Udyog Vihar,37,15,0.40540540540540543
+1,New Delhi,Saket,36,19,0.5277777777777778
+1,New Delhi,Tagore Garden,36,13,0.3611111111111111
+1,New Delhi,Ashok Vihar Phase 1,36,12,0.3333333333333333
+1,New Delhi,Vasant Vihar,36,22,0.6111111111111112
+1,New Delhi,Vivek Vihar,36,16,0.4444444444444444
+1,New Delhi,Sainik Farms,35,17,0.4857142857142857
+1,Gurgaon,Sector 31,35,23,0.6571428571428571
+1,Noida,Sector 50,35,21,0.6
+1,New Delhi,Geeta Colony,34,9,0.2647058823529412
+1,New Delhi,MG Road,34,13,0.38235294117647056
+1,New Delhi,Mayur Vihar Phase 3,32,13,0.40625
+1,New Delhi,Chanakyapuri,32,21,0.65625
+1,New Delhi,Alaknanda,32,18,0.5625
+1,New Delhi,Nehru Place,32,23,0.71875
+1,New Delhi,Vijay Nagar,31,19,0.6129032258064516
+1,Gurgaon,Sector 45,31,16,0.5161290322580645
+1,Noida,"DLF Mall of India, Sector 18,  Noida",31,30,0.967741935483871
+1,Faridabad,Sector 15,31,23,0.7419354838709677
+1,New Delhi,Lodhi Colony,31,27,0.8709677419354839
+1,Gurgaon,Sushant Lok,30,23,0.7666666666666667
+1,Noida,"Logix City Centre, Sector 32, Noida",30,23,0.7666666666666667
+1,New Delhi,Mayur Vihar Phase 2,29,13,0.4482758620689655
+1,Noida,Sector 15,29,13,0.4482758620689655
+1,Noida,Sector 51,28,20,0.7142857142857143
+1,Gurgaon,Golf Course Road,27,24,0.8888888888888888
+1,Gurgaon,DLF Phase 1,27,26,0.9629629629629629
+1,New Delhi,"Pacific Mall, Tagore Garden",27,20,0.7407407407407407
+1,New Delhi,Shakarpur,27,11,0.4074074074074074
+1,New Delhi,Jama Masjid,26,10,0.38461538461538464
+1,New Delhi,Shahpur Jat,26,20,0.7692307692307693
+1,New Delhi,"V3S Mall, Laxmi Nagar",26,19,0.7307692307692307
+1,Noida,Sector 27,26,12,0.46153846153846156
+1,New Delhi,Sarita Vihar,26,12,0.46153846153846156
+1,Noida,Sector 37,25,15,0.6
+1,New Delhi,"Select Citywalk Mall, Saket",25,29,1.16
+1,Gurgaon,"Unitech Infospace, Sector 21, Gurgaon",25,17,0.68
+1,New Delhi,Yusuf Sarai,25,12,0.48
+1,New Delhi,Majnu ka Tila,25,11,0.44
+1,New Delhi,Model Town 2,25,18,0.72
+1,New Delhi,Hauz Khas Village,24,22,0.9166666666666666
+1,Gurgaon,"MGF Metropolitan Mall, MG Road",24,23,0.9583333333333334
+1,Gurgaon,MG Road,24,24,1.0
+1,New Delhi,Qutab Institutional Area,23,10,0.43478260869565216
+1,New Delhi,Vasant Kunj,23,18,0.782608695652174
+1,New Delhi,"Moments Mall, Kirti Nagar",23,20,0.8695652173913043
+1,New Delhi,Karkardooma,23,14,0.6086956521739131
+1,Noida,Sector 44,23,10,0.43478260869565216
+1,Noida,Sector 12,22,11,0.5
+1,New Delhi,Kailash Colony,22,21,0.9545454545454546
+1,New Delhi,Lajpat Nagar 2,22,22,1.0
+1,Gurgaon,Sector 17,21,14,0.6666666666666666
+1,Gurgaon,DLF Phase 4,21,23,1.0952380952380953
+1,New Delhi,"Epicuria Food Mall, Nehru Place",21,25,1.1904761904761905
+1,New Delhi,Jasola,21,17,0.8095238095238095
+216,Athens,Athens,20,20,1.0
+1,New Delhi,"Dilli Haat, INA",20,17,0.85
+1,Gurgaon,Sector 39,20,8,0.4
+1,New Delhi,Mehrauli,20,11,0.55
+216,Valdosta,Valdosta,20,21,1.05
+216,Dubuque,Dubuque,20,16,0.8
+1,New Delhi,Pandav Nagar,20,12,0.6
+1,Faridabad,Sector 37,20,11,0.55
+216,Albany,Albany,19,18,0.9473684210526315
+1,New Delhi,Lodhi Road,19,16,0.8421052631578947
+216,Columbus,Columbus,19,21,1.105263157894737
+1,Noida,Sector 53,19,13,0.6842105263157895
+1,Noida,"Supertech Shopprix Mall, Sector 61",19,18,0.9473684210526315
+1,Faridabad,Suraj Kund,19,14,0.7368421052631579
+1,Gurgaon,Ardee City,19,14,0.7368421052631579
+216,Savannah,Savannah,18,18,1.0
+1,Noida,Sector 93,18,12,0.6666666666666666
+216,Sioux City,Sioux City,18,21,1.1666666666666667
+1,Allahabad,Civil Lines,18,14,0.7777777777777778
+1,New Delhi,"Community Centre, New Friends Colony",18,14,0.7777777777777778
+216,Boise,Boise,18,19,1.0555555555555556
+1,Gurgaon,"Sushant Shopping Arcade, Sushant Lok, Gurgaon",18,14,0.7777777777777778
+1,Gurgaon,"DLF Galleria, DLF Phase 4",17,18,1.0588235294117647
+1,Gurgaon,"Supermart 1, DLF Phase 4",17,17,1.0
+1,Ghaziabad,"Shipra Mall, Indirapuram",17,13,0.7647058823529411
+1,New Delhi,Prashant Vihar,17,11,0.6470588235294118
+1,Faridabad,Sector 16,17,6,0.35294117647058826
+1,Gurgaon,"Vyapar Kendra, Sushant Lok",17,11,0.6470588235294118
+1,New Delhi,Barakhamba Road,16,13,0.8125
+1,Noida,"Spice World Mall, Sector 25",16,20,1.25
+216,Pocatello,Pocatello,16,21,1.3125
+1,Gurgaon,"DLF Mega Mall, DLF Phase 1",15,18,1.2
+1,New Delhi,SDA,15,12,0.8
+1,New Delhi,Lawrence Road,15,10,0.6666666666666666
+148,Wellington City,Te Aro,15,15,1.0
+1,New Delhi,"Basant Lok Market, Vasant Vihar",15,15,1.0
+1,New Delhi,Mayapuri Phase 2,15,12,0.8
+1,New Delhi,Civil Lines,15,16,1.0666666666666667
+216,Augusta,Augusta,15,22,1.4666666666666666
+216,Davenport,Davenport,15,13,0.8666666666666667
+1,Gurgaon,"DLF South Point Mall, Golf Course Road",15,19,1.2666666666666666
+1,New Delhi,Ashok Vihar Phase 2,14,10,0.7142857142857143
+1,New Delhi,Zakir Nagar,14,11,0.7857142857142857
+1,Noida,"Gardens Galleria, Sector 38 Noida",14,16,1.1428571428571428
+1,New Delhi,"Worldmark 1, Aerocity",14,18,1.2857142857142858
+1,Faridabad,Sector 21,14,14,1.0
+216,Waterloo,Cedar Falls,13,20,1.5384615384615385
+1,New Delhi,Adchini,13,15,1.1538461538461537
+1,Noida,Sector 58,13,8,0.6153846153846154
+1,Noida,Sector 34,13,11,0.8461538461538461
+1,New Delhi,PVR Anupam Complex,13,16,1.2307692307692308
+1,New Delhi,"Living Style Mall, Jasola",13,12,0.9230769230769231
+1,New Delhi,"DLF Promenade Mall, Vasant Kunj",13,15,1.1538461538461537
+1,New Delhi,Sarojini Nagar,13,9,0.6923076923076923
+1,Noida,Sector 38,13,11,0.8461538461538461
+1,Gurgaon,"Qutab Plaza, DLF Phase 1",13,14,1.0769230769230769
+1,Noida,"Jaipuria Plaza, Sector 26, Noida",13,10,0.7692307692307693
+1,New Delhi,South Extension 1,13,13,1.0
+1,Faridabad,"Crown Interiorz Mall, Sector 35, Faridabad",12,14,1.1666666666666667
+1,New Delhi,"DLF Place Mall, Saket",12,21,1.75
+216,Pensacola,Pensacola,12,19,1.5833333333333333
+1,Noida,Sector 63,12,9,0.75
+1,Lucknow,Gomti Nagar,12,14,1.1666666666666667
+1,Gurgaon,Sector 23,12,11,0.9166666666666666
+1,New Delhi,Chawri Bazar,12,7,0.5833333333333334
+1,New Delhi,"Ambience Mall, Vasant Kunj",12,23,1.9166666666666667
+1,Gurgaon,Sector 15,11,9,0.8181818181818182
+1,Noida,Sector 16,11,11,1.0
+1,Faridabad,Sector 43,11,11,1.0
+1,Faridabad,Sector 86,11,8,0.7272727272727273
+1,New Delhi,Ashok Vihar Phase 3,11,9,0.8181818181818182
+1,Noida,Sector 48,10,8,0.8
+1,New Delhi,Pandara Road Market,10,7,0.7
+1,New Delhi,Model Town 3,10,9,0.9
+1,Faridabad,Sector 17,10,5,0.5
+1,New Delhi,JNU,10,8,0.8
+216,Macon,Macon,10,15,1.5
+1,Gurgaon,Sector 7,10,9,0.9
+1,New Delhi,Nizamuddin,10,9,0.9
+1,Gurgaon,"Central Plaza Mall, Golf Course Road",10,16,1.6
+1,Gurgaon,DLF Phase 2,10,9,0.9
+1,Bhubaneshwar,Patia,9,11,1.2222222222222223
+1,New Delhi,Lado Sarai,9,9,1.0
+215,Edinburgh,Old Town,9,14,1.5555555555555556
+1,New Delhi,Bhikaji Cama Place,9,12,1.3333333333333333
+216,Cedar Rapids/Iowa City,Iowa City,9,11,1.2222222222222223
+1,Faridabad,Badarpur Border,9,6,0.6666666666666666
+1,New Delhi,"Palate of Delhi, Chanakyapuri",9,11,1.2222222222222223
+216,Macon,Warner Robins,9,14,1.5555555555555556
+1,Noida,Sector 2,9,8,0.8888888888888888
+1,Gurgaon,Sector 22,9,7,0.7777777777777778
+1,New Delhi,"Vasant Square Mall, Vasant Kunj",9,12,1.3333333333333333
+1,Noida,Sector 22,9,5,0.5555555555555556
+1,New Delhi,"The Imperial, Janpath",9,14,1.5555555555555556
+1,Faridabad,Sector 7,9,8,0.8888888888888888
+1,Noida,Sector 45,9,9,1.0
+1,Faridabad,Sector 31,9,7,0.7777777777777778
+1,Nashik,College Road,8,5,0.625
+1,Agra,Tajganj,8,9,1.125
+1,New Delhi,"Ansal Plaza Mall, Khel Gaon Marg",8,12,1.5
+216,Cedar Rapids/Iowa City,Cedar Rapids,8,13,1.625
+216,Dalton,Dalton,8,10,1.25
+1,Vadodara,Vadiwadi,8,10,1.25
+1,Vadodara,Alkapuri,8,10,1.25
+1,Gurgaon,"Cross Point Mall, DLF Phase 4",8,15,1.875
+1,New Delhi,Patparganj,8,8,1.0
+1,Faridabad,Sector 10,8,8,1.0
+1,Puducherry,White Town,8,8,1.0
+1,New Delhi,Okhla Phase 1,8,6,0.75
+1,New Delhi,Narela,8,6,0.75
+1,New Delhi,"The India Mall, New Friends Colony",8,13,1.625
+1,New Delhi,Rajendra Place,8,8,1.0
+1,Noida,Sector 31,8,4,0.5
+1,New Delhi,"The Lalit New Delhi, Barakhamba Road",8,12,1.5
+1,Gurgaon,"One Horizon Center, Golf Course Road",8,16,2.0
+1,Indore,Vijay Nagar,8,9,1.125
+1,Noida,"Ganga Shopping Complex, Sector 29",8,7,0.875
+1,Noida,Sector 125,8,10,1.25
+1,Gurgaon,South City 2,8,9,1.125
+1,Noida,Sector 11,8,8,1.0
+216,Rest of Hawaii,Waikiki,7,9,1.2857142857142858
+1,Aurangabad,CIDCO,7,8,1.1428571428571428
+1,New Delhi,"DLF South Square, Sarojini Nagar",7,15,2.142857142857143
+1,Gurgaon,"Vyapar Kendra, Palam Vihar",7,7,1.0
+1,Noida,Sector 59,7,7,1.0
+1,Gurgaon,"Global Foyer Mall, Golf Course Road",7,12,1.7142857142857142
+1,New Delhi,Chander Nagar,7,6,0.8571428571428571
+1,New Delhi,"The Taj Mahal Hotel, Mansingh Road",7,11,1.5714285714285714
+1,New Delhi,"Star City Mall, Mayur Vihar Phase 1",7,9,1.2857142857142858
+1,Gurgaon,"DT City Centre Mall, MG Road",7,7,1.0
+1,New Delhi,"The Claridges, Aurangzeb Road",7,11,1.5714285714285714
+1,New Delhi,Sunder Nagar,7,11,1.5714285714285714
+1,Gurgaon,"Huda City Centre Metro Station, Sector 29, Gurgaon",7,8,1.1428571428571428
+1,Coimbatore,Race Course,7,13,1.8571428571428572
+1,Noida,Sector 29,7,6,0.8571428571428571
+191,Colombo,"Kollupitiya, Colombo 03",7,14,2.0
+1,Hyderabad,Jubilee Hills,7,13,1.8571428571428572
+1,Gurgaon,Sector 21,7,8,1.1428571428571428
+1,Noida,Sector 10,7,6,0.8571428571428571
+1,Noida,"MSX Mall, Greater Noida",7,6,0.8571428571428571
+1,Mysore,Vijay Nagar,7,10,1.4285714285714286
+1,Amritsar,Town Hall,7,5,0.7142857142857143
+216,Waterloo,Waterloo,7,8,1.1428571428571428
+1,Mangalore,Balmatta,7,10,1.4285714285714286
+1,Noida,Sector 71,7,3,0.42857142857142855
+1,New Delhi,"Sangam Courtyard, RK Puram",7,11,1.5714285714285714
+1,New Delhi,Okhla Phase 2,6,8,1.3333333333333333
+1,New Delhi,"Radisson Blu Plaza Delhi, Mahipalpur",6,8,1.3333333333333333
+30,Brasília,Asa Sul,6,6,1.0
+1,New Delhi,India Gate,6,6,1.0
+216,Des Moines,Downtown,6,12,2.0
+216,Gainesville,Gainesville,6,8,1.3333333333333333
+1,New Delhi,"ITC Maurya, Chanakyapuri",6,11,1.8333333333333333
+1,New Delhi,"The Ashok, Chanakyapuri",6,9,1.5
+1,Bangalore,Indiranagar,6,10,1.6666666666666667
+1,Gurgaon,"Shopping Mall, DLF Phase 1",6,7,1.1666666666666667
+1,Noida,Sector 65,6,5,0.8333333333333334
+1,New Delhi,"MGM Club, Daryaganj",6,4,0.6666666666666666
+216,Orlando,Winter Park,6,9,1.5
+1,New Delhi,"Hotel The Royal Plaza, Janpath",6,10,1.6666666666666667
+1,New Delhi,"Hyatt Regency, Bhikaji Cama Place",6,10,1.6666666666666667
+1,Ranchi,Lalpur,6,7,1.1666666666666667
+1,Noida,Sector 25,6,7,1.1666666666666667
+1,Faridabad,Charmwood Village,6,4,0.6666666666666666
+1,Jaipur,C Scheme,6,13,2.1666666666666665
+1,Noida,Sector 28,6,6,1.0
+1,New Delhi,"Le Meridien, Janpath",6,7,1.1666666666666667
+1,Gurgaon,"MGF Metropolis Mall, MG Road",6,10,1.6666666666666667
+1,New Delhi,"District Centre, Janakpuri",6,7,1.1666666666666667
+1,New Delhi,Wazirpur,6,6,1.0
+1,Noida,Sector 47,6,4,0.6666666666666666
+1,Guwahati,Uzan Bazaar,5,11,2.2
+216,Pensacola,Pensacola Beach,5,6,1.2
+1,Amritsar,Ranjit Avenue,5,8,1.6
+216,Davenport,Bettendorf,5,11,2.2
+1,New Delhi,"Jaypee Vasant Continental, Vasant Vihar",5,6,1.2
+216,Tampa Bay,Hyde Park,5,8,1.6
+1,Ahmedabad,Bodakdev,5,9,1.8
+216,Rest of Hawaii,Lahaina,5,6,1.2
+1,Gurgaon,"Unitech Cyber Park, Sector 39, Gurgaon",5,5,1.0
+1,Bhopal,Maharana Pratap Nagar,5,10,2.0
+1,Chandigarh,Sector 35,5,11,2.2
+1,Chandigarh,"Elante Mall, Chandigarh Industrial Area",5,13,2.6
+1,Bhopal,Arera Colony,5,4,0.8
+216,Gainesville,Dahlonega,5,10,2.0
+1,Ghaziabad,Indirapuram,5,5,1.0
+1,Dehradun,Rajpur,5,7,1.4
+1,Ludhiana,"Main Market, Sarabha Nagar",5,11,2.2
+1,New Delhi,"Spark Mall, Kamla Nagar",5,5,1.0
+1,Gurgaon,DLF Cyber City,5,8,1.6
+1,New Delhi,"Aggarwal City Plaza, Rohini",5,9,1.8
+1,New Delhi,"MGF Metropolitan Mall, Saket",5,9,1.8
+1,New Delhi,"The Leela Palace, Chanakyapuri",5,8,1.6
+1,New Delhi,"Cross River Mall, Karkardooma",5,8,1.6
+1,Noida,Sector 33,5,7,1.4
+1,New Delhi,Moti Bagh,5,6,1.2
+1,Noida,"Tulip Mall, Sector 48, Noida",5,4,0.8
+1,Noida,Sector 3,5,4,0.8
+1,Coimbatore,Peelamedu,5,7,1.4
+1,New Delhi,"DLF City Centre Mall, Shalimar Bagh",5,5,1.0
+1,New Delhi,"D Mall, Netaji Subhash Place",5,10,2.0
+1,New Delhi,"Unity One Mall, Janakpuri",5,9,1.8
+1,Noida,"Ansal Plaza Mall, Greater Noida",5,5,1.0
+1,New Delhi,"Eros Hotel, Nehru Place",5,8,1.6
+1,Faridabad,Sector 9,5,5,1.0
+1,Nagpur,Bajaj Nagar,5,7,1.4
+1,Faridabad,Sector 12,5,5,1.0
+1,Noida,Sector 52,5,2,0.4
+1,New Delhi,"Shangri La's - Eros hotel, Janpath",5,12,2.4
+1,Noida,Sector 61,5,6,1.2
+1,Noida,Sector 56,5,6,1.2
+1,New Delhi,Greater Kailash (GK) 3,5,8,1.6
+1,Puducherry,MG Road,5,7,1.4
+1,New Delhi,"JMD Kohinoor Mall, Greater Kailash",5,7,1.4
+1,Gurgaon,"DT Mega Mall, DLF Phase 1",5,6,1.2
+1,Bhubaneshwar,Chandrasekharpur,4,10,2.5
+216,Augusta,Evans,4,5,1.25
+215,Edinburgh,New Town,4,5,1.25
+1,Aurangabad,Nirala Bazar,4,6,1.5
+215,Manchester,Northern Quarter,4,6,1.5
+1,Guwahati,Christian Basti,4,7,1.75
+1,Gurgaon,Sikandarpur,4,4,1.0
+1,Noida,"Jaypee Greens Golf & Spa Resort, Surajpur",4,4,1.0
+1,Noida,Brahmaputra Shopping Complex,4,6,1.5
+1,New Delhi,West Patel Nagar,4,4,1.0
+1,Guwahati,Zoo Tiniali,4,8,2.0
+1,Noida,Sector 19,4,4,1.0
+1,Noida,"Centre Stage Mall, Sector 18",4,14,3.5
+1,New Delhi,"The Taj Palace Hotel, Chanakyapuri",4,4,1.0
+1,New Delhi,Delhi Cantt.,4,8,2.0
+191,Colombo,"Cinnamon Gardens, Colombo 07",4,6,1.5
+1,Gurgaon,"Park Plaza, Sushant Lok",4,8,2.0
+208,İstanbul,Karak�_y,4,6,1.5
+1,Gurgaon,"MGF Mega City Mall, MG Road",4,8,2.0
+1,Kanpur,Mall Road,4,7,1.75
+215,Edinburgh,Leith,4,7,1.75
+1,Gurgaon,DLF Phase 5,4,8,2.0
+1,Kolkata,Ballygunge,4,9,2.25
+1,Kolkata,Park Street Area,4,4,1.0
+1,New Delhi,Aerocity,4,9,2.25
+1,New Delhi,"Aditya Mega Mall, Karkardooma",4,7,1.75
+1,Noida,Sector 49,4,6,1.5
+1,New Delhi,"The Suryaa New Delhi, New Friends Colony",4,8,2.0
+1,Nashik,Satpur,4,6,1.5
+1,New Delhi,The Leela Ambience Convention Hotel,4,4,1.0
+1,New Delhi,"Crescent Square Mall, Rohini",4,6,1.5
+1,Faridabad,"Crown Plaza Mall, Sector 15, Faridabad",4,7,1.75
+1,Goa,Panaji,4,7,1.75
+1,Gurgaon,"Ansal Plaza Mall, Palam Vihar",4,4,1.0
+1,Surat,Piplod,4,8,2.0
+1,Surat,Vesu,4,8,2.0
+30,Brasília,Asa Norte,4,5,1.25
+1,New Delhi,Mandi House,4,3,0.75
+1,New Delhi,Panchsheel Park,4,6,1.5
+1,Patna,Fraser Road Area,4,5,1.25
+1,Patna,Golambar,4,10,2.5
+1,Pune,Koregaon Park,4,15,3.75
+1,Faridabad,Sector 28,4,7,1.75
+1,Faridabad,Sector 35,4,7,1.75
+1,Faridabad,Sector 46,4,6,1.5
+216,Rest of Hawaii,Kihei,4,6,1.5
+216,Tampa Bay,Downtown St Petersburg,4,11,2.75
+1,Faridabad,Sector 11,4,3,0.75
+1,Faridabad,NIT,4,3,0.75
+1,New Delhi,ITO,4,5,1.25
+1,New Delhi,INA,4,9,2.25
+216,Orlando,I-Drive/Universal,4,6,1.5
+216,Gainesville,Helen,4,6,1.5
+1,Amritsar,INA Colony,3,3,1.0
+216,Gainesville,Flowery Branch,3,5,1.6666666666666667
+216,Dalton,Ringgold,3,4,1.3333333333333333
+216,Dalton,Fort Oglethorpe,3,4,1.3333333333333333
+216,Dalton,Calhoun,3,5,1.6666666666666667
+1,New Delhi,"Fun City Mall, Prashant Vihar",3,5,1.6666666666666667
+1,New Delhi,Karampura,3,2,0.6666666666666666
+216,Tampa Bay,Seminole Heights,3,7,2.3333333333333335
+1,Faridabad,Sector 42,3,4,1.3333333333333333
+1,Faridabad,Sector 41,3,4,1.3333333333333333
+1,Pune,Kalyani Nagar,3,8,2.6666666666666665
+1,Patna,Sri Krishnapuri,3,3,1.0
+1,Goa,Baga,3,5,1.6666666666666667
+1,Surat,Athwa,3,6,2.0
+1,Surat,Adajan Gam,3,7,2.3333333333333335
+1,Faridabad,"Parsavnath City Mall, Sector 12, Faridabad",3,4,1.3333333333333333
+1,Faridabad,"Hotel Saffron Kiran, Faridabad",3,4,1.3333333333333333
+1,Ranchi,Kanka,3,5,1.6666666666666667
+1,Ranchi,Hindpiri,3,4,1.3333333333333333
+1,Mumbai,Lower Parel,3,5,1.6666666666666667
+1,Nashik,Anand Wali Goan,3,2,0.6666666666666666
+1,Nagpur,Sitabuldi,3,8,2.6666666666666665
+1,Nagpur,Dharampeth,3,3,1.0
+1,Nagpur,Civil Lines,3,4,1.3333333333333333
+1,Mysore,Jayalakhsmipuram,3,6,2.0
+1,New Delhi,"Metro Walk Mall, Rohini",3,7,2.3333333333333335
+1,New Delhi,"Pride Plaza Hotel, Aerocity",3,3,1.0
+1,Mangalore,Kadri,3,7,2.3333333333333335
+1,Goa,Anjuna,3,5,1.6666666666666667
+1,Patna,Lodipur,3,5,1.6666666666666667
+1,Mysore,Gokulam,3,6,2.0
+1,Mysore,Chamrajpura,3,4,1.3333333333333333
+1,Mumbai,Malad West,3,9,3.0
+1,Dehradun,Jakhan,3,4,1.3333333333333333
+1,Dehradun,Hathibarkala Salwala,3,9,3.0
+30,Rio de Janeiro,Ipanema,3,5,1.6666666666666667
+30,Rio de Janeiro,Copacabana,3,6,2.0
+30,Brasília,�guas Claras,3,5,1.6666666666666667
+1,Varanasi,Lanka,3,3,1.0
+1,Varanasi,Dashaswmedh Road,3,3,1.0
+1,Varanasi,Bhelupur,3,4,1.3333333333333333
+1,Surat,City Light,3,6,2.0
+1,New Delhi,"Maidens Hotel, Civil Lines",3,4,1.3333333333333333
+1,Ludhiana,Gurdev Nagar,3,7,2.3333333333333335
+1,Noida,Sector 7,3,4,1.3333333333333333
+1,Noida,Sector 60,3,3,1.0
+1,New Delhi,"Roseate House, Aerocity",3,5,1.6666666666666667
+1,New Delhi,"Taj Vivanta, Khan Market",3,6,2.0
+1,New Delhi,"TDI Mall, Rajouri Garden",3,6,2.0
+1,Lucknow,Hazratganj,3,7,2.3333333333333335
+1,Noida,Sector 5,3,4,1.3333333333333333
+1,New Delhi,"Sheraton New Delhi Hotel, Saket",3,7,2.3333333333333335
+1,New Delhi,"Aggarwal City Mall, Pitampura",3,4,1.3333333333333333
+1,New Delhi,"Bellagio, Ashok Vihar Phase 2",3,5,1.6666666666666667
+1,New Delhi,Asaf Ali Road,3,3,1.0
+189,Johannesburg,Parkhurst,3,5,1.6666666666666667
+189,Cape Town,Green Point,3,6,2.0
+189,Cape Town,CBD,3,4,1.3333333333333333
+184,Singapore,"Marina Centre, Downtown Core",3,9,3.0
+1,New Delhi,"The Park, Connaught Place",3,8,2.6666666666666665
+1,Kochi,Panampilly Nagar,3,11,3.6666666666666665
+1,Kochi,Kakkanad,3,7,2.3333333333333335
+1,Kochi,Kacheripady,3,8,2.6666666666666665
+1,Noida,Sector 39,3,3,1.0
+1,Gurgaon,"Le Meridien Gurgaon, MG Road",3,2,0.6666666666666666
+1,Gurgaon,"Hong Kong Bazaar Mall, Sector 57, Gurgaon",3,9,3.0
+1,Kanpur,Swaroop Nagar,3,5,1.6666666666666667
+162,Pasig City,Kapitolyo,3,5,1.6666666666666667
+162,Mandaluyong City,"SM Megamall, Ortigas, Mandaluyong City",3,4,1.3333333333333333
+148,Wellington City,Wellington Central,3,5,1.6666666666666667
+148,Auckland,Mt Eden,3,4,1.3333333333333333
+148,Auckland,Britomart,3,3,1.0
+30,São Paulo,Jardim Paulista,3,6,2.0
+30,São Paulo,Itaim Bibi,3,4,1.3333333333333333
+1,New Delhi,"City Square Mall, Rajouri Garden",3,5,1.6666666666666667
+215,Birmingham,"Bullring Shopping Centre, Southside",3,4,1.3333333333333333
+214,Sharjah,University City,3,5,1.6666666666666667
+214,Sharjah,Al Majaz,3,5,1.6666666666666667
+1,Gurgaon,Omaxe Gurgaon Mall,3,8,2.6666666666666665
+1,Gurgaon,"Leisure Inn, Sector 14, Gurgaon",3,4,1.3333333333333333
+1,Noida,Sector 26,3,6,2.0
+1,Kanpur,Ashok Nagar,3,6,2.0
+1,New Delhi,Uday Park,3,5,1.6666666666666667
+1,New Delhi,"The Village Restaurant Complex, Khel Gaon Marg",3,5,1.6666666666666667
+1,New Delhi,"The Uppal, Aerocity",3,6,2.0
+214,Sharjah,Abu Shagara,3,6,2.0
+214,Dubai,"The Dubai Mall,Downtown Dubai",3,5,1.6666666666666667
+214,Abu Dhabi,Najda,3,6,2.0
+208,Ankara,Gazi Osman Pa��a,3,4,1.3333333333333333
+189,Pretoria,Waterkloof,3,11,3.6666666666666665
+1,Chennai,Velachery,3,6,2.0
+189,Pretoria,Brooklyn,3,5,1.6666666666666667
+1,New Delhi,Essex Farms,3,9,3.0
+1,Noida,"Hotel Golf View, Sector 37, Noida",3,4,1.3333333333333333
+1,Noida,"Harsha Mall, Greater Noida",3,2,0.6666666666666666
+1,Noida,Sector 21,3,3,1.0
+1,Noida,Sector 20,3,3,1.0
+1,Gurgaon,Sector 43,3,5,1.6666666666666667
+1,Indore,New Palasia,3,8,2.6666666666666665
+1,Gurgaon,"The Westin Gurgaon, Sector 29",3,6,2.0
+1,Gurgaon,"The Bristol Hotel, DLF Phase 1",3,6,2.0
+1,Noida,"Park Plaza Hotel, Sector 55, Noida",3,4,1.3333333333333333
+1,Gurgaon,Sector 12,3,2,0.6666666666666666
+1,Gurgaon,"Raheja Mall, Sohna Road",3,6,2.0
+1,Gurgaon,Sector 8,3,3,1.0
+1,Gurgaon,"Two Horizon Center, Golf Course Road",3,9,3.0
+1,Bhopal,TT Nagar,3,5,1.6666666666666667
+1,Bhopal,"DB City, Maharana Pratap Nagar",3,3,1.0
+215,Manchester,Spinningfields,3,4,1.3333333333333333
+1,Bangalore,Koramangala 5th Block,3,9,3.0
+1,Amritsar,White Avenue,3,2,0.6666666666666666
+1,Agra,Agra Cantt,3,2,0.6666666666666666
+1,Agra,"ITC Mughal, Tajganj",2,2,1.0
+1,Amritsar,Basant Nagar,2,2,1.0
+216,Pocatello,Lava Hot Springs,2,4,2.0
+216,Savannah,Tybee Island,2,1,0.5
+1,New Delhi,"Holiday Inn, Mayur Vihar",2,6,3.0
+1,New Delhi,"Hotel Broadway, Daryaganj",2,6,3.0
+1,New Delhi,"Hotel City Park, Pitampura",2,3,1.5
+1,New Delhi,"Hotel Classic Diplomat, Mahipalpur",2,4,2.0
+1,New Delhi,"Hotel Regent Grand, Karol Bagh",2,3,1.5
+1,New Delhi,"Jaypee Siddharth, Rajendra Place",2,3,1.5
+1,New Delhi,Kapashera,2,1,0.5
+1,New Delhi,Feroze Shah Road,2,3,1.5
+1,Bangalore,Marathahalli,2,4,2.0
+216,Des Moines,Clive,2,4,2.0
+216,Des Moines,East Village,2,5,2.5
+216,Des Moines,West Des Moines,2,3,1.5
+1,Aurangabad,Usmanpura,2,5,2.5
+1,Bhubaneshwar,"BMC Bhawani Mall, Sahid Nagar",2,2,1.0
+216,Cedar Rapids/Iowa City,Coralville,2,4,2.0
+216,Des Moines,Ames,2,5,2.5
+1,New Delhi,"Ginger Hotel, Vivek Vihar",2,3,1.5
+1,New Delhi,Lajpat Nagar 4,2,4,2.0
+1,New Delhi,"Crowne Plaza Hotel, Rohini",2,4,2.0
+1,New Delhi,"Crowne Plaza, Mayur Vihar Phase 1",2,4,2.0
+1,New Delhi,"DDA Market, Kalu Sarai, Hauz Khas",2,3,1.5
+1,New Delhi,"DLF Emporio Mall, Vasant Kunj",2,6,3.0
+215,Manchester,Cheetham Hill,2,5,2.5
+215,Manchester,Deansgate,2,4,2.0
+215,Manchester,Market Street,2,2,1.0
+215,Manchester,Oxford Road,2,4,2.0
+215,Manchester,Rusholme,2,3,1.5
+215,Manchester,"The Midland, Deansgate",2,4,2.0
+1,Bangalore,Sarjapur Road,2,6,3.0
+215,London,"Upper St Martin's Lane, Covent Garden",2,5,2.5
+1,Bhubaneshwar,Sahid Nagar,2,4,2.0
+1,Chandigarh,Sector 26,2,4,2.0
+1,Chandigarh,Sector 7,2,3,1.5
+1,Chandigarh,Sector 8,2,4,2.0
+1,Chennai,Anna Nagar East,2,7,3.5
+1,New Delhi,Anand Lok,2,7,3.5
+1,New Delhi,Mathura Road,2,2,1.0
+1,New Delhi,Friends Colony,2,2,1.0
+215,London,Mayfair,2,4,2.0
+215,Birmingham,City Centre,2,2,1.0
+215,Birmingham,Moseley,2,5,2.5
+214,Sharjah,Al Mareija,2,5,2.5
+214,Sharjah,Al Nahda,2,5,2.5
+214,Abu Dhabi,"World Trade Center Mall, Al Markaziya",2,2,1.0
+214,Dubai,Al Karama,2,2,1.0
+208,İstanbul,Kuru�_e��me,2,3,1.5
+214,Abu Dhabi,"Abu Dhabi Mall, Tourist Club Area  (Al Zahiyah)",2,1,0.5
+214,Abu Dhabi,Al Dhafrah,2,5,2.5
+214,Abu Dhabi,"Al Wahda Mall, Al Wahda",2,3,1.5
+1,Nashik,"Bon Vivant, College Road",2,3,1.5
+1,Mumbai,Borivali West,2,8,4.0
+1,Mumbai,Powai,2,5,2.5
+208,Ankara,Balgat,2,2,1.0
+208,Ankara,K۱z۱lay,2,3,1.5
+208,Ankara,K�_�_�_k Esat,2,3,1.5
+189,Sandton,Bryanston,2,4,2.0
+189,Sandton,"Pineslopes Shopping Centre, Fourways",2,2,1.0
+191,Colombo,"Bambalapitiya, Colombo 04",2,3,1.5
+191,Colombo,"Havelock Town, Colombo 05",2,5,2.5
+189,Pretoria,"Menlyn Shopping Centre, Menlyn",2,6,3.0
+189,Pretoria,"The Club Centre, Hazelwood, Near Waterkloof",2,7,3.5
+1,Chennai,Nungambakkam,2,3,1.5
+1,Chennai,T. Nagar,2,8,4.0
+1,Coimbatore,RS Puram,2,4,2.0
+1,Coimbatore,Saibaba Colony,2,5,2.5
+1,New Delhi,Pragati Maidan,2,4,2.0
+1,Mangalore,Lalbagh,2,4,2.0
+189,Cape Town,Sea Point,2,5,2.5
+189,Cape Town,V & A Waterfront,2,5,2.5
+189,Cape Town,"Victoria Wharf, V & A Waterfront",2,6,3.0
+189,Pretoria,Faerie Glen,2,14,7.0
+184,Singapore,"Lavender, Kallang",2,4,2.0
+189,Cape Town,Gardens,2,3,1.5
+166,Doha,Umm Ghuwailina,2,2,1.0
+162,Taguig City,"SM Aura Premier, Bonifacio Global City, Taguig City",2,6,3.0
+162,Pasay City,"SM by the Bay, Mall of Asia Complex, Pasay City",2,4,2.0
+94,Jakarta,Senopati,2,2,1.0
+148,Auckland,Federal Street,2,4,2.0
+1,New Delhi,"Premier Inn, Shalimar Bagh",2,2,1.0
+1,New Delhi,"Radisson Blu, Paschim Vihar",2,3,1.5
+1,Ludhiana,Civil Lines,2,7,3.5
+94,Jakarta,"Grand Indonesia Mall, Thamrin",2,5,2.5
+30,Rio de Janeiro,Leblon,2,4,2.0
+30,Rio de Janeiro,Leme,2,2,1.0
+30,São Paulo,"Bela Vista, Centro",2,4,2.0
+30,São Paulo,Consola�_��o,2,2,1.0
+30,São Paulo,Rep�_blica,2,2,1.0
+1,Dehradun,Chukkuwala,2,3,1.5
+1,Dehradun,Karanpur,2,3,1.5
+1,Vizag,Siripuram,2,6,3.0
+14,Hepburn Springs,Hepburn Springs,2,5,2.5
+1,Varanasi,Nadesar,2,3,1.5
+1,Varanasi,"Radisson Hotel, Nadesar",2,4,2.0
+1,Varanasi,Sigra,2,3,1.5
+1,Vizag,Dwaraka Nagar,2,4,2.0
+1,Vizag,Kirlampudi Layout,2,6,3.0
+1,Vizag,Lawsons Bay,2,6,3.0
+1,Vizag,Maharani Peta,2,6,3.0
+1,Faridabad,"Eldeco Station 1 Mall, Sector 12, Faridabad",2,3,1.5
+1,New Delhi,Shanti Niketan Marg,2,3,1.5
+1,Kolkata,"Acropolis Mall, Kasba",2,6,3.0
+1,Kolkata,"Sector 5, Salt Lake",2,5,2.5
+1,Faridabad,Sector 19,2,3,1.5
+1,Varanasi,Assi Ghat,2,3,1.5
+1,Faridabad,Sector 34,2,5,2.5
+1,Pune,Senapati Bapat Road,2,4,2.0
+1,Ranchi,Harmu,2,5,2.5
+1,Goa,Candolim,2,4,2.0
+1,Puducherry,Auroville,2,3,1.5
+1,Puducherry,"The Promenade, White Town",2,11,5.5
+1,Pune,Baner,2,5,2.5
+1,Faridabad,Sector 29,2,2,1.0
+1,Noida,Sector 8,2,2,1.0
+1,New Delhi,"Southern Park Mall, Saket",2,5,2.5
+1,New Delhi,"The Grand New Delhi, Vasant Kunj",2,5,2.5
+1,Kochi,Edappally,2,1,0.5
+1,Kochi,Kaloor,2,3,1.5
+1,Kochi,"LuLu Mall, Edappally",2,9,4.5
+1,Noida,"Shopprix Mall, Sector 61, Noida",2,5,2.5
+1,Patna,Khajpura,2,3,1.5
+1,Faridabad,"The Atrium, Suraj Kund",2,3,1.5
+1,Ghaziabad,Surya Nagar,2,4,2.0
+1,Gurgaon,"DoubleTree by Hilton, Sector 56",2,3,1.5
+1,Gurgaon,"Fortune Select Excalibur, Sohna Road",2,3,1.5
+1,Noida,Sector 55,2,1,0.5
+1,Gurgaon,"Ambience Mall, Gurgaon",2,5,2.5
+1,Gurgaon,"Best Western Skycity Hotel, Sector 15, Gurgaon",2,4,2.0
+1,Gurgaon,"Country Inn & Suites by Carlson, Sector 12",2,4,2.0
+1,Gurgaon,"Courtyard by Marriott, Sushant Lok",2,3,1.5
+1,Gurgaon,"Crowne Plaza, Sector 29",2,4,2.0
+1,New Delhi,"The Lodhi, Lodhi Road",2,5,2.5
+1,Jaipur,Civil Lines,2,6,3.0
+1,Jaipur,"Holiday Inn Jaipur City Centre, Bais Godam",2,5,2.5
+1,Jaipur,Lal Kothi,2,6,3.0
+1,Jaipur,Vaishali Nagar,2,8,4.0
+1,Gurgaon,"Hotel Clark Inn, Sector 15",2,2,1.0
+1,Gurgaon,"Hotel Grenville, MG Road",2,3,1.5
+1,Gurgaon,"Hotel Haute.Monde, Sector 15",2,4,2.0
+1,Gurgaon,Hyatt Place Gurgaon,2,2,1.0
+1,Gurgaon,"ILD Trade Centre Mall, Sohna Road",2,4,2.0
+1,Gurgaon,"JMD Regent Arcade Mall, MG Road",2,4,2.0
+1,Gurgaon,"Kingdom of Dreams, Sector 29",2,2,1.0
+1,Noida,Sector 4,2,7,3.5
+1,Noida,Sector 40,2,3,1.5
+1,Gurgaon,"DLF Star Mall, Sector 30",2,4,2.0
+1,New Delhi,Vikas Marg,2,4,2.0
+1,New Delhi,"West End Mall, Janak Puri",2,4,2.0
+1,Hyderabad,Madhapur,2,5,2.5
+1,Indore,Bhawar Kuan,2,5,2.5
+1,Indore,Old Palasia,2,5,2.5
+1,Gurgaon,Sector 50,2,2,1.0
+1,Gurgaon,Sector 54,2,6,3.0
+1,Gurgaon,Sector 57,2,2,1.0
+1,Gurgaon,South City 1,2,4,2.0
+1,Gurgaon,"Suncity Business Tower, Golf Course Road",2,9,4.5
+1,Gurgaon,Sadar Bazar,2,2,1.0
+1,Gurgaon,"Sahara Mall, MG Road",2,8,4.0
+1,Gurgaon,Sector 30,2,7,3.5
+1,Noida,Sector 30,2,6,3.0
+1,Gurgaon,"Ninex City Mart Mall, Sohna Road",2,3,1.5
+1,Hyderabad,Hitech City,2,7,3.5
+1,New Delhi,"ibis New Delhi, Aerocity",2,3,1.5
+1,Noida,"Fortune Inn Grazia, Sector 27, Noida",2,3,1.5
+1,Gurgaon,"Vivanta by Taj, Sector 44, Gurgaon",2,7,3.5
+1,Guwahati,"Anil Plaza, Christian Basti",2,5,2.5
+1,Guwahati,Chandmari,2,1,0.5
+1,Guwahati,Ulubari,2,2,1.0
+1,Hyderabad,Banjara Hills,2,7,3.5
+1,Noida,"Jaypee Greens, Greater Noida, Noida",2,3,1.5
+1,Noida,"Logix Cyber Park, Sector 62, Noida",2,3,1.5
+1,Noida,"Mosaic Hotels, Sector 18, Noida",2,4,2.0
+1,Noida,Sector 1,2,5,2.5
+1,Gurgaon,"The Habitare Hotel, Sector 14",2,3,1.5
+1,Gurgaon,"The Westin Sohna Resort & Spa, Sohna Road",2,2,1.0
+1,Gurgaon,"Trident, Udyog Vihar",2,2,1.0
+1,Agra,"Radisson Blu, Tajganj",2,4,2.0
+1,Ahmedabad,Ellis Bridge,2,5,2.5
+1,Ahmedabad,Gurukul,2,7,3.5
+216,Orlando,Disney: Downtown Disney,2,4,2.0
+216,Orlando,Mills 50,2,4,2.0
+216,Pensacola,Perdido Key,2,4,2.0
+1,Ahmedabad,Navrangpura,2,5,2.5
+1,Ahmedabad,Vastrapur,2,5,2.5
+1,Agra,Civil Lines,2,4,2.0
+216,Winchester Bay,Winchester Bay,1,3,3.0
+1,Ahmedabad,"The Fern, Sola",1,4,4.0
+1,Ahmedabad,Thaltej,1,3,3.0
+1,Ahmedabad,Prahlad Nagar,1,7,7.0
+216,Pocatello,Chubbuck,1,3,3.0
+216,Pocatello,Blackfoot,1,2,2.0
+216,Vernonia,Vernonia,1,2,2.0
+216,Weirton,Weirton,1,3,3.0
+1,New Delhi,JW Marriott New Delhi,1,1,1.0
+1,New Delhi,Jor Bagh,1,2,2.0
+1,New Delhi,"Kasbah, Greater Kailash (GK) 1",1,2,2.0
+216,Orlando,Disney World Area,1,1,1.0
+1,Bangalore,Koramangala 6th Block,1,5,5.0
+1,Bangalore,Koramangala 7th Block,1,2,2.0
+1,Bangalore,New BEL Road,1,3,3.0
+216,Fernley,Fernley,1,1,1.0
+216,Gainesville,Braselton,1,3,3.0
+216,Gainesville,Clarkesville,1,3,3.0
+216,Lakeview,Lakeview,1,3,3.0
+216,Lincoln,Haymarket,1,1,1.0
+216,Macon,Bonaire,1,3,3.0
+216,Mc Millan,Mc Millan,1,2,2.0
+1,Gurgaon,"Woods Resort, Gurgaon",1,2,2.0
+1,Guwahati,Dispur,1,3,3.0
+1,Guwahati,Six Mile,1,3,3.0
+1,Hyderabad,"12th Square Building, Banjara Hills",1,3,3.0
+1,Hyderabad,Gachibowli,1,5,5.0
+1,Kanpur,IIT Kanpur,1,2,2.0
+1,Noida,"Park Ascent, Sector 62, Noida",1,3,3.0
+1,Noida,"Radisson Blu, Sector 18, Noida",1,4,4.0
+1,Noida,Sector 127,1,2,2.0
+1,Gurgaon,"The Claremont, MG Road",1,3,3.0
+1,Gurgaon,"The Galgotias, Sector 23",1,4,4.0
+1,Gurgaon,"The Oberoi, Udyog Vihar",1,1,1.0
+1,Gurgaon,"The Pllazio Hotel, Sector 29",1,3,3.0
+1,Gurgaon,"The Sapphire Mall, Sohna Road",1,2,2.0
+1,Indore,"Sayaji Hotel, Vijay Nagar",1,3,3.0
+1,Agra,Khandari,1,3,3.0
+1,New Delhi,"Worldmark 3, Aerocity",1,4,4.0
+1,Hyderabad,Holiday Inn Express & Suites,1,3,3.0
+1,Hyderabad,Kondapur,1,4,4.0
+1,Hyderabad,Ohri' Hitech City,1,2,2.0
+1,Indore,HIG-LIG,1,3,3.0
+1,Indore,"Infiniti Hotel, Vijay Nagar",1,2,2.0
+1,Indore,"Radisson Blu Hotel, Vijay Nagar",1,4,4.0
+1,Kochi,Palarivattom,1,4,4.0
+1,Gurgaon,Sector 53,1,2,2.0
+1,Gurgaon,"Ramada Gurgaon Central, Sector 44",1,4,4.0
+1,Gurgaon,"Lemon Tree Premier, Sector 29",1,3,3.0
+1,Gurgaon,"Omaxe Celebration Mall, Sohna Road, Gurgaon",1,3,3.0
+1,Gurgaon,"Park Inn, Sector 15, Gurgaon",1,3,3.0
+1,Indore,YN Road,1,4,4.0
+1,Jaipur,"Chokhi Dhani Village Resort, Tonk Road",1,1,1.0
+1,Noida,Golf Course,1,1,1.0
+1,Jaipur,"Hotel Clarks Amer, Malviya Nagar",1,3,3.0
+1,Jaipur,Malviya Nagar,1,4,4.0
+1,Jaipur,Tonk Road,1,5,5.0
+1,Jaipur,Vidhyadhar Nagar,1,4,4.0
+1,Kanpur,Arya Nagar,1,2,2.0
+1,Kanpur,Hotel Royal Cliff,1,2,2.0
+1,Kolkata,Southern Avenue,1,3,3.0
+1,Gurgaon,"Fortune Select Global, MG Road",1,3,3.0
+1,Gurgaon,"IBIS Hotel, Golf Course Road",1,3,3.0
+1,Gurgaon,"JMD Megapolis Mall, Sohna Road",1,2,2.0
+1,Gurgaon,"Jukaso It Suites, Sector 14",1,2,2.0
+1,Gurgaon,"Cyber Greens, DLF Cyber City",1,3,3.0
+1,Gurgaon,Sector 5,1,3,3.0
+1,Kanpur,Parade,1,6,6.0
+1,Kanpur,"Rave 3, Tilak Nagar",1,1,1.0
+1,New Delhi,"West Gate Mall, Rajouri Garden",1,3,3.0
+1,Goa,Arambol,1,2,2.0
+1,Goa,Betalbatim,1,4,4.0
+1,Goa,Calangute,1,3,3.0
+1,Noida,Sector 57,1,2,2.0
+1,Noida,Sector 6,1,1,1.0
+1,Goa,Nerul,1,1,1.0
+1,Goa,Vagator,1,1,1.0
+1,Gurgaon,"Central Arcade, DLF Phase 2, Gurgaon",1,2,2.0
+1,Gurgaon,"Country Inn & Suites By Carlson, Udyog Vihar",1,3,3.0
+1,Gurgaon,"Country Inn & Suites by Carlson, Gurgaon",1,3,3.0
+1,Gurgaon,"Country Inn & Suites, Sohna Road",1,4,4.0
+1,Gurgaon,"Plaza Mall, MG Road",1,2,2.0
+1,New Delhi,Tilak Marg,1,1,1.0
+1,New Delhi,Trilokpuri,1,2,2.0
+1,New Delhi,Tughlakabad Institutional Area,1,4,4.0
+1,Jaipur,"Devraj Niwas, Bani Park",1,7,7.0
+1,Kanpur,"Status Club, Kanpur Cantonment",1,3,3.0
+1,Kanpur,"The Landmark Hotel, Mall Road",1,2,2.0
+1,Kanpur,Tilak Nagar,1,3,3.0
+1,Kanpur,"Z Square Mall, Mall Road",1,5,5.0
+1,Kochi,Chittoor Road,1,1,1.0
+1,Kochi,Fort Kochi,1,2,2.0
+1,Kochi,"Grand Hotel, MG Road",1,4,4.0
+1,Ludhiana,Sarabha Nagar,1,3,3.0
+1,Noida,Sector 83,1,1,1.0
+1,Panchkula,Sector 9,1,3,3.0
+1,Patna,Anandpuri,1,4,4.0
+1,Patna,"Hotel Maurya, Lodipur",1,4,4.0
+1,Patna,"Maurya Lok, Fraser Road Area",1,2,2.0
+1,Faridabad,"Vibe by The LaLit Traveller, Mathura Road",1,3,3.0
+1,Ghaziabad,Kaushambi,1,1,1.0
+1,Goa,"Anjuna Beach, Anjuna",1,5,5.0
+1,Ranchi,"The Royal Retreat, Bariatu",1,3,3.0
+1,Faridabad,Dayal Bagh,1,1,1.0
+1,Goa,"Calangute Beach, Calangute",1,3,3.0
+1,Goa,Cavelossim,1,4,4.0
+1,Patna,Patliputra Colony,1,4,4.0
+1,Puducherry,Heritage Town,1,3,3.0
+1,Puducherry,"Hotel De Pondicherry, White Town",1,3,3.0
+1,Puducherry,"Villa Shanti, White Town",1,1,1.0
+1,Pune,"Balewadi High Street, Balewadi",1,2,2.0
+1,Pune,Deccan Gymkhana,1,2,2.0
+1,Pune,Law College Road,1,3,3.0
+1,Pune,"Phoenix Market City, Viman Nagar",1,3,3.0
+1,Faridabad,Sector 30,1,2,2.0
+1,Lucknow,Aminabad,1,2,2.0
+1,New Delhi,"T3 Domestic Arrival, Aerocity",1,1,1.0
+1,Kanpur,"Rave Moti, Kakadeo",1,1,1.0
+1,Surat,Nanpura,1,1,1.0
+1,Vadodara,Diwalipura,1,3,3.0
+1,Vadodara,"Hotel Express Towers, Alkapuri",1,1,1.0
+1,Vadodara,"M Cube Mall, Vadiwadi",1,4,4.0
+1,Vadodara,Panchvati,1,1,1.0
+1,Faridabad,Sector 49,1,3,3.0
+1,Pune,"R Deccan Mall, JM Road",1,2,2.0
+1,Pune,Ravet,1,3,3.0
+1,Pune,"Spot 18 Mall, Pimple Saudagar",1,3,3.0
+1,Pune,Viman Nagar,1,1,1.0
+1,Pune,Wakad,1,1,1.0
+1,Ranchi,Gandhi Nagar,1,2,2.0
+1,Ranchi,"Hotel Capitol Hill, Hindpiri",1,3,3.0
+1,Ranchi,Kadru,1,2,2.0
+1,Ranchi,"Radisson Blu, Hindpiri",1,2,2.0
+1,Ranchi,"Spring City Mall, Doranda",1,1,1.0
+1,Kolkata,Camac Street Area,1,4,4.0
+1,Kolkata,Elgin,1,2,2.0
+1,Kolkata,Golpark,1,2,2.0
+1,Kolkata,Kidderpore,1,4,4.0
+1,Kolkata,"Mani Square Mall, Kankurgachi",1,2,2.0
+1,Kolkata,"Quest Mall, Ballygunge",1,2,2.0
+1,Kolkata,"Silver Spring Arcade, Science City Area",1,1,1.0
+1,Mumbai,Borivali East,1,1,1.0
+1,Faridabad,Indraprastha Colony,1,1,1.0
+1,Faridabad,K Hotel,1,3,3.0
+1,Faridabad,"Park Plaza, Sector 21, Faridabad",1,1,1.0
+1,Faridabad,"SRS Mall, Sector 12, Faridabad",1,1,1.0
+1,Secunderabad,Karkhana,1,2,2.0
+1,Secunderabad,Sainikpuri,1,2,2.0
+1,Surat,"Golden Square, City Light",1,3,3.0
+1,Surat,"International Business Center, Piplod",1,3,3.0
+14,Inverloch,Inverloch,1,3,3.0
+14,Lakes Entrance,Lakes Entrance,1,2,2.0
+1,Varanasi,Godaulia,1,1,1.0
+1,Varanasi,Shivala,1,4,4.0
+1,Varanasi,Sunderpur,1,2,2.0
+1,Vizag,"CMR Central Mall, Maddilapalem",1,2,2.0
+1,Vizag,"Hotel GreenPark, Vizag",1,6,6.0
+1,Vizag,"Hotel Novotel, Maharani Peta",1,2,2.0
+1,Vizag,Jagadamba Junction,1,2,2.0
+1,Vizag,MVP Colony,1,5,5.0
+1,Vizag,Maddilapalem,1,3,3.0
+1,Ludhiana,Shastri Nagar,1,2,2.0
+1,New Delhi,"Sector 15, Dwarka",1,2,2.0
+1,New Delhi,Shastri Park,1,4,4.0
+1,New Delhi,Sheikh Sarai,1,1,1.0
+1,Kochi,Vyttila,1,2,2.0
+30,Brasília,"Bras�_lia Shopping, Asa Norte",1,1,1.0
+30,Brasília,Lago Sul,1,2,2.0
+30,Brasília,"ParkShopping, Guar�� I",1,2,2.0
+30,Brasília,"Pont��o Lago Sul, Lago Sul",1,1,1.0
+1,Vizag,Rushikonda,1,2,2.0
+1,Vizag,Sagar Nagar,1,5,5.0
+1,Vizag,"The Park, Lawsons Bay",1,4,4.0
+1,Vizag,Waltair Uplands,1,1,1.0
+14,Armidale,Armidale,1,2,2.0
+14,Balingup,Balingup,1,1,1.0
+14,Beechworth,Beechworth,1,2,2.0
+14,Dicky Beach,Dicky Beach,1,3,3.0
+14,East Ballina,East Ballina,1,1,1.0
+14,Flaxton,Flaxton,1,2,2.0
+14,Forrest,Forrest,1,2,2.0
+14,Huskisson,Huskisson,1,2,2.0
+1,Dehradun,"Pacific Mall, Jakhan",1,2,2.0
+1,Dehradun,Paltan Bazaar,1,2,2.0
+1,Dehradun,Race Course,1,1,1.0
+1,Faridabad,Badkal Lake,1,1,1.0
+14,Lorn,Lorn,1,2,2.0
+14,Macedon,Macedon,1,1,1.0
+14,Mayfield,Mayfield,1,1,1.0
+14,Middleton Beach,Middleton Beach,1,2,2.0
+14,Montville,Montville,1,2,2.0
+14,Palm Cove,Palm Cove,1,2,2.0
+14,Paynesville,Paynesville,1,1,1.0
+14,Penola,Penola,1,3,3.0
+14,Phillip Island,Phillip Island,1,3,3.0
+14,Tanunda,Tanunda,1,2,2.0
+14,Trentham East,Trentham East,1,1,1.0
+14,Victor Harbor,Victor Harbor,1,3,3.0
+30,Rio de Janeiro,Urca,1,2,2.0
+30,São Paulo,"Hotel Unique, Jardim Paulista",1,2,2.0
+30,São Paulo,Moema,1,1,1.0
+30,São Paulo,Pinheiros,1,2,2.0
+30,São Paulo,"Shopping Metr�� Santa Cruz, Vila Mariana",1,2,2.0
+30,São Paulo,"Shopping Morumbi, Santo Amaro",1,1,1.0
+30,Brasília,Setor De Clubes Esportivos Sul,1,1,1.0
+30,Brasília,"Shopping Iguatemi, Lago Norte",1,1,1.0
+30,Brasília,Sudoeste,1,2,2.0
+30,Rio de Janeiro,Barra da Tijuca,1,3,3.0
+30,Rio de Janeiro,Centro,1,2,2.0
+30,Rio de Janeiro,"Galeria River, Copacabana",1,1,1.0
+30,Rio de Janeiro,G��vea,1,2,2.0
+1,Coimbatore,Town Hall,1,3,3.0
+1,Dehradun,Krishna Nagar,1,1,1.0
+1,Dehradun,Malsi,1,2,2.0
+37,Consort,Consort,1,2,2.0
+37,Vineland Station,Vineland Station,1,3,3.0
+37,Yorkton,Yorkton,1,1,1.0
+94,Bandung,Dago,1,3,3.0
+94,Bogor,Bogor Timur,1,3,3.0
+94,Bogor,Bogor Utara,1,2,2.0
+94,Jakarta,Cengkareng,1,2,2.0
+94,Jakarta,Fatmawati,1,5,5.0
+94,Jakarta,"Gandaria City Mall, Gandaria",1,1,1.0
+94,Jakarta,"Hotel Shangri-La, Sudirman",1,3,3.0
+94,Jakarta,Kelapa Gading,1,3,3.0
+30,Rio de Janeiro,Lagoa,1,1,1.0
+30,Rio de Janeiro,"Le Monde, Barra da Tijuca",1,1,1.0
+30,Rio de Janeiro,Madureira,1,2,2.0
+30,Rio de Janeiro,Santa Teresa,1,1,1.0
+30,Rio de Janeiro,Tijuca,1,2,2.0
+1,New Delhi,Race Course,1,1,1.0
+1,Lucknow,Lalbagh,1,4,4.0
+1,Lucknow,Renaissance Lucknow Hotel,1,6,6.0
+1,Lucknow,"Riverside Mall, Gomti Nagar",1,1,1.0
+1,Lucknow,"Royal Inn, Hazratganj",1,3,3.0
+1,Lucknow,Sadar Bazaar,1,2,2.0
+1,Ludhiana,"A Hotel, Gurdev Nagar",1,3,3.0
+1,Ludhiana,Aggar Nagar,1,3,3.0
+1,Ludhiana,BRS Nagar,1,2,2.0
+1,Ludhiana,"Hyatt Regency, Rajguru Nagar",1,3,3.0
+1,Ludhiana,PAU,1,3,3.0
+1,Ludhiana,Rajguru Nagar,1,3,3.0
+1,Mysore,Ittige Gudu,1,3,3.0
+30,São Paulo,Vila Mariana,1,3,3.0
+30,São Paulo,Vila S��nia,1,2,2.0
+37,Chatham-Kent,Chatham-Kent,1,2,2.0
+162,San Juan City,Addition Hills,1,1,1.0
+94,Jakarta,"Kota Kasablanka, Tebet",1,3,3.0
+94,Jakarta,Penjaringan,1,2,2.0
+94,Jakarta,"Plaza Festival, Kuningan",1,2,2.0
+94,Jakarta,"Taman Impian Jaya Ancol, Ancol",1,2,2.0
+94,Jakarta,Tanjung Duren,1,2,2.0
+94,Jakarta,Tebet,1,2,2.0
+94,Jakarta,Thamrin,1,2,2.0
+94,Tangerang,"Alam Sutera Town Center, Serpong Utara",1,1,1.0
+94,Tangerang,Pondok Aren,1,2,2.0
+148,Auckland,Balmoral,1,1,1.0
+148,Auckland,Fort Street,1,1,1.0
+148,Auckland,Henderson,1,1,1.0
+148,Auckland,Lorne Street,1,2,2.0
+148,Auckland,Mission Bay,1,1,1.0
+30,São Paulo,Vila Maria,1,2,2.0
+166,Doha,"Barwa Towers, Al Sadd",1,1,1.0
+166,Doha,"Caravan Complex, Al Hilal",1,1,1.0
+148,Auckland,Mt Albert,1,2,2.0
+148,Auckland,Newmarket,1,7,7.0
+148,Auckland,Parnell,1,1,1.0
+148,Auckland,Penrose,1,3,3.0
+148,Auckland,"Sky City Metro, Auckland CBD",1,1,1.0
+148,Auckland,"The Langham Hotel, Auckland CBD",1,1,1.0
+148,Auckland,Wynyard Quarter,1,1,1.0
+148,Wellington City,Lyall Bay,1,2,2.0
+148,Wellington City,Mt Victoria,1,1,1.0
+162,Makati City,"Century City Mall, Poblacion, Makati City",1,3,3.0
+162,Makati City,"Little Tokyo, Legaspi Village, Makati City",1,1,1.0
+162,Mandaluyong City,"Edsa Shangri-La, Ortigas, Mandaluyong City",1,4,4.0
+162,Pasay City,"Sofitel Philippine Plaza Manila, Pasay City",1,3,3.0
+162,Quezon City,"UP Town Center, Diliman, Quezon City",1,2,2.0
+184,Singapore,"Chinatown, Outram",1,1,1.0
+184,Singapore,"City Hall, Downtown Core",1,1,1.0
+184,Singapore,"Duxton Hill, Outram",1,1,1.0
+162,San Juan City,Little Baguio,1,1,1.0
+162,Santa Rosa,"Nuvali, Don Jose, Santa Rosa",1,4,4.0
+162,Santa Rosa,"Solenad 3, Don Jose, Santa Rosa",1,2,2.0
+162,Tagaytay City,Tagaytay City,1,1,1.0
+162,Taguig City,"BGC Stopover Pavillion, Bonifacio Global City",1,3,3.0
+162,Taguig City,Bonifacio Global City,1,4,4.0
+166,Doha,Ain Khalid,1,2,2.0
+166,Doha,Al Doha Al Jadeeda,1,1,1.0
+166,Doha,"Al Emadi Financial Square, Al Hilal",1,1,1.0
+166,Doha,Al Ghanim,1,4,4.0
+166,Doha,Al Hilal,1,1,1.0
+166,Doha,Al Muntazah,1,3,3.0
+166,Doha,Al Nasr,1,2,2.0
+189,Cape Town,"Cavendish Square, Claremont",1,2,2.0
+189,Cape Town,Claremont,1,3,3.0
+189,Cape Town,De Waterkant,1,4,4.0
+189,Cape Town,Newlands,1,2,2.0
+166,Doha,Fereej Bin Mahmoud,1,1,1.0
+166,Doha,"Ghanem Business Center, Fereej Bin Mahmoud",1,2,2.0
+166,Doha,"Hotel Intercontinental Doha, Westbay",1,1,1.0
+166,Doha,"Mall of Qatar, Al Gharafa",1,2,2.0
+166,Doha,Musheireb,1,1,1.0
+166,Doha,Souq Waqif,1,1,1.0
+166,Doha,"The Gate, Dafna",1,5,5.0
+166,Doha,"The St. Regis, Westbay",1,1,1.0
+166,Doha,"The Westin Doha Hotel & Spa, Fereej Bin Mahmoud",1,1,1.0
+184,Singapore,"Bayfront Avenue, Downtown Core",1,3,3.0
+184,Singapore,"Bayfront Subzone, Downtown Core",1,2,2.0
+184,Singapore,"Cantonment Road, Outram",1,3,3.0
+189,Pretoria,Garsfontein,1,1,1.0
+189,Pretoria,"Glenfair Boulevard, Lynnwood",1,3,3.0
+189,Pretoria,"Greenlyn Village, Menlopark, Near Lynnwood",1,5,5.0
+189,Pretoria,Lynnwood,1,5,5.0
+189,Pretoria,"Menlyn Boutique Hotel, Menlyn",1,1,1.0
+189,Pretoria,"Menlyn Maine, Waterkloof Glen",1,6,6.0
+184,Singapore,"Haji Lane, Rochor",1,1,1.0
+184,Singapore,"Hillcrest, Bukit Timah",1,1,1.0
+184,Singapore,"Kay Siang Road, Tanglin",1,4,4.0
+184,Singapore,"Neil Road, Outram",1,3,3.0
+184,Singapore,"North Bridge Road, Rochor",1,3,3.0
+184,Singapore,"Robertson Quay, Singapore River",1,2,2.0
+184,Singapore,"Sungai Pinang, Rochor",1,5,5.0
+184,Singapore,"Telok Ayer Street, Outram",1,1,1.0
+184,Singapore,"Victoria, Rochor",1,4,4.0
+189,Cape Town,Athlone,1,2,2.0
+1,Mangalore,Attavar,1,1,1.0
+1,Mangalore,Bhavathi,1,1,1.0
+1,Mangalore,"Goldfinch Hotel, Balmatta",1,2,2.0
+1,Mangalore,Hampankatta,1,2,2.0
+1,Mangalore,KS Rao Nagar,1,4,4.0
+1,Mangalore,Kankanady,1,2,2.0
+1,Mangalore,Kodailbail,1,1,1.0
+1,Mangalore,"The Ocean Pearl, Kodailbail",1,3,3.0
+1,Mohali,Sector 70,1,2,2.0
+1,Mumbai,Azad Nagar,1,1,1.0
+1,Nagpur,Pratap Nagar,1,1,1.0
+189,Inner City,City and Suburban,1,2,2.0
+189,Inner City,Marshalltown,1,1,1.0
+189,Johannesburg,Greenside,1,3,3.0
+189,Johannesburg,Parktown North,1,1,1.0
+189,Johannesburg,Rosebank,1,8,8.0
+191,Colombo,"Fort, Colombo 01",1,2,2.0
+191,Colombo,"Old Dutch Hospital, Fort",1,1,1.0
+189,Pretoria,"Waterglen Shopping Centre, Garsfontein",1,6,6.0
+1,Chennai,Kotturpuram,1,2,2.0
+1,Chennai,Mylapore,1,5,5.0
+1,Chennai,Perungudi,1,2,2.0
+1,Chennai,RA Puram,1,3,3.0
+1,Chennai,Ramapuram,1,4,4.0
+1,Chennai,Santhome,1,4,4.0
+1,Coimbatore,Gandhipuram,1,3,3.0
+1,Coimbatore,Podanur,1,4,4.0
+1,Coimbatore,"SMS Hotel, Peelamedu",1,2,2.0
+189,Cape Town,"One and Only Hotel, V & A Waterfront",1,4,4.0
+1,New Delhi,"Piccadily Hotel, Janakpuri",1,3,3.0
+1,Ludhiana,"Silver Arc Mall, Gurdev Nagar",1,2,2.0
+1,Ludhiana,"Westend Mall, Rajguru Nagar",1,2,2.0
+208,Ankara,Macunk�_y,1,1,1.0
+208,Ankara,Maltepe,1,3,3.0
+208,Ankara,Y۱ld۱zevler,1,1,1.0
+208,Ankara,�ayyolu,1,2,2.0
+208,Ankara,�ukurambar,1,2,2.0
+208,Ankara,��mitk�_y,1,3,3.0
+189,Pretoria,West Park,1,1,1.0
+189,Randburg,Linden,1,1,1.0
+189,Sandton,"Bryanston Shopping Centre, Bryanston",1,6,6.0
+189,Sandton,Illovo,1,1,1.0
+189,Sandton,"Melrose Arch, Melrose",1,1,1.0
+189,Sandton,"Nelson Mandela Square, Sandown",1,5,5.0
+189,Sandton,"Nicolway Shopping Centre, Bryanston",1,2,2.0
+189,Sandton,"Post Office Center, Illovo",1,1,1.0
+189,Sandton,"Waterfall Corner Mall, Midrand",1,2,2.0
+191,Colombo,"Dehiwala, Colombo",1,3,3.0
+1,Mumbai,Fort,1,3,3.0
+1,Mumbai,"Hill Road, Bandra West",1,6,6.0
+1,Mumbai,Juhu,1,2,2.0
+1,Mumbai,"Linking Road, Bandra West",1,8,8.0
+1,Mumbai,"Majiwada, Thane West",1,6,6.0
+1,Mumbai,"Ramee Guestline Hotel, Juhu",1,8,8.0
+1,Mumbai,"Versova, Andheri West",1,6,6.0
+1,Mumbai,Vile Parle East,1,6,6.0
+1,Mysore,Doora,1,1,1.0
+1,New Delhi,"Andaz Delhi, Aerocity",1,2,2.0
+191,Colombo,"Slave Island, Colombo 02",1,1,1.0
+208,Ankara,"Armada AVM, S�_���_t�_z�_, Yenimahalle",1,1,1.0
+208,Ankara,Dikmen,1,1,1.0
+208,Ankara,Emek,1,2,2.0
+208,Ankara,Kavakl۱dere,1,2,2.0
+208,Ankara,"Kentpark AVM, ��niversiteler, �ankaya",1,1,1.0
+208,İstanbul,Asmal۱mescit,1,1,1.0
+208,İstanbul,Bebek,1,1,1.0
+208,İstanbul,Be��ikta�� Merkez,1,2,2.0
+208,İstanbul,Caddebostan,1,1,1.0
+208,İstanbul,Emirg��n,1,3,3.0
+208,İstanbul,Kad۱k�_y Merkez,1,1,1.0
+208,İstanbul,Ko��uyolu,1,3,3.0
+208,İstanbul,Moda,1,1,1.0
+214,Abu Dhabi,Al Mushrif,1,2,2.0
+214,Abu Dhabi,"Crowne Plaza Abu Dhabi, Al Markaziya",1,5,5.0
+214,Abu Dhabi,"Dalma Mall, Mussafah Sanaiya",1,4,4.0
+214,Abu Dhabi,Madinat Zayed,1,2,2.0
+191,Colombo,"Rajagiriya, Colombo",1,2,2.0
+1,Nagpur,Ramdaspeth,1,3,3.0
+1,Nagpur,Sadar,1,3,3.0
+1,Nagpur,Vivekanand Nagar,1,1,1.0
+214,Sharjah,"Sahara Centre, Al Nahda",1,3,3.0
+215,Birmingham,Alum Rock,1,1,1.0
+214,Abu Dhabi,"Madinat Zayed Shopping Centre, Madinat Zayed",1,3,3.0
+214,Abu Dhabi,"Mushrif Mall, Al Mushrif",1,3,3.0
+214,Abu Dhabi,Mussafah Sanaiya,1,4,4.0
+214,Abu Dhabi,"Venetian Village, Al Maqtaa",1,2,2.0
+214,Abu Dhabi,"Yas Mall, Yas Island",1,2,2.0
+214,Dubai,Al Barari,1,4,4.0
+214,Dubai,Barsha 2,1,2,2.0
+214,Dubai,"CITY WALK, Al Safa",1,2,2.0
+214,Dubai,DIFC,1,1,1.0
+214,Dubai,Deira City Centre Area,1,2,2.0
+214,Dubai,Dubai Media City,1,2,2.0
+214,Dubai,Festival City,1,2,2.0
+214,Dubai,Jumeirah 1,1,1,1.0
+214,Dubai,"Kite Beach, Umm Suqeim",1,2,2.0
+215,Birmingham,Sparkhill,1,2,2.0
+215,Birmingham,"The Mailbox, Broad Street",1,1,1.0
+215,Edinburgh,Fountainbridge,1,2,2.0
+215,Edinburgh,Tollcross,1,2,2.0
+214,Dubai,"Mall of the Emirates, Barsha 1",1,2,2.0
+214,Dubai,Mankhool,1,3,3.0
+214,Dubai,"Nassima Royal Hotel, Trade Centre Area",1,1,1.0
+214,Dubai,Satwa,1,2,2.0
+214,Dubai,Trade Centre Area,1,3,3.0
+214,Dubai,Umm Hurair,1,4,4.0
+214,Sharjah,Al Khan,1,3,3.0
+214,Sharjah,Al Nud,1,2,2.0
+214,Sharjah,"Al Qasba, Al Khan",1,2,2.0
+214,Sharjah,Halwan Suburb,1,2,2.0
+214,Sharjah,"Majaz Waterfront, Al Majaz 3",1,2,2.0
+214,Sharjah,Muwailih Commercial,1,2,2.0
+215,London,"Conduit Street, Mayfair",1,2,2.0
+215,London,Covent Garden,1,2,2.0
+215,London,"D'arblay Street, Soho",1,2,2.0
+215,London,"Lexington Street, Soho",1,2,2.0
+215,London,"Long Acre, Covent Garden",1,2,2.0
+215,London,"Portman Mews South, Marble Arch",1,2,2.0
+215,Birmingham,Brindleyplace,1,2,2.0
+215,Birmingham,"Brindleyplace, Broad Street",1,2,2.0
+215,Birmingham,Colmore Business District,1,1,1.0
+215,Birmingham,Digbeth,1,2,2.0
+215,Birmingham,Edgbaston,1,2,2.0
+215,Birmingham,Handsworth,1,1,1.0
+215,Birmingham,Harborne,1,1,1.0
+215,Birmingham,Jewellery Quarter,1,1,1.0
+215,Birmingham,Small Heath,1,3,3.0
+215,Birmingham,Smethwick,1,2,2.0
+1,New Delhi,"ARSS Mall, Paschim Vihar",1,5,5.0
+1,New Delhi,Aaya Nagar,1,1,1.0
+1,New Delhi,Mansingh Road,1,2,2.0
+1,New Delhi,Model Town 1,1,2,2.0
+1,Mysore,Kuvempunagar,1,1,1.0
+1,Mysore,"Pai Hotels, Doora",1,3,3.0
+1,Nagpur,Dhantoli,1,4,4.0
+1,Nagpur,Mohan Nagar,1,3,3.0
+215,London,"Albemarle Street, Mayfair",1,3,3.0
+215,London,"Archer Street, Soho",1,1,1.0
+215,London,"Beak Street, Soho",1,1,1.0
+215,London,"Bishopsgate, City Of London",1,1,1.0
+215,London,"Boundary Street, Shoreditch",1,3,3.0
+215,London,"Broadwick Street, Soho",1,2,2.0
+215,London,"Charlotte Street, Fitzrovia",1,2,2.0
+215,London,Chelsea,1,1,1.0
+215,London,"Tavistock Court, Covent Garden",1,2,2.0
+1,Bhubaneshwar,"The Crown, Nayapalli",1,1,1.0
+1,Bhubaneshwar,Unit 4,1,2,2.0
+1,Chandigarh,Chandigarh Industrial Area,1,4,4.0
+1,Chandigarh,Sector 28,1,1,1.0
+1,Chennai,Adyar,1,3,3.0
+1,Chennai,Ashok Nagar,1,4,4.0
+1,Chennai,"Express Avenue Mall,  Royapettah",1,4,4.0
+1,Chennai,Gopalapuram,1,2,2.0
+1,Chennai,Kilpauk,1,1,1.0
+215,Edinburgh,"Twelve Picardy Place, New Town",1,3,3.0
+1,New Delhi,"Best Western Taurus Hotel, Mahipalpur",1,3,3.0
+1,New Delhi,"Centaur Hotel, Aerocity",1,1,1.0
+1,Nashik,"City Center, Parijat Nagar",1,4,4.0
+1,Nashik,Parijat Nagar,1,1,1.0
+1,Nashik,"SSK Solitaire, Satpur",1,3,3.0
+1,New Delhi,"Holiday Inn, Aerocity",1,1,1.0
+1,New Delhi,Dr. Zakir Hussain Marg,1,2,2.0
+1,New Delhi,Durga Puri,1,1,1.0
+1,New Delhi,Kashmiri Gate,1,2,2.0
+1,New Delhi,"Lemon Tree Premier, Aerocity",1,1,1.0
+1,New Delhi,Chhatarpur,1,3,3.0
+1,New Delhi,"City Centre Mall, Rohini",1,3,3.0
+216,Tampa Bay,Northeast St Petersburg,1,2,2.0
+215,Manchester,Levenshulme,1,4,4.0
+216,Albany,Sylvester,1,3,3.0
+216,Augusta,Grovetown,1,1,1.0
+1,Bangalore,Residency Road,1,1,1.0
+1,Bangalore,UB City,1,1,1.0
+1,Bhopal,Gulmohar Colony,1,2,2.0
+1,Bhopal,Kohefiza,1,1,1.0
+1,Bhopal,Peer Gate Area,1,4,4.0
+1,Bhopal,Sayaji Hotel,1,1,1.0
+1,Bhubaneshwar,Gajapati Nagar,1,3,3.0
+1,Bhubaneshwar,"Mayfair Lagoon, Jayadev Vihar",1,4,4.0
+216,Boise,Meridian,1,3,3.0
+216,Boise,Nampa,1,1,1.0
+216,Cedar Rapids/Iowa City,Marion,1,2,2.0
+216,Clatskanie,Clatskanie,1,3,3.0
+216,Cochrane,Cochrane,1,2,2.0
+216,Columbus,Hamilton,1,3,3.0
+216,Dalton,Chatsworth,1,2,2.0
+216,Dalton,LaFayette,1,2,2.0
+216,Dalton,Rock Spring,1,2,2.0
+216,Des Moines,Beaverdale,1,3,3.0
+215,London,"Walker's Court, Soho",1,2,2.0
+1,New Delhi,"Garden of Five Senses, Saket",1,3,3.0
+1,New Delhi,"Gourmet Hub, Pashim Vihar",1,2,2.0
+216,Miller,Miller,1,0,0.0
+216,Monroe,Monroe,1,2,2.0
+216,Ojo Caliente,Ojo Caliente,1,3,3.0
+216,Orlando,Church Street District,1,2,2.0
+216,Des Moines,Fairground,1,2,2.0
+216,Des Moines,Greater South Side,1,1,1.0
+216,Des Moines,Johnston,1,3,3.0
+216,Des Moines,Kingman Place Historic District,1,2,2.0
+216,Des Moines,Urbandale,1,2,2.0
+1,Aurangabad,Chicalthana,1,4,4.0
+1,Aurangabad,"Hotel Green Olive, Nirala Bazar",1,4,4.0
+1,Aurangabad,Mondha,1,2,2.0
+1,Aurangabad,Nyay Nagar,1,3,3.0
+1,Aurangabad,"Prozone Mall, Chicalthana",1,1,1.0
+1,Aurangabad,Shahgunj,1,2,2.0
+1,Bangalore,"BluPetal Hotel, Koramangala",1,2,2.0
+216,Pensacola,Navarre,1,3,3.0
+1,Allahabad,"Vinayak City Centre Mall, Civil Lines",1,3,3.0
+1,Amritsar,Hathi Gate,1,1,1.0
+1,Aurangabad,Akashwani,1,4,4.0
+216,Potrero,Potrero,1,3,3.0
+216,Princeton,Princeton,1,1,1.0
+216,Rest of Hawaii,Kahuku,1,1,1.0
+216,Rest of Hawaii,Kailua Kona,1,3,3.0
+216,Rest of Hawaii,Kaimuki,1,0,0.0
+216,Rest of Hawaii,Paia,1,2,2.0
+216,Sioux City,Le Mars,1,3,3.0
+216,Sioux City,South Sioux City,1,3,3.0
+1,Agra,"Courtyard by Marriott Agra, Tajganj",1,2,2.0
+1,Bangalore,JP Nagar,1,3,3.0
+216,Tampa Bay,Palma Ceia,1,2,2.0
+216,Tampa Bay,Ybor City,1,2,2.0
+1,Agra,Rakabganj,1,2,2.0
+1,Ahmedabad,Ambavadi,1,6,6.0
+1,Ahmedabad,Ashram Road,1,3,3.0
+1,Ahmedabad,C G Road,1,5,5.0
+1,Ahmedabad,"Courtyard By Marriott, Satellite",1,4,4.0
+1,Ahmedabad,Ghatlodia,1,3,3.0
+216,Tampa Bay,Clearwater,1,3,3.0
+216,Tampa Bay,Indian Rocks/Indian Shores,1,3,3.0
+216,Tampa Bay,Kenwood,1,2,2.0
+216,Tampa Bay,Madeira Beach/Redington Beach,1,3,3.0
+216,Tampa Bay,New Tampa,1,2,2.0
+1,Allahabad,Tagore Town,1,4,4.0
+216,Orlando,Restaurant Row,1,1,1.0
+216,Orlando,Sanford,1,1,1.0
+216,Orlando,The Milk District,1,3,3.0
+216,Orlando,Windermere,1,3,3.0

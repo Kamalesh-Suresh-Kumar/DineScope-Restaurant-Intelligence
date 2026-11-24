@@ -1,0 +1,10 @@
+Metric,Value
+Total Restaurants in Dataset,9551.0
+Recommendations Generated,10.0
+Evaluation Scenarios,5.0
+Evaluation Scenarios Passed,5.0
+Total Test Cases,14.0
+Passed Tests,14.0
+Failed Tests,0.0
+Test Pass Rate (%),100.0
+Complete Pipeline Median Time (ms),16.479800000524847

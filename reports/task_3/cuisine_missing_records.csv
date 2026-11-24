@@ -1,0 +1,10 @@
+Restaurant ID,Restaurant Name,Country Code,City,Address,Locality,Locality Verbose,Longitude,Latitude,Cuisines,Average Cost for two,Currency,Has Table booking,Has Online delivery,Is delivering now,Switch to order menu,Price range,Aggregate rating,Rating color,Rating text,Votes,Source Row Index
+17284105,Cookie Shoppe,216,Albany,"115 N Jackson St, Albany, GA 31701",Albany,"Albany, Albany",-84.154,31.5772,,0,Dollar($),No,No,No,No,1,3.4,Orange,Average,34,84
+17284211,Pearly's Famous Country Cookng,216,Albany,"814 N Slappey Blvd, Albany, GA 31701",Albany,"Albany, Albany",-84.1759,31.5882,,0,Dollar($),No,No,No,No,1,3.4,Orange,Average,36,87
+17284158,Jimmie's Hot Dogs,216,Albany,"204 S Jackson St, Albany, GA 31701",Albany,"Albany, Albany",-84.1534,31.5751,,10,Dollar($),No,No,No,No,1,3.9,Yellow,Good,160,94
+17374552,Corkscrew Cafe,216,Gainesville,"51 W Main St, Dahlonega, GA 30533",Dahlonega,"Dahlonega, Gainesville",-83.9858,34.5318,,40,Dollar($),No,No,No,No,3,3.9,Yellow,Good,209,297
+17501439,Dovetail,216,Macon,"543 Cherry St, Macon, GA 31201",Macon,"Macon, Macon",-83.627979,32.83641,,40,Dollar($),No,No,No,No,3,3.8,Yellow,Good,102,328
+17606621,HI Lite Bar & Lounge,216,Miller,"109 N Broadway Ave, Miller, SD 57362",Miller,"Miller, Miller",-98.9891,44.5158,,0,Dollar($),No,No,No,No,1,3.4,Orange,Average,11,346
+17059060,Hillstone,216,Orlando,"215 South Orlando Avenue, Winter Park, FL 32789",Winter Park,"Winter Park, Orlando",-81.36526,28.596682,,40,Dollar($),No,No,No,No,3,4.4,Green,Very Good,1158,368
+17142698,Leonard's Bakery,216,Rest of Hawaii,"933 Kapahulu Ave, Honolulu, HI 96816",Kaimuki,"Kaimuki, Rest of Hawaii",-157.813432,21.284586,,10,Dollar($),No,No,No,No,1,4.7,Dark Green,Excellent,707,418
+17616465,Tybee Island Social Club,216,Savannah,"1311 Butler Ave, Tybee Island, GA 31328",Tybee Island,"Tybee Island, Savannah",-80.848297,31.99581,,10,Dollar($),No,No,No,No,1,3.9,Yellow,Good,309,455

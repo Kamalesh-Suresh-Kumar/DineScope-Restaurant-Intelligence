@@ -1,0 +1,6 @@
+Scenario,Description,Cuisine Preferences,City,Price Ranges,Minimum Rating,Eligible Restaurants,Recommendations Generated,Mean Cuisine Similarity,Exact Cuisine Match Rate (%),Zero Similarity Rate (%),Mean Recommended Rating,Rating Coverage (%),Unique Cuisine Combinations,Duplicate Recommendation IDs,Execution Status
+01_North_Indian,North Indian cuisine preference,north indian,Any,Any,Any,9551,10,1.0,100.0,0.0,4.64,100.0,1,0,PASS
+02_Multi_Cuisine_New_Delhi,North Indian and Chinese in New Delhi,"north indian, chinese",new delhi,"1, 2",3.5,959,10,0.9999998807907104,100.0,0.0,3.7900000000000005,100.0,1,0,PASS
+03_Italian,Italian cuisine preference,italian,Any,Any,Any,9551,10,1.0,100.0,0.0,4.489999999999999,100.0,1,0,PASS
+04_City_Price_Filter,New Delhi with price ranges 1 and 2,Any,new delhi,"1, 2",Any,4708,10,,,,4.61,100.0,6,0,PASS
+05_Empty_Result,Nonexistent city to test empty results,Any,__no_matching_city__,Any,Any,0,0,,,,,,0,0,PASS - Empty result handled

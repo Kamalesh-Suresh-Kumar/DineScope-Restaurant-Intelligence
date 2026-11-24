@@ -1,0 +1,2 @@
+Country Code,City,Currency,Has Table booking,Has Online delivery,Is delivering now,Switch to order menu,Longitude,Latitude,Average Cost for two,Price range,Aggregate rating,Votes,Prediction Timestamp,Selected Threshold,Predicted Cuisines,Predicted Cuisine Count,Top Cuisine,Top Cuisine Confidence
+1,New Delhi,Indian Rupees(Rs.),Yes,Yes,No,No,77.209,28.6139,800.0,2,4.1,250,2026-11-23T22:13:42,0.225,"[""north indian"", ""chinese""]",2,north indian,0.5508828010464337

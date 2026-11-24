@@ -1,0 +1,36 @@
+DINESCOPE - RESTAURANT INTELLIGENCE & ANALYTICS
+TASK 04: LOCATION-BASED ANALYSIS
+PROGRAM 01: LOCATION DATASET AUDIT
+
+=================================================================
+DATASET AUDIT SUMMARY
+=================================================================
+
+Total Restaurants: 9551
+Total Columns: 21
+Duplicate Rows: 0
+Duplicate Restaurant IDs: 0
+Unique Restaurants: 9551
+Unique Countries: 15
+Unique Cities: 141
+Unique Localities: 1208
+Missing Cities: 0
+Missing Localities: 0
+Missing Longitude: 0
+Missing Latitude: 0
+Missing Both Coordinates: 0
+Missing Any Coordinate: 0
+Invalid Longitude: 0
+Invalid Latitude: 0
+Valid Coordinate Pairs: 9551
+Invalid or Incomplete Coordinate Pairs: 0
+Rows Sharing Coordinate Pairs: 1075
+Unique Coordinate Pairs: 8705
+Rated Restaurants: 7403
+Unrated Restaurants: 2148
+Missing Cuisines: 9
+Unique Cuisine Combinations: 1825
+
+=================================================================
+AUDIT COMPLETED
+=================================================================

@@ -1,0 +1,15 @@
+Metric,Value
+Training Records,7621
+Testing Records,1921
+Cuisine Classes,145
+Classes Represented in Testing,115
+Classes Absent from Testing,30
+Best Model,Logistic Regression
+Micro Precision,0.5585443037974683
+Micro Recall,0.08961665397308961
+Micro F1,0.1544519798731131
+Macro F1 - All Classes,0.010490983568306448
+Macro F1 - Test Supported,0.013227761890473345
+Weighted F1,0.12114184932549592
+Subset Accuracy,0.015616866215512754
+Hamming Loss,0.013875675384587768

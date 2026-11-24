@@ -1,0 +1,15 @@
+Test ID,Test Name,Expected Behaviour,Recommendations Generated,Status,Details
+TC01,Single Cuisine Recommendation,Recommendations should be generated,10,PASS,10 recommendations validated.
+TC02,Multiple Cuisine Recommendation,Recommendations should match cuisine preferences,10,PASS,10 recommendations validated.
+TC03,City Filter,All recommendations should belong to New Delhi,10,PASS,10 recommendations validated.
+TC04,Price Filter,All recommendations should have price range 1 or 2,10,PASS,10 recommendations validated.
+TC05,Minimum Rating Filter,All recommendations should have rating at least 4,10,PASS,10 recommendations validated.
+TC06,Combined Preference Filter,All selected filters should be satisfied,10,PASS,10 recommendations validated.
+TC07,No Cuisine Preference,Restaurants should be ranked by rating,10,PASS,10 recommendations validated.
+TC08,Uncommon Cuisine,Valid uncommon cuisine should be processed,10,PASS,10 recommendations validated.
+TC09,Empty Result Handling,No recommendations should be returned,0,PASS,Empty result handled correctly.
+TC10,Large Recommendation Request,Return all available candidates when fewer than requested,9551,PASS,9551 recommendations validated.
+TC11,Unknown Cuisine,Invalid input should raise ValueError,0,PASS,Invalid input rejected: Unknown cuisines: ['nonexistent cuisine']
+TC12,Invalid Price Range,Invalid input should raise ValueError,0,PASS,Invalid input rejected: Price ranges must be between 1 and 4.
+TC13,Invalid Minimum Rating,Invalid input should raise ValueError,0,PASS,Invalid input rejected: Minimum rating must be between 1 and 5.
+TC14,Invalid Recommendation Count,Invalid input should raise ValueError,0,PASS,Invalid input rejected: top_n must be positive.

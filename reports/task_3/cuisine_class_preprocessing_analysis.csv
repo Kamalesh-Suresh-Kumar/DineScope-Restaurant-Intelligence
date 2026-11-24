@@ -1,0 +1,146 @@
+Cuisine,Restaurant Count,Preprocessing Decision
+north indian,3960,Retained - common label
+chinese,2733,Retained - common label
+fast food,1986,Retained - common label
+mughlai,994,Retained - common label
+italian,764,Retained - common label
+bakery,744,Retained - common label
+continental,736,Retained - common label
+cafe,703,Retained - common label
+desserts,653,Retained - common label
+south indian,636,Retained - common label
+street food,562,Retained - common label
+american,390,Retained - common label
+pizza,381,Retained - common label
+mithai,380,Retained - common label
+burger,251,Retained - common label
+thai,234,Retained - common label
+asian,233,Retained - common label
+beverages,228,Retained - common label
+ice cream,226,Retained - common label
+mexican,181,Retained - common label
+biryani,177,Retained - common label
+seafood,174,Retained - common label
+healthy food,150,Retained - common label
+european,148,Retained - common label
+japanese,135,Retained - common label
+finger food,114,Retained - common label
+raw meats,114,Retained - common label
+mediterranean,112,Retained - common label
+salad,93,Retained - common label
+sushi,75,Retained - common label
+indian,70,Retained - common label
+lebanese,69,Retained - common label
+steak,62,Retained - common label
+sandwich,53,Retained - common label
+tea,48,Retained - common label
+tibetan,44,Retained - common label
+breakfast,41,Retained - common label
+bar food,39,Retained - common label
+bbq,33,Retained - common label
+french,29,Retained - common label
+juices,29,Retained - common label
+bengali,29,Retained - common label
+brazilian,28,Retained - common label
+arabian,28,Retained - common label
+hyderabadi,26,Retained - common label
+southern,24,Retained - common label
+vegetarian,23,Retained - common label
+kerala,23,Retained - common label
+middle eastern,22,Retained - common label
+malaysian,22,Retained - common label
+korean,21,Retained - common label
+grill,21,Retained - common label
+international,21,Retained - common label
+vietnamese,21,Retained - common label
+rajasthani,21,Retained - common label
+goan,20,Retained - common label
+kashmiri,20,Retained - common label
+coffee and tea,19,Retained - common label
+tapas,19,Retained - common label
+tex-mex,19,Retained - common label
+spanish,16,Retained - common label
+british,16,Retained - common label
+modern indian,16,Retained - common label
+greek,15,Retained - common label
+turkish,15,Retained - common label
+indonesian,14,Retained - common label
+afghani,14,Retained - common label
+lucknowi,13,Retained - common label
+pakistani,12,Retained - common label
+latin american,11,Retained - common label
+modern australian,11,Retained - common label
+gujarati,11,Retained - common label
+chettinad,11,Retained - common label
+awadhi,11,Retained - common label
+filipino,10,Retained - common label
+german,10,Retained - common label
+cajun,10,Retained - common label
+western,10,Retained - common label
+maharashtrian,10,Retained - common label
+burmese,10,Retained - common label
+andhra,10,Retained - common label
+kebab,10,Retained - common label
+north eastern,9,Retained - review evaluation coverage
+nepalese,9,Retained - review evaluation coverage
+contemporary,9,Retained - review evaluation coverage
+hawaiian,8,Retained - review evaluation coverage
+african,8,Retained - review evaluation coverage
+parsi,8,Retained - review evaluation coverage
+naga,8,Retained - review evaluation coverage
+turkish pizza,8,Retained - review evaluation coverage
+southwestern,7,Retained - review evaluation coverage
+caribbean,7,Retained - review evaluation coverage
+portuguese,7,Retained - review evaluation coverage
+diner,6,Retained - review evaluation coverage
+bihari,6,Retained - review evaluation coverage
+kiwi,6,Retained - review evaluation coverage
+curry,6,Retained - review evaluation coverage
+south african,6,Retained - review evaluation coverage
+australian,5,Retained - review evaluation coverage
+moroccan,5,Retained - review evaluation coverage
+sri lankan,5,Retained - review evaluation coverage
+fusion,4,Retained - review evaluation coverage
+singaporean,4,Retained - review evaluation coverage
+charcoal grill,4,Retained - review evaluation coverage
+assamese,4,Retained - review evaluation coverage
+mangalorean,4,Retained - review evaluation coverage
+patisserie,4,Retained - review evaluation coverage
+world cuisine,4,Retained - review evaluation coverage
+restaurant cafe,4,Retained - review evaluation coverage
+dim sum,3,Retained - review evaluation coverage
+deli,3,Retained - review evaluation coverage
+armenian,3,Retained - review evaluation coverage
+iranian,3,Retained - review evaluation coverage
+sunda,3,Retained - review evaluation coverage
+scottish,3,Retained - review evaluation coverage
+argentine,2,Retained - review evaluation coverage
+teriyaki,2,Retained - review evaluation coverage
+cuban,2,Retained - review evaluation coverage
+new american,2,Retained - review evaluation coverage
+pub food,2,Retained - review evaluation coverage
+persian,2,Retained - review evaluation coverage
+cantonese,2,Retained - review evaluation coverage
+belgian,2,Retained - review evaluation coverage
+south american,2,Retained - review evaluation coverage
+drinks only,2,Retained - review evaluation coverage
+oriya,2,Retained - review evaluation coverage
+ramen,2,Retained - review evaluation coverage
+asian fusion,2,Retained - review evaluation coverage
+taiwanese,2,Retained - review evaluation coverage
+izgara,2,Retained - review evaluation coverage
+peruvian,1,Retained - review evaluation coverage
+gourmet fast food,1,Retained - review evaluation coverage
+mineira,1,Retained - review evaluation coverage
+canadian,1,Retained - review evaluation coverage
+bubble tea,1,Retained - review evaluation coverage
+irish,1,Retained - review evaluation coverage
+soul food,1,Retained - review evaluation coverage
+malay,1,Retained - review evaluation coverage
+malwani,1,Retained - review evaluation coverage
+cuisine varies,1,Retained - review evaluation coverage
+peranakan,1,Retained - review evaluation coverage
+fish and chips,1,Retained - review evaluation coverage
+durban,1,Retained - review evaluation coverage
+döner,1,Retained - review evaluation coverage
+börek,1,Retained - review evaluation coverage

@@ -1,0 +1,16 @@
+DINESCOPE - FINAL MODEL SELECTION
+=======================================================
+
+Primary model: tuned_rating_model_with_votes.joblib
+Fallback model: tuned_rating_model_without_votes.joblib
+
+Selected configuration: with_votes
+Best CV RMSE: 0.3565
+Test RMSE: 0.3330
+Test MAE: 0.2461
+Test R2: 0.6414
+
+Selection basis:
+Cross-validation RMSE was used for model selection.
+The held-out test set was used for final evaluation.
+The model with Votes requires vote information at prediction time.

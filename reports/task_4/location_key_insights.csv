@@ -1,0 +1,6 @@
+Insight_Category,Finding,Supporting_Value,Unit
+Restaurant Concentration,New Delhi has the highest restaurant count with 5473 restaurants.,57.3,Percentage of dataset
+Highest Rated City,London has the highest average rating among eligible cities.,4.54,Average rating
+Highest Rated Locality,"Jubilee Hills, Hyderabad has the highest average rating among eligible localities.",4.39,Average rating
+Cuisine Diversity,New Delhi has the highest number of distinct cuisine labels.,81.0,Distinct cuisine labels
+Rating Coverage,Bhubaneshwar has the highest rating coverage among cities.,100.0,Percentage

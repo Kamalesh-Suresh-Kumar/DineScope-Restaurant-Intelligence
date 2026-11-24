@@ -1,0 +1,7 @@
+Feature,Data Type,Missing Values,Unique Values
+City,str,0,141
+Locality,str,0,1208
+Cuisines,str,9,1825
+Price range,int64,0,4
+Aggregate rating,float64,0,33
+Votes,int64,0,1012

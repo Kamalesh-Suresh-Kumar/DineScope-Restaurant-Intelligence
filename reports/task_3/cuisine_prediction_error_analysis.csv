@@ -1,0 +1,7 @@
+Metric,Value
+True Positives,1881
+False Positives,3303
+False Negatives,2058
+True Negatives,271303
+Actual Positive Labels,3939
+Predicted Positive Labels,5184

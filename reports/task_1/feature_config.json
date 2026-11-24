@@ -1,0 +1,39 @@
+{
+    "target": "Aggregate rating",
+    "base_features": [
+        "Country Code",
+        "City",
+        "Longitude",
+        "Latitude",
+        "Cuisines",
+        "Has Table booking",
+        "Has Online delivery",
+        "Price range"
+    ],
+    "features_with_votes": [
+        "Country Code",
+        "City",
+        "Longitude",
+        "Latitude",
+        "Cuisines",
+        "Has Table booking",
+        "Has Online delivery",
+        "Price range",
+        "Votes"
+    ],
+    "random_state": 42,
+    "test_size": 0.2,
+    "excluded_features": [
+        "Restaurant ID",
+        "Restaurant Name",
+        "Address",
+        "Locality",
+        "Locality Verbose",
+        "Average Cost for two",
+        "Currency",
+        "Rating color",
+        "Rating text",
+        "Is delivering now",
+        "Switch to order menu"
+    ]
+}

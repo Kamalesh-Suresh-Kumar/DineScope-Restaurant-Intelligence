@@ -1,0 +1,9 @@
+Restaurant Name,Model Configuration,Country Code,City,Cuisines,Has Table booking,Has Online delivery,Longitude,Latitude,Price range,Votes,Predicted Rating
+Demo Restaurant,without_votes,1,New Delhi,"North Indian, Chinese",No,Yes,77.2,28.6,2,,2.9060817700030546
+Demo Restaurant,with_votes,1,New Delhi,"North Indian, Chinese",No,Yes,77.2,28.6,2,150,3.272200983395338
+tgk,without_votes,1,abs,nothern indian,No,Yes,120.0,81.0,1,,3.400470190673095
+tgk,without_votes,1,tlr,mlr,No,Yes,120.0,81.0,1,,3.400470190673095
+tgk,with_votes,1,trl,mlr,No,Yes,120.0,81.0,1,5,2.8894500501857703
+tgk,without_votes,1,trl,mlr,No,Yes,120.0,81.0,1,,3.400470190673095
+tgk,with_votes,1,trl,mlr,No,Yes,1.0,81.0,1,1,2.9022381485186703
+tgk,with_votes,1,trl,mlr,No,Yes,120.0,81.0,1,4,2.8861349661956863

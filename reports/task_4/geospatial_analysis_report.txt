@@ -1,0 +1,45 @@
+DINESCOPE - RESTAURANT INTELLIGENCE & ANALYTICS
+TASK 04: LOCATION-BASED ANALYSIS
+PROGRAM 05: GEOSPATIAL ANALYSIS AND VISUALIZATION
+
+======================================================================
+GEOSPATIAL ANALYSIS SUMMARY
+======================================================================
+
+Total Restaurant Records: 9551
+Technically Valid Coordinate Records: 9551
+Suspicious Zero Coordinate Records: 497
+Usable Coordinate Records: 9054
+Invalid Coordinate Records: 0
+Unique Coordinate Pairs: 8704
+Coordinate Pairs with Multiple Restaurants: 228
+Unique Countries: 15
+Unique Cities: 141
+India Restaurant Records: 8157
+DBSCAN Clusters: 172
+Restaurants Assigned to Clusters: 7463
+Restaurants Classified as Noise: 1591
+DBSCAN Epsilon in Kilometers: 0.5
+DBSCAN Minimum Samples: 5
+
+======================================================================
+CLUSTERING CONFIGURATION
+======================================================================
+
+Algorithm: DBSCAN
+Distance Metric: Haversine
+Earth Radius: 6371.0088 km
+Epsilon: 0.5 km
+Minimum Samples: 5
+
+======================================================================
+INTERPRETATION NOTES
+======================================================================
+
+1. Geographical clusters are based on coordinate proximity.
+2. DBSCAN noise points are not necessarily invalid records.
+3. Cluster IDs are algorithmic labels, not location names.
+4. Coordinate overlaps do not automatically indicate errors.
+5. Cluster ratings are descriptive and do not establish that geographical proximity causes rating differences.
+6. City centers are arithmetic coordinate averages, not exact geographic centroids.
+7. The visualizations show coordinate distributions without street maps or administrative boundaries.

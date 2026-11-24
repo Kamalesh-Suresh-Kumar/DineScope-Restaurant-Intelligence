@@ -1,0 +1,24 @@
+DINESCOPE - INTERACTIVE LOCATION EXPLORER
+=================================================================
+Session timestamp: 20261124_144044
+Total restaurants: 9551
+Rated restaurants: 7403
+Total cities: 141
+Global average rating: 3.44
+
+Available modules:
+1. Location overview
+2. City explorer
+3. Locality explorer
+4. Advanced restaurant search
+5. City recommendation explorer
+6. Locality recommendation explorer
+7. Location comparison
+8. Custom restaurant shortlist
+
+Generated files are stored in:
+C:\Users\kamal\OneDrive\Desktop\DineScope\reports\task_4\interactive_explorer
+
+Note:
+Recommendations are based on historical dataset values.
+They do not represent live availability or current ratings.

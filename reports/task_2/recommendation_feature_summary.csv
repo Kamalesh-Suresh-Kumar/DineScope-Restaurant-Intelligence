@@ -1,0 +1,7 @@
+Feature Group,Feature Type,Number of Features,Purpose
+Cuisine,Multi-hot encoded,145,Measure cuisine similarity
+City,Normalized categorical metadata,141,Match restaurant city preferences
+Locality,Normalized categorical metadata,1208,Match restaurant locality preferences
+Price Range,Numeric metadata,4,Match user budget preferences
+Aggregate Rating,Numeric metadata,1,Support rating-based ranking
+Votes,Numeric metadata,1,Provide popularity context

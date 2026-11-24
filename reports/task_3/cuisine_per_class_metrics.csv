@@ -1,0 +1,146 @@
+Cuisine,Training Support,Testing Support,Predicted Support,Precision,Recall,F1 Score,Test Support Available
+afghani,11,3,0,0.0,0.0,0.0,True
+african,6,2,0,0.0,0.0,0.0,True
+american,312,78,9,0.4444444444444444,0.05128205128205128,0.09195402298850575,True
+andhra,8,2,0,0.0,0.0,0.0,True
+arabian,22,6,0,0.0,0.0,0.0,True
+argentine,2,0,0,0.0,0.0,0.0,False
+armenian,2,1,0,0.0,0.0,0.0,True
+asian,186,47,0,0.0,0.0,0.0,True
+asian fusion,2,0,0,0.0,0.0,0.0,False
+assamese,3,1,0,0.0,0.0,0.0,True
+australian,4,1,0,0.0,0.0,0.0,True
+awadhi,9,2,0,0.0,0.0,0.0,True
+bakery,595,149,0,0.0,0.0,0.0,True
+bar food,31,8,0,0.0,0.0,0.0,True
+bbq,26,7,0,0.0,0.0,0.0,True
+belgian,2,0,0,0.0,0.0,0.0,False
+bengali,23,6,0,0.0,0.0,0.0,True
+beverages,182,46,0,0.0,0.0,0.0,True
+bihari,5,1,0,0.0,0.0,0.0,True
+biryani,142,35,0,0.0,0.0,0.0,True
+brazilian,22,6,0,0.0,0.0,0.0,True
+breakfast,33,8,0,0.0,0.0,0.0,True
+british,13,3,0,0.0,0.0,0.0,True
+bubble tea,1,0,0,0.0,0.0,0.0,False
+burger,201,50,0,0.0,0.0,0.0,True
+burmese,8,2,0,0.0,0.0,0.0,True
+börek,1,0,0,0.0,0.0,0.0,False
+cafe,562,141,0,0.0,0.0,0.0,True
+cajun,8,2,0,0.0,0.0,0.0,True
+canadian,1,0,0,0.0,0.0,0.0,False
+cantonese,2,0,0,0.0,0.0,0.0,False
+caribbean,6,1,0,0.0,0.0,0.0,True
+charcoal grill,3,1,0,0.0,0.0,0.0,True
+chettinad,9,2,0,0.0,0.0,0.0,True
+chinese,2186,547,80,0.5,0.07312614259597806,0.12759170653907495,True
+coffee and tea,15,4,1,0.0,0.0,0.0,True
+contemporary,7,2,0,0.0,0.0,0.0,True
+continental,589,147,34,0.4117647058823529,0.09523809523809523,0.15469613259668508,True
+cuban,2,0,0,0.0,0.0,0.0,False
+cuisine varies,1,0,0,0.0,0.0,0.0,False
+curry,5,1,0,0.0,0.0,0.0,True
+deli,2,1,0,0.0,0.0,0.0,True
+desserts,522,131,0,0.0,0.0,0.0,True
+dim sum,2,1,0,0.0,0.0,0.0,True
+diner,5,1,0,0.0,0.0,0.0,True
+drinks only,2,0,0,0.0,0.0,0.0,False
+durban,1,0,0,0.0,0.0,0.0,False
+döner,1,0,0,0.0,0.0,0.0,False
+european,118,30,0,0.0,0.0,0.0,True
+fast food,1589,397,7,0.14285714285714285,0.0025188916876574307,0.0049504950495049506,True
+filipino,8,2,1,0.0,0.0,0.0,True
+finger food,91,23,0,0.0,0.0,0.0,True
+fish and chips,1,0,0,0.0,0.0,0.0,False
+french,23,6,0,0.0,0.0,0.0,True
+fusion,3,1,0,0.0,0.0,0.0,True
+german,8,2,0,0.0,0.0,0.0,True
+goan,16,4,0,0.0,0.0,0.0,True
+gourmet fast food,1,0,0,0.0,0.0,0.0,False
+greek,12,3,0,0.0,0.0,0.0,True
+grill,17,4,0,0.0,0.0,0.0,True
+gujarati,9,2,0,0.0,0.0,0.0,True
+hawaiian,6,2,0,0.0,0.0,0.0,True
+healthy food,120,30,0,0.0,0.0,0.0,True
+hyderabadi,21,5,0,0.0,0.0,0.0,True
+ice cream,181,45,0,0.0,0.0,0.0,True
+indian,56,14,5,0.6,0.21428571428571427,0.3157894736842105,True
+indonesian,11,3,0,0.0,0.0,0.0,True
+international,17,4,0,0.0,0.0,0.0,True
+iranian,2,1,0,0.0,0.0,0.0,True
+irish,1,0,0,0.0,0.0,0.0,False
+italian,611,153,12,0.5833333333333334,0.0457516339869281,0.08484848484848485,True
+izgara,2,0,0,0.0,0.0,0.0,False
+japanese,108,27,1,0.0,0.0,0.0,True
+juices,23,6,0,0.0,0.0,0.0,True
+kashmiri,16,4,0,0.0,0.0,0.0,True
+kebab,8,2,0,0.0,0.0,0.0,True
+kerala,18,5,0,0.0,0.0,0.0,True
+kiwi,5,1,0,0.0,0.0,0.0,True
+korean,17,4,0,0.0,0.0,0.0,True
+latin american,9,2,0,0.0,0.0,0.0,True
+lebanese,55,14,0,0.0,0.0,0.0,True
+lucknowi,10,3,0,0.0,0.0,0.0,True
+maharashtrian,8,2,0,0.0,0.0,0.0,True
+malay,1,0,0,0.0,0.0,0.0,False
+malaysian,18,4,0,0.0,0.0,0.0,True
+malwani,1,0,0,0.0,0.0,0.0,False
+mangalorean,3,1,0,0.0,0.0,0.0,True
+mediterranean,90,22,0,0.0,0.0,0.0,True
+mexican,145,36,0,0.0,0.0,0.0,True
+middle eastern,18,4,0,0.0,0.0,0.0,True
+mineira,1,0,0,0.0,0.0,0.0,False
+mithai,304,76,1,0.0,0.0,0.0,True
+modern australian,9,2,1,0.0,0.0,0.0,True
+modern indian,13,3,0,0.0,0.0,0.0,True
+moroccan,4,1,0,0.0,0.0,0.0,True
+mughlai,795,199,0,0.0,0.0,0.0,True
+naga,6,2,0,0.0,0.0,0.0,True
+nepalese,7,2,0,0.0,0.0,0.0,True
+new american,2,0,0,0.0,0.0,0.0,False
+north eastern,7,2,0,0.0,0.0,0.0,True
+north indian,3168,792,471,0.5966029723991507,0.3547979797979798,0.444972288202692,True
+oriya,2,0,0,0.0,0.0,0.0,False
+pakistani,10,2,0,0.0,0.0,0.0,True
+parsi,6,2,0,0.0,0.0,0.0,True
+patisserie,3,1,0,0.0,0.0,0.0,True
+peranakan,1,0,0,0.0,0.0,0.0,False
+persian,2,0,0,0.0,0.0,0.0,False
+peruvian,1,0,0,0.0,0.0,0.0,False
+pizza,305,76,0,0.0,0.0,0.0,True
+portuguese,6,1,0,0.0,0.0,0.0,True
+pub food,2,0,0,0.0,0.0,0.0,False
+rajasthani,17,4,0,0.0,0.0,0.0,True
+ramen,2,0,0,0.0,0.0,0.0,False
+raw meats,91,23,0,0.0,0.0,0.0,True
+restaurant cafe,3,1,0,0.0,0.0,0.0,True
+salad,74,19,0,0.0,0.0,0.0,True
+sandwich,42,11,0,0.0,0.0,0.0,True
+scottish,2,1,0,0.0,0.0,0.0,True
+seafood,139,35,5,0.0,0.0,0.0,True
+singaporean,3,1,0,0.0,0.0,0.0,True
+soul food,1,0,0,0.0,0.0,0.0,False
+south african,5,1,0,0.0,0.0,0.0,True
+south american,2,0,0,0.0,0.0,0.0,False
+south indian,509,127,0,0.0,0.0,0.0,True
+southern,19,5,0,0.0,0.0,0.0,True
+southwestern,6,1,0,0.0,0.0,0.0,True
+spanish,13,3,0,0.0,0.0,0.0,True
+sri lankan,4,1,0,0.0,0.0,0.0,True
+steak,50,12,1,1.0,0.08333333333333333,0.15384615384615385,True
+street food,450,112,2,0.5,0.008928571428571428,0.017543859649122806,True
+sunda,2,1,0,0.0,0.0,0.0,True
+sushi,60,15,1,1.0,0.06666666666666667,0.125,True
+taiwanese,2,0,0,0.0,0.0,0.0,False
+tapas,15,4,0,0.0,0.0,0.0,True
+tea,38,10,0,0.0,0.0,0.0,True
+teriyaki,2,0,0,0.0,0.0,0.0,False
+tex-mex,15,4,0,0.0,0.0,0.0,True
+thai,187,47,0,0.0,0.0,0.0,True
+tibetan,35,9,0,0.0,0.0,0.0,True
+turkish,12,3,0,0.0,0.0,0.0,True
+turkish pizza,6,2,0,0.0,0.0,0.0,True
+vegetarian,18,5,0,0.0,0.0,0.0,True
+vietnamese,17,4,0,0.0,0.0,0.0,True
+western,8,2,0,0.0,0.0,0.0,True
+world cuisine,3,1,0,0.0,0.0,0.0,True

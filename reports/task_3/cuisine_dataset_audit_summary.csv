@@ -1,0 +1,13 @@
+Metric,Value
+Total Restaurants,9551
+Total Dataset Columns,21
+Missing Cuisine Records,9
+Restaurants With Cuisine Information,9542
+Total Individual Cuisine Classes,145
+Single Cuisine Restaurants,3394
+Multiple Cuisine Restaurants,6148
+Restaurants Without Known Cuisine,9
+Common Cuisine Classes,82
+Rare Cuisine Classes,63
+Duplicate Records,0
+Duplicate Restaurant IDs,0

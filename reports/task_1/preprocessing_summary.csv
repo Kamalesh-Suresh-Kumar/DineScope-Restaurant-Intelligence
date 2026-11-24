@@ -1,0 +1,13 @@
+Metric,Value
+Original records,9551
+Unrated records removed,2148
+Rated records retained,7403
+Corrupted city names replaced,50
+Remaining corrupted city values replaced,0
+Training records,5922
+Testing records,1481
+Overlapping records,0
+Selected features without votes,8
+Selected features with votes,9
+Target variable,Aggregate rating
+Duplicate records after cleaning,0

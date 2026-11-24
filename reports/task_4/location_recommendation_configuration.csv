@@ -1,0 +1,5 @@
+Component,Configured_Weight,City_Active_Weight,Locality_Active_Weight
+Rating_Score,0.4,0.4,0.4
+Cuisine_Diversity_Score,0.2,0.2,0.2
+Rating_Coverage_Score,0.2,0.2,0.2
+Restaurant_Availability_Score,0.2,0.2,0.2

@@ -1,0 +1,41 @@
+Selected Cuisines,Selected City,Selected Locality,Selected Price Ranges,Minimum Rating,Requested Recommendations,Eligible Restaurants,Session Timestamp,Recommendation Rank,Restaurant ID,Restaurant Name,City,Locality,Cuisines,Price range,Aggregate rating,Votes,Cuisine Similarity,Recommendation Score
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T14:10:20,1,18363787,The Culinary Pitaara,New Delhi,Defence Colony,"north indian, chinese",2,4.2,95,0.99999994,0.9759999642372131
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T14:10:20,2,18157402,Sid's Kitchen,New Delhi,Kamla Nagar,"north indian, chinese",2,3.8,115,0.99999994,0.9639999642372131
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T14:10:20,3,18354639,Panchwati Rasoi,New Delhi,Anand Vihar,"north indian, chinese",1,3.8,62,0.99999994,0.9639999642372131
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T14:10:20,4,18246132,Nik's Kitchen,New Delhi,Rohini,"north indian, chinese",2,3.8,56,0.99999994,0.9639999642372131
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T14:10:20,5,18454473,Masala Factory,New Delhi,Tagore Garden,"north indian, chinese",2,3.8,18,0.99999994,0.9639999642372131
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T14:10:20,6,965,Sethi's Restaurant & Barbeque,New Delhi,Rajouri Garden,"north indian, chinese",2,3.7,422,0.99999994,0.9609999642372131
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T14:10:20,7,306,Sagar Ratna,New Delhi,Defence Colony,"north indian, chinese",2,3.7,308,0.99999994,0.9609999642372131
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T14:10:20,8,18285729,Farratta,New Delhi,Malviya Nagar,"north indian, chinese",2,3.7,93,0.99999994,0.9609999642372131
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T14:10:20,9,6646,Suresh Fast Food,New Delhi,Delhi University-GTB Nagar,"north indian, chinese",1,3.7,91,0.99999994,0.9609999642372131
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T14:10:20,10,18322665,Wah Ji Wah,New Delhi,Janakpuri,"north indian, chinese",1,3.7,61,0.99999994,0.9609999642372131
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T14:22:40,1,18363787,The Culinary Pitaara,New Delhi,Defence Colony,"north indian, chinese",2,4.2,95,0.9999999403953552,0.9759999642372131
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T14:22:40,2,18157402,Sid's Kitchen,New Delhi,Kamla Nagar,"north indian, chinese",2,3.8,115,0.9999999403953552,0.9639999642372131
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T14:22:40,3,18354639,Panchwati Rasoi,New Delhi,Anand Vihar,"north indian, chinese",1,3.8,62,0.9999999403953552,0.9639999642372131
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T14:22:40,4,18246132,Nik's Kitchen,New Delhi,Rohini,"north indian, chinese",2,3.8,56,0.9999999403953552,0.9639999642372131
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T14:22:40,5,18454473,Masala Factory,New Delhi,Tagore Garden,"north indian, chinese",2,3.8,18,0.9999999403953552,0.9639999642372131
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T14:22:40,6,965,Sethi's Restaurant & Barbeque,New Delhi,Rajouri Garden,"north indian, chinese",2,3.7,422,0.9999999403953552,0.9609999642372131
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T14:22:40,7,306,Sagar Ratna,New Delhi,Defence Colony,"north indian, chinese",2,3.7,308,0.9999999403953552,0.9609999642372131
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T14:22:40,8,18285729,Farratta,New Delhi,Malviya Nagar,"north indian, chinese",2,3.7,93,0.9999999403953552,0.9609999642372131
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T14:22:40,9,6646,Suresh Fast Food,New Delhi,Delhi University-GTB Nagar,"north indian, chinese",1,3.7,91,0.9999999403953552,0.9609999642372131
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T14:22:40,10,18322665,Wah Ji Wah,New Delhi,Janakpuri,"north indian, chinese",1,3.7,61,0.9999999403953552,0.9609999642372131
+"world cuisine, western",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T17:41:18,1,310143,Naturals Ice Cream,New Delhi,Connaught Place,ice cream,1,4.9,2620,0.0,0.14700000000000002
+"world cuisine, western",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T17:41:18,2,18237321,Echoes Satyaniketan,New Delhi,Satyaniketan,"cafe, continental, italian, mexican, chinese, american",2,4.7,1563,0.0,0.14100000000000001
+"world cuisine, western",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T17:41:18,3,313368,Naturals Ice Cream,New Delhi,Rajouri Garden,ice cream,1,4.7,474,0.0,0.14100000000000001
+"world cuisine, western",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T17:41:18,4,18273624,Cafeteria & Co.,New Delhi,Vijay Nagar,"continental, mexican",2,4.6,1136,0.0,0.13799999999999998
+"world cuisine, western",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T17:41:18,5,18161577,Spezia Bistro,New Delhi,Delhi University-GTB Nagar,"cafe, continental, chinese, italian",2,4.6,1071,0.0,0.13799999999999998
+"world cuisine, western",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T17:41:18,6,18420452,Food Scouts,New Delhi,Punjabi Bagh,"north indian, chinese, continental",2,4.6,61,0.0,0.13799999999999998
+"world cuisine, western",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T17:41:18,7,309844,Natural Ice Cream,New Delhi,"JMD Kohinoor Mall, Greater Kailash",ice cream,1,4.5,665,0.0,0.135
+"world cuisine, western",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T17:41:18,8,303642,Kuremal Mohan Lal Kulfi Wale,New Delhi,Chawri Bazar,ice cream,1,4.5,545,0.0,0.135
+"world cuisine, western",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T17:41:18,9,18349919,Natural Ice Cream,New Delhi,Hauz Khas,ice cream,1,4.5,67,0.0,0.135
+"world cuisine, western",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T17:41:18,10,18421049,Midnight Hunger Hub,New Delhi,Janakpuri,"north indian, fast food, italian, asian",2,4.5,50,0.0,0.135
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T17:42:46,1,18363787,The Culinary Pitaara,New Delhi,Defence Colony,"north indian, chinese",2,4.2,95,0.9999999403953552,0.9759999642372131
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T17:42:46,2,18157402,Sid's Kitchen,New Delhi,Kamla Nagar,"north indian, chinese",2,3.8,115,0.9999999403953552,0.9639999642372131
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T17:42:46,3,18354639,Panchwati Rasoi,New Delhi,Anand Vihar,"north indian, chinese",1,3.8,62,0.9999999403953552,0.9639999642372131
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T17:42:46,4,18246132,Nik's Kitchen,New Delhi,Rohini,"north indian, chinese",2,3.8,56,0.9999999403953552,0.9639999642372131
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T17:42:46,5,18454473,Masala Factory,New Delhi,Tagore Garden,"north indian, chinese",2,3.8,18,0.9999999403953552,0.9639999642372131
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T17:42:46,6,965,Sethi's Restaurant & Barbeque,New Delhi,Rajouri Garden,"north indian, chinese",2,3.7,422,0.9999999403953552,0.9609999642372131
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T17:42:46,7,306,Sagar Ratna,New Delhi,Defence Colony,"north indian, chinese",2,3.7,308,0.9999999403953552,0.9609999642372131
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T17:42:46,8,18285729,Farratta,New Delhi,Malviya Nagar,"north indian, chinese",2,3.7,93,0.9999999403953552,0.9609999642372131
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T17:42:46,9,6646,Suresh Fast Food,New Delhi,Delhi University-GTB Nagar,"north indian, chinese",1,3.7,91,0.9999999403953552,0.9609999642372131
+"north indian, chinese",new delhi,Any,"1, 2",3.5,10,959,2026-11-23T17:42:46,10,18322665,Wah Ji Wah,New Delhi,Janakpuri,"north indian, chinese",1,3.7,61,0.9999999403953552,0.9609999642372131

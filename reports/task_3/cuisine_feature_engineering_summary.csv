@@ -1,0 +1,16 @@
+Metric,Value
+Training Records,7621
+Testing Records,1921
+Original Selected Features,13
+Categorical Features,7
+Numerical Features,6
+Engineered Features,170
+Cuisine Classes,145
+Training Target Shape,"(7621, 145)"
+Testing Target Shape,"(1921, 145)"
+Training Feature Matrix Shape,"(7621, 170)"
+Testing Feature Matrix Shape,"(1921, 170)"
+Feature Preprocessing Method,ColumnTransformer
+Numerical Scaling,StandardScaler
+Categorical Encoding,OneHotEncoder
+Target Representation,Multi-label binary matrix

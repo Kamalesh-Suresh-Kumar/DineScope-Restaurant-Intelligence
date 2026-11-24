@@ -1,0 +1,1266 @@
+Country Code,City,Locality,Currency,Restaurant_Count,Average_Cost,Median_Cost,Minimum_Cost,Maximum_Cost
+94,Jakarta,"Hotel Shangri-La, Sudirman",Indonesian Rupiah(IDR),1,800000.0,800000.0,800000,800000
+94,Jakarta,"Grand Indonesia Mall, Thamrin",Indonesian Rupiah(IDR),2,500000.0,500000.0,200000,800000
+94,Jakarta,Penjaringan,Indonesian Rupiah(IDR),1,500000.0,500000.0,500000,500000
+94,Jakarta,Thamrin,Indonesian Rupiah(IDR),1,350000.0,350000.0,350000,350000
+94,Jakarta,"Plaza Festival, Kuningan",Indonesian Rupiah(IDR),1,300000.0,300000.0,300000,300000
+94,Tangerang,"Alam Sutera Town Center, Serpong Utara",Indonesian Rupiah(IDR),1,300000.0,300000.0,300000,300000
+94,Jakarta,Senopati,Indonesian Rupiah(IDR),2,285000.0,285000.0,120000,450000
+94,Bogor,Bogor Utara,Indonesian Rupiah(IDR),1,250000.0,250000.0,250000,250000
+94,Jakarta,Kelapa Gading,Indonesian Rupiah(IDR),1,250000.0,250000.0,250000,250000
+94,Jakarta,"Kota Kasablanka, Tebet",Indonesian Rupiah(IDR),1,200000.0,200000.0,200000,200000
+94,Jakarta,"Gandaria City Mall, Gandaria",Indonesian Rupiah(IDR),1,200000.0,200000.0,200000,200000
+94,Jakarta,Cengkareng,Indonesian Rupiah(IDR),1,200000.0,200000.0,200000,200000
+94,Jakarta,"Taman Impian Jaya Ancol, Ancol",Indonesian Rupiah(IDR),1,200000.0,200000.0,200000,200000
+94,Tangerang,Pondok Aren,Indonesian Rupiah(IDR),1,200000.0,200000.0,200000,200000
+94,Jakarta,Fatmawati,Indonesian Rupiah(IDR),1,165000.0,165000.0,165000,165000
+94,Bandung,Dago,Indonesian Rupiah(IDR),1,150000.0,150000.0,150000,150000
+94,Jakarta,Tanjung Duren,Indonesian Rupiah(IDR),1,100000.0,100000.0,100000,100000
+94,Jakarta,Tebet,Indonesian Rupiah(IDR),1,100000.0,100000.0,100000,100000
+94,Bogor,Bogor Timur,Indonesian Rupiah(IDR),1,70000.0,70000.0,70000,70000
+162,Pasay City,"Sofitel Philippine Plaza Manila, Pasay City",Botswana Pula(P),1,6000.0,6000.0,6000,6000
+1,New Delhi,"The Taj Mahal Hotel, Mansingh Road",Indian Rupees(Rs.),7,4671.428571428572,5000.0,2500,6000
+1,New Delhi,JW Marriott New Delhi,Indian Rupees(Rs.),1,4500.0,4500.0,4500,4500
+1,Gurgaon,"Crowne Plaza, Sector 29",Indian Rupees(Rs.),2,4250.0,4250.0,3500,5000
+1,New Delhi,"The Leela Palace, Chanakyapuri",Indian Rupees(Rs.),5,4000.0,4000.0,2000,5500
+191,Colombo,"Fort, Colombo 01",Sri Lankan Rupee(LKR),1,4000.0,4000.0,4000,4000
+162,Mandaluyong City,"Edsa Shangri-La, Ortigas, Mandaluyong City",Botswana Pula(P),1,4000.0,4000.0,4000,4000
+191,Colombo,"Old Dutch Hospital, Fort",Sri Lankan Rupee(LKR),1,4000.0,4000.0,4000,4000
+1,New Delhi,"The Imperial, Janpath",Indian Rupees(Rs.),9,3933.3333333333335,4000.0,900,6000
+1,New Delhi,"The Taj Palace Hotel, Chanakyapuri",Indian Rupees(Rs.),4,3875.0,3000.0,1500,8000
+1,New Delhi,"Shangri La's - Eros hotel, Janpath",Indian Rupees(Rs.),5,3860.0,3800.0,2000,5000
+1,Gurgaon,"Vivanta by Taj, Sector 44, Gurgaon",Indian Rupees(Rs.),2,3750.0,3750.0,3500,4000
+1,New Delhi,"The Park, Connaught Place",Indian Rupees(Rs.),3,3666.6666666666665,3500.0,3000,4500
+1,New Delhi,"The Lalit New Delhi, Barakhamba Road",Indian Rupees(Rs.),8,3637.5,4500.0,900,5100
+1,New Delhi,"ITC Maurya, Chanakyapuri",Indian Rupees(Rs.),6,3533.3333333333335,2750.0,1000,7000
+1,New Delhi,"The Claridges, Aurangzeb Road",Indian Rupees(Rs.),7,3500.0,4100.0,1000,5000
+1,New Delhi,"Le Meridien, Janpath",Indian Rupees(Rs.),6,3500.0,3750.0,2000,5000
+1,Gurgaon,"Le Meridien Gurgaon, MG Road",Indian Rupees(Rs.),3,3366.6666666666665,4000.0,1600,4500
+1,New Delhi,"Sheraton New Delhi Hotel, Saket",Indian Rupees(Rs.),3,3333.3333333333335,3000.0,3000,4000
+1,New Delhi,"Hyatt Regency, Bhikaji Cama Place",Indian Rupees(Rs.),6,3333.3333333333335,3750.0,1000,4500
+1,New Delhi,"Garden of Five Senses, Saket",Indian Rupees(Rs.),1,3300.0,3300.0,3300,3300
+1,New Delhi,"Jaypee Siddharth, Rajendra Place",Indian Rupees(Rs.),2,3250.0,3250.0,3000,3500
+189,Pretoria,West Park,Rand(R),1,3210.0,3210.0,3210,3210
+1,Noida,"Radisson Blu, Sector 18, Noida",Indian Rupees(Rs.),1,3200.0,3200.0,3200,3200
+1,New Delhi,The Leela Ambience Convention Hotel,Indian Rupees(Rs.),4,3087.5,3100.0,2650,3500
+1,Gurgaon,"The Westin Sohna Resort & Spa, Sohna Road",Indian Rupees(Rs.),2,3000.0,3000.0,3000,3000
+1,Gurgaon,"The Westin Gurgaon, Sector 29",Indian Rupees(Rs.),3,3000.0,3000.0,3000,3000
+1,Gurgaon,"The Oberoi, Udyog Vihar",Indian Rupees(Rs.),1,3000.0,3000.0,3000,3000
+1,Kanpur,"The Landmark Hotel, Mall Road",Indian Rupees(Rs.),1,3000.0,3000.0,3000,3000
+1,New Delhi,"Eros Hotel, Nehru Place",Indian Rupees(Rs.),5,2990.0,3650.0,700,4800
+1,New Delhi,"The Grand New Delhi, Vasant Kunj",Indian Rupees(Rs.),2,2925.0,2925.0,2650,3200
+1,New Delhi,"Taj Vivanta, Khan Market",Indian Rupees(Rs.),3,2900.0,3000.0,2500,3200
+1,New Delhi,"Hotel The Royal Plaza, Janpath",Indian Rupees(Rs.),6,2750.0,2500.0,2000,4000
+1,New Delhi,"Maidens Hotel, Civil Lines",Indian Rupees(Rs.),3,2733.3333333333335,3000.0,2000,3200
+1,New Delhi,"The Suryaa New Delhi, New Friends Colony",Indian Rupees(Rs.),4,2700.0,2750.0,900,4400
+1,Gurgaon,"Courtyard by Marriott, Sushant Lok",Indian Rupees(Rs.),2,2600.0,2600.0,2500,2700
+1,New Delhi,"Roseate House, Aerocity",Indian Rupees(Rs.),3,2566.6666666666665,3000.0,1000,3700
+1,Gurgaon,"The Pllazio Hotel, Sector 29",Indian Rupees(Rs.),1,2500.0,2500.0,2500,2500
+1,Gurgaon,"The Claremont, MG Road",Indian Rupees(Rs.),1,2500.0,2500.0,2500,2500
+1,Agra,"ITC Mughal, Tajganj",Indian Rupees(Rs.),2,2500.0,2500.0,2500,2500
+1,New Delhi,"Crowne Plaza, Mayur Vihar Phase 1",Indian Rupees(Rs.),2,2500.0,2500.0,2000,3000
+1,Gurgaon,"Trident, Udyog Vihar",Indian Rupees(Rs.),2,2500.0,2500.0,2000,3000
+1,Gurgaon,"Fortune Select Global, MG Road",Indian Rupees(Rs.),1,2500.0,2500.0,2500,2500
+1,Gurgaon,"DoubleTree by Hilton, Sector 56",Indian Rupees(Rs.),2,2500.0,2500.0,2000,3000
+191,Colombo,"Kollupitiya, Colombo 03",Sri Lankan Rupee(LKR),7,2414.285714285714,2400.0,1000,4500
+191,Colombo,"Havelock Town, Colombo 05",Sri Lankan Rupee(LKR),2,2400.0,2400.0,1300,3500
+162,Taguig City,"SM Aura Premier, Bonifacio Global City, Taguig City",Botswana Pula(P),2,2400.0,2400.0,1800,3000
+1,Jaipur,"Holiday Inn Jaipur City Centre, Bais Godam",Indian Rupees(Rs.),2,2400.0,2400.0,2300,2500
+191,Colombo,"Cinnamon Gardens, Colombo 07",Sri Lankan Rupee(LKR),4,2375.0,2500.0,2000,2500
+1,Gurgaon,"Park Plaza, Sushant Lok",Indian Rupees(Rs.),4,2350.0,2600.0,1200,3000
+1,New Delhi,"The Ashok, Chanakyapuri",Indian Rupees(Rs.),6,2350.0,2350.0,500,3700
+1,New Delhi,Friends Colony,Indian Rupees(Rs.),2,2325.0,2325.0,650,4000
+1,New Delhi,"Jaypee Vasant Continental, Vasant Vihar",Indian Rupees(Rs.),5,2300.0,2500.0,500,3000
+1,Gurgaon,"The Bristol Hotel, DLF Phase 1",Indian Rupees(Rs.),3,2300.0,2400.0,2000,2500
+1,Gurgaon,"DLF Star Mall, Sector 30",Indian Rupees(Rs.),2,2300.0,2300.0,1600,3000
+1,New Delhi,"Hotel City Park, Pitampura",Indian Rupees(Rs.),2,2250.0,2250.0,2000,2500
+1,New Delhi,"Radisson Blu Plaza Delhi, Mahipalpur",Indian Rupees(Rs.),6,2250.0,2750.0,1000,3000
+1,New Delhi,"Radisson Blu, Paschim Vihar",Indian Rupees(Rs.),2,2250.0,2250.0,2000,2500
+1,Gurgaon,"Country Inn & Suites By Carlson, Udyog Vihar",Indian Rupees(Rs.),1,2200.0,2200.0,2200,2200
+1,New Delhi,"Premier Inn, Shalimar Bagh",Indian Rupees(Rs.),2,2100.0,2100.0,2000,2200
+1,Pune,"Spot 18 Mall, Pimple Saudagar",Indian Rupees(Rs.),1,2100.0,2100.0,2100,2100
+1,Panchkula,Sector 9,Indian Rupees(Rs.),1,2000.0,2000.0,2000,2000
+1,Jaipur,"Hotel Clarks Amer, Malviya Nagar",Indian Rupees(Rs.),1,2000.0,2000.0,2000,2000
+1,Goa,Vagator,Indian Rupees(Rs.),1,2000.0,2000.0,2000,2000
+1,Agra,"Courtyard by Marriott Agra, Tajganj",Indian Rupees(Rs.),1,2000.0,2000.0,2000,2000
+191,Colombo,"Rajagiriya, Colombo",Sri Lankan Rupee(LKR),1,2000.0,2000.0,2000,2000
+1,Ludhiana,"Hyatt Regency, Rajguru Nagar",Indian Rupees(Rs.),1,2000.0,2000.0,2000,2000
+1,Lucknow,Renaissance Lucknow Hotel,Indian Rupees(Rs.),1,2000.0,2000.0,2000,2000
+162,Pasay City,"SM by the Bay, Mall of Asia Complex, Pasay City",Botswana Pula(P),2,2000.0,2000.0,2000,2000
+1,Indore,"Radisson Blu Hotel, Vijay Nagar",Indian Rupees(Rs.),1,2000.0,2000.0,2000,2000
+1,New Delhi,"Piccadily Hotel, Janakpuri",Indian Rupees(Rs.),1,2000.0,2000.0,2000,2000
+1,Gurgaon,"Plaza Mall, MG Road",Indian Rupees(Rs.),1,2000.0,2000.0,2000,2000
+1,Gurgaon,"Best Western Skycity Hotel, Sector 15, Gurgaon",Indian Rupees(Rs.),2,2000.0,2000.0,1500,2500
+1,New Delhi,"Kasbah, Greater Kailash (GK) 1",Indian Rupees(Rs.),1,2000.0,2000.0,2000,2000
+1,New Delhi,"The Uppal, Aerocity",Indian Rupees(Rs.),3,2000.0,2500.0,500,3000
+1,Gurgaon,"Lemon Tree Premier, Sector 29",Indian Rupees(Rs.),1,2000.0,2000.0,2000,2000
+1,New Delhi,"Pride Plaza Hotel, Aerocity",Indian Rupees(Rs.),3,2000.0,2500.0,500,3000
+1,Ranchi,"Radisson Blu, Hindpiri",Indian Rupees(Rs.),1,2000.0,2000.0,2000,2000
+1,Noida,"Park Ascent, Sector 62, Noida",Indian Rupees(Rs.),1,2000.0,2000.0,2000,2000
+1,Noida,"Mosaic Hotels, Sector 18, Noida",Indian Rupees(Rs.),2,1950.0,1950.0,1700,2200
+1,Indore,"Infiniti Hotel, Vijay Nagar",Indian Rupees(Rs.),1,1950.0,1950.0,1950,1950
+1,New Delhi,"The Village Restaurant Complex, Khel Gaon Marg",Indian Rupees(Rs.),3,1933.3333333333333,1700.0,1600,2500
+1,Hyderabad,Holiday Inn Express & Suites,Indian Rupees(Rs.),1,1900.0,1900.0,1900,1900
+1,Faridabad,"Vibe by The LaLit Traveller, Mathura Road",Indian Rupees(Rs.),1,1900.0,1900.0,1900,1900
+191,Colombo,"Bambalapitiya, Colombo 04",Sri Lankan Rupee(LKR),2,1900.0,1900.0,1800,2000
+1,Kolkata,"Quest Mall, Ballygunge",Indian Rupees(Rs.),1,1900.0,1900.0,1900,1900
+1,New Delhi,"Holiday Inn, Mayur Vihar",Indian Rupees(Rs.),2,1900.0,1900.0,1800,2000
+1,Noida,"Jaypee Greens, Greater Noida, Noida",Indian Rupees(Rs.),2,1850.0,1850.0,1500,2200
+1,Noida,"Jaypee Greens Golf & Spa Resort, Surajpur",Indian Rupees(Rs.),4,1850.0,1500.0,900,3500
+1,New Delhi,"Southern Park Mall, Saket",Indian Rupees(Rs.),2,1850.0,1850.0,1200,2500
+1,Pune,"Phoenix Market City, Viman Nagar",Indian Rupees(Rs.),1,1800.0,1800.0,1800,1800
+1,Bhopal,Sayaji Hotel,Indian Rupees(Rs.),1,1800.0,1800.0,1800,1800
+1,Hyderabad,Kondapur,Indian Rupees(Rs.),1,1800.0,1800.0,1800,1800
+1,Gurgaon,Hyatt Place Gurgaon,Indian Rupees(Rs.),2,1800.0,1800.0,1500,2100
+1,Jaipur,"Devraj Niwas, Bani Park",Indian Rupees(Rs.),1,1800.0,1800.0,1800,1800
+1,Kolkata,Elgin,Indian Rupees(Rs.),1,1800.0,1800.0,1800,1800
+1,Ahmedabad,Ashram Road,Indian Rupees(Rs.),1,1800.0,1800.0,1800,1800
+1,Agra,"Radisson Blu, Tajganj",Indian Rupees(Rs.),2,1800.0,1800.0,0,3600
+1,Gurgaon,"Two Horizon Center, Golf Course Road",Indian Rupees(Rs.),3,1800.0,2500.0,400,2500
+1,Noida,"Park Plaza Hotel, Sector 55, Noida",Indian Rupees(Rs.),3,1766.6666666666667,2000.0,500,2800
+1,New Delhi,"Crowne Plaza Hotel, Rohini",Indian Rupees(Rs.),2,1750.0,1750.0,1000,2500
+1,Chennai,T. Nagar,Indian Rupees(Rs.),2,1750.0,1750.0,1500,2000
+1,Noida,"Fortune Inn Grazia, Sector 27, Noida",Indian Rupees(Rs.),2,1750.0,1750.0,1500,2000
+1,New Delhi,"Sangam Courtyard, RK Puram",Indian Rupees(Rs.),7,1742.857142857143,1800.0,700,2500
+1,Pune,"R Deccan Mall, JM Road",Indian Rupees(Rs.),1,1700.0,1700.0,1700,1700
+1,Vizag,"Hotel Novotel, Maharani Peta",Indian Rupees(Rs.),1,1700.0,1700.0,1700,1700
+1,Chennai,"Express Avenue Mall,  Royapettah",Indian Rupees(Rs.),1,1700.0,1700.0,1700,1700
+1,Gurgaon,"Ambience Mall, Gurgaon",Indian Rupees(Rs.),2,1700.0,1700.0,1400,2000
+1,Mysore,Ittige Gudu,Indian Rupees(Rs.),1,1700.0,1700.0,1700,1700
+1,New Delhi,"The Lodhi, Lodhi Road",Indian Rupees(Rs.),2,1700.0,1700.0,400,3000
+1,Hyderabad,Banjara Hills,Indian Rupees(Rs.),2,1650.0,1650.0,1500,1800
+1,New Delhi,"MGF Metropolitan Mall, Saket",Indian Rupees(Rs.),5,1620.0,2000.0,700,2200
+1,Patna,"Hotel Maurya, Lodipur",Indian Rupees(Rs.),1,1600.0,1600.0,1600,1600
+1,Goa,Betalbatim,Indian Rupees(Rs.),1,1600.0,1600.0,1600,1600
+1,Ludhiana,"Silver Arc Mall, Gurdev Nagar",Indian Rupees(Rs.),1,1600.0,1600.0,1600,1600
+1,Lucknow,"Riverside Mall, Gomti Nagar",Indian Rupees(Rs.),1,1600.0,1600.0,1600,1600
+1,Kolkata,"Silver Spring Arcade, Science City Area",Indian Rupees(Rs.),1,1600.0,1600.0,1600,1600
+1,Mangalore,Kankanady,Indian Rupees(Rs.),1,1600.0,1600.0,1600,1600
+1,Pune,Baner,Indian Rupees(Rs.),2,1600.0,1600.0,1200,2000
+1,Bangalore,Sarjapur Road,Indian Rupees(Rs.),2,1600.0,1600.0,1400,1800
+1,Jaipur,"Chokhi Dhani Village Resort, Tonk Road",Indian Rupees(Rs.),1,1600.0,1600.0,1600,1600
+1,New Delhi,"City Square Mall, Rajouri Garden",Indian Rupees(Rs.),3,1583.3333333333333,1450.0,1300,2000
+1,Noida,"Centre Stage Mall, Sector 18",Indian Rupees(Rs.),4,1575.0,1550.0,600,2600
+1,Chandigarh,Sector 26,Indian Rupees(Rs.),2,1550.0,1550.0,1300,1800
+1,New Delhi,"DLF Emporio Mall, Vasant Kunj",Indian Rupees(Rs.),2,1550.0,1550.0,1500,1600
+1,New Delhi,"Hotel Broadway, Daryaganj",Indian Rupees(Rs.),2,1550.0,1550.0,1100,2000
+1,Kolkata,"Sector 5, Salt Lake",Indian Rupees(Rs.),2,1550.0,1550.0,1500,1600
+189,Inner City,City and Suburban,Rand(R),1,1540.0,1540.0,1540,1540
+1,New Delhi,"MGM Club, Daryaganj",Indian Rupees(Rs.),6,1533.3333333333333,1600.0,1000,2000
+1,Hyderabad,Gachibowli,Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Mumbai,Fort,Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+191,Colombo,"Dehiwala, Colombo",Sri Lankan Rupee(LKR),1,1500.0,1500.0,1500,1500
+1,Gurgaon,"Leisure Inn, Sector 14, Gurgaon",Indian Rupees(Rs.),3,1500.0,1400.0,1200,1900
+1,Chandigarh,Sector 7,Indian Rupees(Rs.),2,1500.0,1500.0,800,2200
+1,Vizag,"The Park, Lawsons Bay",Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,New Delhi,"Centaur Hotel, Aerocity",Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Kanpur,Tilak Nagar,Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Kanpur,"Status Club, Kanpur Cantonment",Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Ludhiana,"Westend Mall, Rajguru Nagar",Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Mangalore,"Goldfinch Hotel, Balmatta",Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Chennai,Mylapore,Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Nashik,"City Center, Parijat Nagar",Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Bhubaneshwar,"The Crown, Nayapalli",Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Bangalore,UB City,Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Gurgaon,"Ramada Gurgaon Central, Sector 44",Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,New Delhi,"Andaz Delhi, Aerocity",Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Indore,"Sayaji Hotel, Vijay Nagar",Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Bangalore,Koramangala 7th Block,Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+162,Taguig City,Bonifacio Global City,Botswana Pula(P),1,1500.0,1500.0,1500,1500
+1,New Delhi,"West Gate Mall, Rajouri Garden",Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Gurgaon,"Fortune Select Excalibur, Sohna Road",Indian Rupees(Rs.),2,1500.0,1500.0,1000,2000
+1,Gurgaon,"Park Inn, Sector 15, Gurgaon",Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Hyderabad,"12th Square Building, Banjara Hills",Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Gurgaon,"The Galgotias, Sector 23",Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Goa,Nerul,Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Gurgaon,"Country Inn & Suites by Carlson, Gurgaon",Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Pune,"Balewadi High Street, Balewadi",Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Goa,"Anjuna Beach, Anjuna",Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Kanpur,"Rave 3, Tilak Nagar",Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Kanpur,Hotel Royal Cliff,Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Puducherry,"The Promenade, White Town",Indian Rupees(Rs.),2,1500.0,1500.0,1500,1500
+1,Puducherry,"Villa Shanti, White Town",Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Ludhiana,Aggar Nagar,Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Kolkata,"Mani Square Mall, Kankurgachi",Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Faridabad,K Hotel,Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,New Delhi,"Best Western Taurus Hotel, Mahipalpur",Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Pune,Ravet,Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Ranchi,"The Royal Retreat, Bariatu",Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Gurgaon,"Jukaso It Suites, Sector 14",Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Jaipur,Tonk Road,Indian Rupees(Rs.),1,1500.0,1500.0,1500,1500
+1,Noida,"Hotel Golf View, Sector 37, Noida",Indian Rupees(Rs.),3,1500.0,1300.0,1200,2000
+1,New Delhi,"Ansal Plaza Mall, Khel Gaon Marg",Indian Rupees(Rs.),8,1450.0,1500.0,500,2500
+1,Chandigarh,"Elante Mall, Chandigarh Industrial Area",Indian Rupees(Rs.),5,1440.0,1400.0,1200,1600
+1,Bangalore,Indiranagar,Indian Rupees(Rs.),6,1433.3333333333333,1400.0,600,2400
+1,Gurgaon,"JMD Regent Arcade Mall, MG Road",Indian Rupees(Rs.),2,1425.0,1425.0,1000,1850
+1,New Delhi,Hauz Khas Village,Indian Rupees(Rs.),24,1402.0833333333333,1600.0,200,2400
+1,Coimbatore,Town Hall,Indian Rupees(Rs.),1,1400.0,1400.0,1400,1400
+1,Vizag,Waltair Uplands,Indian Rupees(Rs.),1,1400.0,1400.0,1400,1400
+1,Bhubaneshwar,"Mayfair Lagoon, Jayadev Vihar",Indian Rupees(Rs.),1,1400.0,1400.0,1400,1400
+1,Gurgaon,"MGF Mega City Mall, MG Road",Indian Rupees(Rs.),4,1400.0,1500.0,600,2000
+1,Gurgaon,"Country Inn & Suites by Carlson, Sector 12",Indian Rupees(Rs.),2,1400.0,1400.0,1000,1800
+1,Ludhiana,BRS Nagar,Indian Rupees(Rs.),1,1400.0,1400.0,1400,1400
+1,Kolkata,Camac Street Area,Indian Rupees(Rs.),1,1400.0,1400.0,1400,1400
+1,Gurgaon,"Hotel Clark Inn, Sector 15",Indian Rupees(Rs.),2,1400.0,1400.0,1400,1400
+1,Surat,"International Business Center, Piplod",Indian Rupees(Rs.),1,1400.0,1400.0,1400,1400
+1,Kanpur,"Z Square Mall, Mall Road",Indian Rupees(Rs.),1,1400.0,1400.0,1400,1400
+1,Ahmedabad,"Courtyard By Marriott, Satellite",Indian Rupees(Rs.),1,1400.0,1400.0,1400,1400
+1,Faridabad,"Hotel Saffron Kiran, Faridabad",Indian Rupees(Rs.),3,1400.0,1500.0,1200,1500
+1,Ludhiana,Rajguru Nagar,Indian Rupees(Rs.),1,1400.0,1400.0,1400,1400
+1,Puducherry,"Hotel De Pondicherry, White Town",Indian Rupees(Rs.),1,1400.0,1400.0,1400,1400
+1,Hyderabad,Ohri' Hitech City,Indian Rupees(Rs.),1,1400.0,1400.0,1400,1400
+1,Gurgaon,Sector 29,Indian Rupees(Rs.),38,1394.7368421052631,1500.0,400,3300
+1,Gurgaon,"Cross Point Mall, DLF Phase 4",Indian Rupees(Rs.),8,1387.5,1500.0,800,1700
+162,Mandaluyong City,"SM Megamall, Ortigas, Mandaluyong City",Botswana Pula(P),3,1333.3333333333333,1500.0,1000,1500
+1,Gurgaon,"Cyber Hub, DLF Cyber City",Indian Rupees(Rs.),41,1321.9512195121952,1400.0,200,2500
+1,Vizag,"Hotel GreenPark, Vizag",Indian Rupees(Rs.),1,1300.0,1300.0,1300,1300
+1,Chennai,Velachery,Indian Rupees(Rs.),3,1300.0,1400.0,900,1600
+1,Vizag,Kirlampudi Layout,Indian Rupees(Rs.),2,1300.0,1300.0,1000,1600
+1,Pune,Kalyani Nagar,Indian Rupees(Rs.),3,1300.0,1400.0,1000,1500
+1,Kolkata,"Acropolis Mall, Kasba",Indian Rupees(Rs.),2,1300.0,1300.0,1200,1400
+1,Goa,Anjuna,Indian Rupees(Rs.),3,1300.0,1100.0,800,2000
+1,Goa,"Calangute Beach, Calangute",Indian Rupees(Rs.),1,1300.0,1300.0,1300,1300
+1,Gurgaon,"Country Inn & Suites, Sohna Road",Indian Rupees(Rs.),1,1300.0,1300.0,1300,1300
+1,Bangalore,Marathahalli,Indian Rupees(Rs.),2,1300.0,1300.0,1200,1400
+1,Gurgaon,"Woods Resort, Gurgaon",Indian Rupees(Rs.),1,1300.0,1300.0,1300,1300
+1,Bangalore,"BluPetal Hotel, Koramangala",Indian Rupees(Rs.),1,1300.0,1300.0,1300,1300
+1,Nagpur,Sadar,Indian Rupees(Rs.),1,1300.0,1300.0,1300,1300
+1,New Delhi,Sunder Nagar,Indian Rupees(Rs.),7,1292.857142857143,1000.0,550,2200
+1,Hyderabad,Jubilee Hills,Indian Rupees(Rs.),7,1285.7142857142858,1200.0,600,2000
+1,Guwahati,Christian Basti,Indian Rupees(Rs.),4,1275.0,1350.0,750,1650
+1,Pune,Koregaon Park,Indian Rupees(Rs.),4,1262.5,1200.0,850,1800
+1,New Delhi,Khan Market,Indian Rupees(Rs.),44,1257.9545454545455,1250.0,150,2500
+1,Gurgaon,Sector 30,Indian Rupees(Rs.),2,1250.0,1250.0,650,1850
+1,Mumbai,Powai,Indian Rupees(Rs.),2,1250.0,1250.0,1000,1500
+1,Jaipur,Civil Lines,Indian Rupees(Rs.),2,1250.0,1250.0,1000,1500
+1,Hyderabad,Hitech City,Indian Rupees(Rs.),2,1250.0,1250.0,700,1800
+1,Mumbai,Lower Parel,Indian Rupees(Rs.),3,1233.3333333333333,1500.0,700,1500
+1,New Delhi,Essex Farms,Indian Rupees(Rs.),3,1200.0,1500.0,300,1800
+1,New Delhi,"Ginger Hotel, Vivek Vihar",Indian Rupees(Rs.),2,1200.0,1200.0,800,1600
+1,Ludhiana,Gurdev Nagar,Indian Rupees(Rs.),3,1200.0,1300.0,800,1500
+1,Nagpur,Mohan Nagar,Indian Rupees(Rs.),1,1200.0,1200.0,1200,1200
+1,Chennai,RA Puram,Indian Rupees(Rs.),1,1200.0,1200.0,1200,1200
+1,New Delhi,"Bellagio, Ashok Vihar Phase 2",Indian Rupees(Rs.),3,1200.0,1100.0,1000,1500
+1,Patna,Patliputra Colony,Indian Rupees(Rs.),1,1200.0,1200.0,1200,1200
+162,Tagaytay City,Tagaytay City,Botswana Pula(P),1,1200.0,1200.0,1200,1200
+1,Gurgaon,"Sahara Mall, MG Road",Indian Rupees(Rs.),2,1200.0,1200.0,600,1800
+1,Gurgaon,"The Habitare Hotel, Sector 14",Indian Rupees(Rs.),2,1200.0,1200.0,800,1600
+1,Gurgaon,"Suncity Business Tower, Golf Course Road",Indian Rupees(Rs.),2,1200.0,1200.0,600,1800
+1,Bangalore,Residency Road,Indian Rupees(Rs.),1,1200.0,1200.0,1200,1200
+162,Makati City,"Little Tokyo, Legaspi Village, Makati City",Botswana Pula(P),1,1200.0,1200.0,1200,1200
+1,New Delhi,"City Centre Mall, Rohini",Indian Rupees(Rs.),1,1200.0,1200.0,1200,1200
+1,Mumbai,"Ramee Guestline Hotel, Juhu",Indian Rupees(Rs.),1,1200.0,1200.0,1200,1200
+1,Ahmedabad,Thaltej,Indian Rupees(Rs.),1,1200.0,1200.0,1200,1200
+1,Ahmedabad,"The Fern, Sola",Indian Rupees(Rs.),1,1200.0,1200.0,1200,1200
+1,Gurgaon,"Global Foyer Mall, Golf Course Road",Indian Rupees(Rs.),7,1192.857142857143,1250.0,300,2000
+1,New Delhi,Connaught Place,Indian Rupees(Rs.),122,1175.0,1200.0,150,5000
+1,Goa,Baga,Indian Rupees(Rs.),3,1166.6666666666667,1100.0,1000,1400
+1,Gurgaon,"Hotel Haute.Monde, Sector 15",Indian Rupees(Rs.),2,1150.0,1150.0,1000,1300
+1,Guwahati,Ulubari,Indian Rupees(Rs.),2,1150.0,1150.0,800,1500
+1,Gurgaon,"One Horizon Center, Golf Course Road",Indian Rupees(Rs.),8,1143.75,1100.0,600,1800
+1,Jaipur,C Scheme,Indian Rupees(Rs.),6,1141.6666666666667,1150.0,750,1650
+1,Kolkata,Park Street Area,Indian Rupees(Rs.),4,1137.5,1025.0,900,1600
+1,Gurgaon,"DLF South Point Mall, Golf Course Road",Indian Rupees(Rs.),15,1120.0,1000.0,350,3200
+1,Gurgaon,DLF Cyber City,Indian Rupees(Rs.),5,1120.0,1200.0,400,1800
+1,New Delhi,Pandara Road Market,Indian Rupees(Rs.),10,1110.0,1350.0,200,1700
+1,Nagpur,Dhantoli,Indian Rupees(Rs.),1,1100.0,1100.0,1100,1100
+1,Nashik,Parijat Nagar,Indian Rupees(Rs.),1,1100.0,1100.0,1100,1100
+1,Jaipur,Vaishali Nagar,Indian Rupees(Rs.),2,1100.0,1100.0,1000,1200
+1,Guwahati,"Anil Plaza, Christian Basti",Indian Rupees(Rs.),2,1100.0,1100.0,800,1400
+1,Goa,Cavelossim,Indian Rupees(Rs.),1,1100.0,1100.0,1100,1100
+1,Chennai,Kotturpuram,Indian Rupees(Rs.),1,1100.0,1100.0,1100,1100
+1,Kolkata,Ballygunge,Indian Rupees(Rs.),4,1100.0,1100.0,1000,1200
+1,Lucknow,Lalbagh,Indian Rupees(Rs.),1,1100.0,1100.0,1100,1100
+1,Mumbai,Juhu,Indian Rupees(Rs.),1,1100.0,1100.0,1100,1100
+162,Makati City,"Century City Mall, Poblacion, Makati City",Botswana Pula(P),1,1100.0,1100.0,1100,1100
+1,Chennai,Nungambakkam,Indian Rupees(Rs.),2,1100.0,1100.0,1000,1200
+1,Indore,Bhawar Kuan,Indian Rupees(Rs.),2,1075.0,1075.0,850,1300
+1,Faridabad,"The Atrium, Suraj Kund",Indian Rupees(Rs.),2,1050.0,1050.0,700,1400
+1,Gurgaon,Sector 54,Indian Rupees(Rs.),2,1050.0,1050.0,500,1600
+1,Patna,Fraser Road Area,Indian Rupees(Rs.),4,1050.0,1200.0,300,1500
+1,Gurgaon,"Hotel Grenville, MG Road",Indian Rupees(Rs.),2,1050.0,1050.0,600,1500
+1,Nagpur,Sitabuldi,Indian Rupees(Rs.),3,1050.0,1000.0,550,1600
+1,Bangalore,Koramangala 5th Block,Indian Rupees(Rs.),3,1050.0,950.0,800,1400
+1,Mumbai,"Hill Road, Bandra West",Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Mumbai,"Majiwada, Thane West",Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Pune,Law College Road,Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+191,Colombo,"Slave Island, Colombo 02",Sri Lankan Rupee(LKR),1,1000.0,1000.0,1000,1000
+1,Nagpur,Ramdaspeth,Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Mumbai,"Versova, Andheri West",Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Nagpur,Vivekanand Nagar,Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Mumbai,"Linking Road, Bandra West",Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Mumbai,Vile Parle East,Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Kolkata,Southern Avenue,Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Varanasi,Shivala,Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Vadodara,Panchvati,Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Ahmedabad,C G Road,Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Lucknow,"Royal Inn, Hazratganj",Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Ludhiana,PAU,Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Faridabad,"Park Plaza, Sector 21, Faridabad",Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Ludhiana,"Main Market, Sarabha Nagar",Indian Rupees(Rs.),5,1000.0,1100.0,700,1200
+1,New Delhi,"Holiday Inn, Aerocity",Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+162,San Juan City,Addition Hills,Botswana Pula(P),1,1000.0,1000.0,1000,1000
+1,Goa,Panaji,Indian Rupees(Rs.),4,1000.0,950.0,600,1500
+1,Pune,Deccan Gymkhana,Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Gurgaon,"IBIS Hotel, Golf Course Road",Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Mumbai,Borivali East,Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Mysore,"Pai Hotels, Doora",Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Mangalore,KS Rao Nagar,Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Kochi,"Grand Hotel, MG Road",Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Kanpur,"Rave Moti, Kakadeo",Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Ranchi,Gandhi Nagar,Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Pune,Wakad,Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Pune,Viman Nagar,Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Pune,Senapati Bapat Road,Indian Rupees(Rs.),2,1000.0,1000.0,800,1200
+1,New Delhi,"Lemon Tree Premier, Aerocity",Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Kochi,Chittoor Road,Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Ranchi,Kadru,Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Ranchi,"Hotel Capitol Hill, Hindpiri",Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Aurangabad,"Hotel Green Olive, Nirala Bazar",Indian Rupees(Rs.),1,1000.0,1000.0,1000,1000
+1,Gurgaon,Golf Course Road,Indian Rupees(Rs.),27,990.7407407407408,850.0,400,2200
+1,New Delhi,"Ambience Mall, Vasant Kunj",Indian Rupees(Rs.),12,983.3333333333334,700.0,500,2200
+1,Gurgaon,"Ninex City Mart Mall, Sohna Road",Indian Rupees(Rs.),2,975.0,975.0,450,1500
+1,New Delhi,"Epicuria Food Mall, Nehru Place",Indian Rupees(Rs.),21,969.047619047619,600.0,250,3500
+1,Indore,New Palasia,Indian Rupees(Rs.),3,966.6666666666666,1000.0,700,1200
+1,New Delhi,Janpath,Indian Rupees(Rs.),39,961.5384615384615,650.0,150,5000
+189,Johannesburg,Rosebank,Rand(R),1,955.0,955.0,955,955
+1,Surat,Piplod,Indian Rupees(Rs.),4,950.0,900.0,500,1500
+1,Ahmedabad,Prahlad Nagar,Indian Rupees(Rs.),1,950.0,950.0,950,950
+1,Noida,"DLF Mall of India, Sector 18,  Noida",Indian Rupees(Rs.),31,946.7741935483871,750.0,250,1800
+1,New Delhi,"Crescent Square Mall, Rohini",Indian Rupees(Rs.),4,937.5,775.0,300,1900
+1,New Delhi,"DLF Place Mall, Saket",Indian Rupees(Rs.),12,937.5,650.0,350,2500
+1,Coimbatore,Race Course,Indian Rupees(Rs.),7,935.7142857142857,1000.0,350,1500
+1,Mumbai,Malad West,Indian Rupees(Rs.),3,933.3333333333334,800.0,500,1500
+1,Mysore,Jayalakhsmipuram,Indian Rupees(Rs.),3,933.3333333333334,700.0,500,1600
+162,Pasig City,Kapitolyo,Botswana Pula(P),3,933.3333333333334,900.0,800,1100
+1,Mumbai,Borivali West,Indian Rupees(Rs.),2,925.0,925.0,850,1000
+1,New Delhi,Anand Lok,Indian Rupees(Rs.),2,925.0,925.0,450,1400
+1,Dehradun,Jakhan,Indian Rupees(Rs.),3,916.6666666666666,1250.0,0,1500
+1,New Delhi,Greater Kailash (GK) 2,Indian Rupees(Rs.),66,912.8787878787879,700.0,200,3000
+1,New Delhi,Greater Kailash (GK) 3,Indian Rupees(Rs.),5,910.0,700.0,300,1900
+1,New Delhi,"Select Citywalk Mall, Saket",Indian Rupees(Rs.),25,904.0,650.0,250,2000
+1,New Delhi,"Hotel Classic Diplomat, Mahipalpur",Indian Rupees(Rs.),2,900.0,900.0,800,1000
+1,Coimbatore,RS Puram,Indian Rupees(Rs.),2,900.0,900.0,400,1400
+1,Ahmedabad,Ambavadi,Indian Rupees(Rs.),1,900.0,900.0,900,900
+1,Nashik,"SSK Solitaire, Satpur",Indian Rupees(Rs.),1,900.0,900.0,900,900
+1,Ludhiana,Civil Lines,Indian Rupees(Rs.),2,900.0,900.0,400,1400
+1,Chennai,Perungudi,Indian Rupees(Rs.),1,900.0,900.0,900,900
+1,New Delhi,"ibis New Delhi, Aerocity",Indian Rupees(Rs.),2,900.0,900.0,300,1500
+1,New Delhi,"Aggarwal City Mall, Pitampura",Indian Rupees(Rs.),3,900.0,1000.0,200,1500
+1,Kochi,Kacheripady,Indian Rupees(Rs.),3,900.0,800.0,400,1500
+1,Ahmedabad,Ghatlodia,Indian Rupees(Rs.),1,900.0,900.0,900,900
+1,New Delhi,"Basant Lok Market, Vasant Vihar",Indian Rupees(Rs.),15,900.0,800.0,300,1800
+1,New Delhi,Greater Kailash (GK) 1,Indian Rupees(Rs.),66,900.0,800.0,200,2700
+1,Mysore,Vijay Nagar,Indian Rupees(Rs.),7,892.8571428571429,700.0,550,1500
+1,New Delhi,Vasant Kunj,Indian Rupees(Rs.),23,891.304347826087,850.0,350,2200
+1,Vadodara,Alkapuri,Indian Rupees(Rs.),8,887.5,800.0,400,1500
+1,New Delhi,"Star City Mall, Mayur Vihar Phase 1",Indian Rupees(Rs.),7,885.7142857142857,850.0,350,1400
+1,Gurgaon,MG Road,Indian Rupees(Rs.),24,883.3333333333334,600.0,200,2500
+1,Bhopal,"DB City, Maharana Pratap Nagar",Indian Rupees(Rs.),3,883.3333333333334,1000.0,650,1000
+1,Dehradun,Rajpur,Indian Rupees(Rs.),5,880.0,600.0,500,1600
+1,Ahmedabad,Vastrapur,Indian Rupees(Rs.),2,875.0,875.0,550,1200
+1,Noida,"Gardens Galleria, Sector 38 Noida",Indian Rupees(Rs.),14,867.8571428571429,600.0,300,2000
+1,Patna,Lodipur,Indian Rupees(Rs.),3,866.6666666666666,1000.0,600,1000
+1,Surat,Vesu,Indian Rupees(Rs.),4,862.5,850.0,250,1500
+1,Noida,Sector 18,Indian Rupees(Rs.),75,858.0,650.0,100,2350
+1,New Delhi,Rajouri Garden,Indian Rupees(Rs.),99,855.0505050505051,700.0,100,2200
+1,Aurangabad,Chicalthana,Indian Rupees(Rs.),1,850.0,850.0,850,850
+1,Bhubaneshwar,Gajapati Nagar,Indian Rupees(Rs.),1,850.0,850.0,850,850
+1,Chennai,Ashok Nagar,Indian Rupees(Rs.),1,850.0,850.0,850,850
+1,Chennai,Ramapuram,Indian Rupees(Rs.),1,850.0,850.0,850,850
+1,New Delhi,Mathura Road,Indian Rupees(Rs.),2,850.0,850.0,500,1200
+1,Secunderabad,Karkhana,Indian Rupees(Rs.),1,850.0,850.0,850,850
+1,Chandigarh,Chandigarh Industrial Area,Indian Rupees(Rs.),1,850.0,850.0,850,850
+162,Santa Rosa,"Solenad 3, Don Jose, Santa Rosa",Botswana Pula(P),1,850.0,850.0,850,850
+1,Varanasi,"Radisson Hotel, Nadesar",Indian Rupees(Rs.),2,850.0,850.0,600,1100
+1,Chennai,Santhome,Indian Rupees(Rs.),1,850.0,850.0,850,850
+1,New Delhi,Lodhi Colony,Indian Rupees(Rs.),31,838.7096774193549,500.0,200,2900
+1,Gurgaon,"MGF Metropolitan Mall, MG Road",Indian Rupees(Rs.),24,835.4166666666666,675.0,350,2500
+1,New Delhi,"Metro Walk Mall, Rohini",Indian Rupees(Rs.),3,833.3333333333334,1000.0,500,1000
+1,Puducherry,White Town,Indian Rupees(Rs.),8,831.25,800.0,150,1500
+1,Indore,Old Palasia,Indian Rupees(Rs.),2,825.0,825.0,800,850
+1,New Delhi,Adchini,Indian Rupees(Rs.),13,823.0769230769231,500.0,300,1600
+1,Gurgaon,"DT City Centre Mall, MG Road",Indian Rupees(Rs.),7,814.2857142857143,650.0,150,2000
+1,Goa,Arambol,Indian Rupees(Rs.),1,800.0,800.0,800,800
+1,Chennai,Adyar,Indian Rupees(Rs.),1,800.0,800.0,800,800
+1,Aurangabad,Akashwani,Indian Rupees(Rs.),1,800.0,800.0,800,800
+1,Gurgaon,"Omaxe Celebration Mall, Sohna Road, Gurgaon",Indian Rupees(Rs.),1,800.0,800.0,800,800
+1,Allahabad,"Vinayak City Centre Mall, Civil Lines",Indian Rupees(Rs.),1,800.0,800.0,800,800
+1,Mumbai,Azad Nagar,Indian Rupees(Rs.),1,800.0,800.0,800,800
+1,Dehradun,Hathibarkala Salwala,Indian Rupees(Rs.),3,800.0,750.0,650,1000
+1,Secunderabad,Sainikpuri,Indian Rupees(Rs.),1,800.0,800.0,800,800
+1,Ludhiana,Shastri Nagar,Indian Rupees(Rs.),1,800.0,800.0,800,800
+1,Mangalore,Kodailbail,Indian Rupees(Rs.),1,800.0,800.0,800,800
+1,Ludhiana,Sarabha Nagar,Indian Rupees(Rs.),1,800.0,800.0,800,800
+1,Jaipur,Vidhyadhar Nagar,Indian Rupees(Rs.),1,800.0,800.0,800,800
+1,Goa,Calangute,Indian Rupees(Rs.),1,800.0,800.0,800,800
+1,New Delhi,Tughlakabad Institutional Area,Indian Rupees(Rs.),1,800.0,800.0,800,800
+1,Indore,YN Road,Indian Rupees(Rs.),1,800.0,800.0,800,800
+1,Hyderabad,Madhapur,Indian Rupees(Rs.),2,800.0,800.0,500,1100
+162,Santa Rosa,"Nuvali, Don Jose, Santa Rosa",Botswana Pula(P),1,800.0,800.0,800,800
+162,Quezon City,"UP Town Center, Diliman, Quezon City",Botswana Pula(P),1,800.0,800.0,800,800
+1,Jaipur,Malviya Nagar,Indian Rupees(Rs.),1,800.0,800.0,800,800
+1,Vadodara,"M Cube Mall, Vadiwadi",Indian Rupees(Rs.),1,800.0,800.0,800,800
+1,Kolkata,Golpark,Indian Rupees(Rs.),1,800.0,800.0,800,800
+1,Agra,Khandari,Indian Rupees(Rs.),1,800.0,800.0,800,800
+1,Coimbatore,Gandhipuram,Indian Rupees(Rs.),1,800.0,800.0,800,800
+1,Vadodara,Diwalipura,Indian Rupees(Rs.),1,800.0,800.0,800,800
+1,Surat,"Golden Square, City Light",Indian Rupees(Rs.),1,800.0,800.0,800,800
+1,Ludhiana,"A Hotel, Gurdev Nagar",Indian Rupees(Rs.),1,800.0,800.0,800,800
+1,Kolkata,Kidderpore,Indian Rupees(Rs.),1,800.0,800.0,800,800
+1,Lucknow,Gomti Nagar,Indian Rupees(Rs.),12,795.8333333333334,900.0,200,1300
+1,Mangalore,Kadri,Indian Rupees(Rs.),3,783.3333333333334,750.0,600,1000
+1,New Delhi,Shahpur Jat,Indian Rupees(Rs.),26,776.9230769230769,725.0,200,1200
+1,New Delhi,"Aditya Mega Mall, Karkardooma",Indian Rupees(Rs.),4,775.0,750.0,600,1000
+1,Chennai,Anna Nagar East,Indian Rupees(Rs.),2,775.0,775.0,750,800
+1,Kochi,"LuLu Mall, Edappally",Indian Rupees(Rs.),2,775.0,775.0,650,900
+1,New Delhi,PVR Anupam Complex,Indian Rupees(Rs.),13,769.2307692307693,500.0,300,1500
+1,New Delhi,Ashok Vihar Phase 2,Indian Rupees(Rs.),14,767.8571428571429,575.0,200,1800
+1,Gurgaon,"DLF Galleria, DLF Phase 4",Indian Rupees(Rs.),17,767.6470588235294,700.0,300,2500
+1,New Delhi,"TDI Mall, Rajouri Garden",Indian Rupees(Rs.),3,766.6666666666666,800.0,500,1000
+1,Vadodara,Vadiwadi,Indian Rupees(Rs.),8,762.5,750.0,300,1300
+1,Gurgaon,"Central Plaza Mall, Golf Course Road",Indian Rupees(Rs.),10,760.0,600.0,400,1600
+1,Goa,Candolim,Indian Rupees(Rs.),2,750.0,750.0,700,800
+1,New Delhi,"Hotel Regent Grand, Karol Bagh",Indian Rupees(Rs.),2,750.0,750.0,700,800
+1,Gurgaon,DLF Phase 4,Indian Rupees(Rs.),21,750.0,700.0,500,1300
+1,Kochi,Kaloor,Indian Rupees(Rs.),2,750.0,750.0,700,800
+1,Guwahati,Zoo Tiniali,Indian Rupees(Rs.),4,750.0,700.0,600,1000
+1,Indore,Vijay Nagar,Indian Rupees(Rs.),8,750.0,650.0,400,1500
+1,New Delhi,Pragati Maidan,Indian Rupees(Rs.),2,750.0,750.0,300,1200
+1,Gurgaon,"Kingdom of Dreams, Sector 29",Indian Rupees(Rs.),2,750.0,750.0,500,1000
+1,Noida,"The Great India Place, Sector 38",Indian Rupees(Rs.),37,743.2432432432432,600.0,150,2500
+1,New Delhi,Defence Colony,Indian Rupees(Rs.),86,741.2790697674419,600.0,100,2000
+1,New Delhi,Chanakyapuri,Indian Rupees(Rs.),32,740.625,675.0,200,3000
+1,Agra,Tajganj,Indian Rupees(Rs.),8,737.5,800.0,0,1500
+1,Noida,"Ganga Shopping Complex, Sector 29",Indian Rupees(Rs.),8,737.5,625.0,350,1500
+1,Gurgaon,Sector 12,Indian Rupees(Rs.),3,733.3333333333334,500.0,200,1500
+1,Faridabad,"Crown Interiorz Mall, Sector 35, Faridabad",Indian Rupees(Rs.),12,733.3333333333334,600.0,200,1600
+1,Kanpur,Ashok Nagar,Indian Rupees(Rs.),3,733.3333333333334,800.0,400,1000
+1,Surat,Adajan Gam,Indian Rupees(Rs.),3,733.3333333333334,800.0,500,900
+1,Surat,City Light,Indian Rupees(Rs.),3,733.3333333333334,650.0,650,900
+1,New Delhi,"District Centre, Janakpuri",Indian Rupees(Rs.),6,733.3333333333334,650.0,300,1200
+1,New Delhi,"Cross River Mall, Karkardooma",Indian Rupees(Rs.),5,730.0,800.0,500,950
+1,Ghaziabad,"Shipra Mall, Indirapuram",Indian Rupees(Rs.),17,729.4117647058823,600.0,100,2500
+1,New Delhi,Karkardooma,Indian Rupees(Rs.),23,717.3913043478261,750.0,200,1600
+1,Noida,"Supertech Shopprix Mall, Sector 61",Indian Rupees(Rs.),19,713.1578947368421,600.0,100,2000
+1,New Delhi,Aerocity,Indian Rupees(Rs.),4,712.5,700.0,550,900
+1,Gurgaon,"DT Mega Mall, DLF Phase 1",Indian Rupees(Rs.),5,710.0,700.0,500,1000
+1,New Delhi,Punjabi Bagh,Indian Rupees(Rs.),60,707.5,600.0,150,1900
+189,Inner City,Marshalltown,Rand(R),1,700.0,700.0,700,700
+1,Gurgaon,"Supermart 1, DLF Phase 4",Indian Rupees(Rs.),17,700.0,650.0,300,2000
+1,Ahmedabad,Bodakdev,Indian Rupees(Rs.),5,700.0,800.0,300,1000
+1,Noida,Sector 30,Indian Rupees(Rs.),2,700.0,700.0,600,800
+1,Agra,Civil Lines,Indian Rupees(Rs.),2,700.0,700.0,400,1000
+1,Mysore,Kuvempunagar,Indian Rupees(Rs.),1,700.0,700.0,700,700
+1,Gurgaon,South City 1,Indian Rupees(Rs.),2,700.0,700.0,600,800
+1,Dehradun,Malsi,Indian Rupees(Rs.),1,700.0,700.0,700,700
+1,Ranchi,"Spring City Mall, Doranda",Indian Rupees(Rs.),1,700.0,700.0,700,700
+1,Lucknow,Sadar Bazaar,Indian Rupees(Rs.),1,700.0,700.0,700,700
+1,Ranchi,Harmu,Indian Rupees(Rs.),2,700.0,700.0,400,1000
+1,Varanasi,Sunderpur,Indian Rupees(Rs.),1,700.0,700.0,700,700
+1,Kochi,Panampilly Nagar,Indian Rupees(Rs.),3,700.0,700.0,400,1000
+1,Bhubaneshwar,Sahid Nagar,Indian Rupees(Rs.),2,700.0,700.0,500,900
+162,San Juan City,Little Baguio,Botswana Pula(P),1,700.0,700.0,700,700
+1,Bhubaneshwar,Chandrasekharpur,Indian Rupees(Rs.),4,700.0,550.0,500,1200
+1,Chandigarh,Sector 28,Indian Rupees(Rs.),1,700.0,700.0,700,700
+1,Mangalore,Lalbagh,Indian Rupees(Rs.),2,700.0,700.0,700,700
+1,Mangalore,Balmatta,Indian Rupees(Rs.),7,700.0,700.0,200,1000
+1,Gurgaon,"Cyber Greens, DLF Cyber City",Indian Rupees(Rs.),1,700.0,700.0,700,700
+1,New Delhi,"Worldmark 3, Aerocity",Indian Rupees(Rs.),1,700.0,700.0,700,700
+1,Aurangabad,CIDCO,Indian Rupees(Rs.),7,700.0,500.0,350,1800
+1,Gurgaon,"DLF Mega Mall, DLF Phase 1",Indian Rupees(Rs.),15,696.6666666666666,500.0,300,2000
+1,New Delhi,"D Mall, Netaji Subhash Place",Indian Rupees(Rs.),5,690.0,550.0,400,1000
+1,Agra,Agra Cantt,Indian Rupees(Rs.),3,683.3333333333334,700.0,500,850
+1,New Delhi,Green Park,Indian Rupees(Rs.),46,677.6086956521739,575.0,100,2500
+1,Jaipur,Lal Kothi,Indian Rupees(Rs.),2,675.0,675.0,650,700
+1,New Delhi,Rajendra Place,Indian Rupees(Rs.),8,675.0,500.0,400,1200
+1,Chandigarh,Sector 35,Indian Rupees(Rs.),5,670.0,650.0,450,1000
+1,New Delhi,Lado Sarai,Indian Rupees(Rs.),9,666.6666666666666,300.0,200,2200
+1,Nashik,Anand Wali Goan,Indian Rupees(Rs.),3,666.6666666666666,600.0,400,1000
+1,New Delhi,"Community Centre, New Friends Colony",Indian Rupees(Rs.),18,666.6666666666666,475.0,150,2400
+1,Gurgaon,Sohna Road,Indian Rupees(Rs.),42,666.6666666666666,500.0,150,2500
+1,Mysore,Chamrajpura,Indian Rupees(Rs.),3,663.3333333333334,800.0,290,900
+1,Noida,"Spice World Mall, Sector 25",Indian Rupees(Rs.),16,662.5,500.0,100,2500
+1,New Delhi,"Vasant Square Mall, Vasant Kunj",Indian Rupees(Rs.),9,661.1111111111111,650.0,500,850
+1,Coimbatore,Peelamedu,Indian Rupees(Rs.),5,660.0,600.0,400,1200
+1,Kochi,Kakkanad,Indian Rupees(Rs.),3,650.0,550.0,400,1000
+1,Kochi,Palarivattom,Indian Rupees(Rs.),1,650.0,650.0,650,650
+1,Gurgaon,"The Sapphire Mall, Sohna Road",Indian Rupees(Rs.),1,650.0,650.0,650,650
+1,New Delhi,Uday Park,Indian Rupees(Rs.),3,650.0,700.0,500,750
+1,New Delhi,Kapashera,Indian Rupees(Rs.),2,650.0,650.0,600,700
+1,Ahmedabad,Navrangpura,Indian Rupees(Rs.),2,650.0,650.0,600,700
+1,Dehradun,Chukkuwala,Indian Rupees(Rs.),2,650.0,650.0,500,800
+1,Ahmedabad,Gurukul,Indian Rupees(Rs.),2,650.0,650.0,600,700
+1,Aurangabad,"Prozone Mall, Chicalthana",Indian Rupees(Rs.),1,650.0,650.0,650,650
+1,New Delhi,Panchsheel Park,Indian Rupees(Rs.),4,637.5,625.0,400,900
+1,Patna,Sri Krishnapuri,Indian Rupees(Rs.),3,633.3333333333334,700.0,500,700
+1,Bhopal,TT Nagar,Indian Rupees(Rs.),3,633.3333333333334,500.0,500,900
+1,New Delhi,Malviya Nagar,Indian Rupees(Rs.),84,633.3333333333334,600.0,100,1550
+1,New Delhi,"V3S Mall, Laxmi Nagar",Indian Rupees(Rs.),26,630.7692307692307,500.0,200,1500
+1,New Delhi,Lodhi Road,Indian Rupees(Rs.),19,628.9473684210526,450.0,150,2600
+1,New Delhi,Nehru Place,Indian Rupees(Rs.),32,625.0,400.0,150,4700
+1,Patna,Khajpura,Indian Rupees(Rs.),2,625.0,625.0,450,800
+1,New Delhi,South Extension 2,Indian Rupees(Rs.),41,624.390243902439,500.0,100,2200
+1,New Delhi,"Aggarwal City Plaza, Rohini",Indian Rupees(Rs.),5,620.0,500.0,300,1000
+1,New Delhi,"JMD Kohinoor Mall, Greater Kailash",Indian Rupees(Rs.),5,620.0,400.0,150,1250
+1,Surat,Athwa,Indian Rupees(Rs.),3,616.6666666666666,800.0,250,800
+1,New Delhi,Kirti Nagar,Indian Rupees(Rs.),56,614.2857142857143,550.0,50,2500
+1,Gurgaon,Sector 23,Indian Rupees(Rs.),12,612.5,600.0,200,1100
+1,New Delhi,Jasola,Indian Rupees(Rs.),21,607.1428571428571,500.0,150,1500
+1,Noida,Sector 50,Indian Rupees(Rs.),35,607.1428571428571,500.0,250,1300
+1,New Delhi,Kailash Colony,Indian Rupees(Rs.),22,604.5454545454545,450.0,100,1550
+162,Taguig City,"BGC Stopover Pavillion, Bonifacio Global City",Botswana Pula(P),1,600.0,600.0,600,600
+1,Dehradun,Paltan Bazaar,Indian Rupees(Rs.),1,600.0,600.0,600,600
+1,Faridabad,"Crown Plaza Mall, Sector 15, Faridabad",Indian Rupees(Rs.),4,600.0,600.0,200,1000
+1,Vizag,Sagar Nagar,Indian Rupees(Rs.),1,600.0,600.0,600,600
+1,Vizag,MVP Colony,Indian Rupees(Rs.),1,600.0,600.0,600,600
+1,Vizag,Maddilapalem,Indian Rupees(Rs.),1,600.0,600.0,600,600
+1,Dehradun,"Pacific Mall, Jakhan",Indian Rupees(Rs.),1,600.0,600.0,600,600
+1,Kochi,Fort Kochi,Indian Rupees(Rs.),1,600.0,600.0,600,600
+1,Mangalore,Attavar,Indian Rupees(Rs.),1,600.0,600.0,600,600
+1,Kanpur,IIT Kanpur,Indian Rupees(Rs.),1,600.0,600.0,600,600
+1,Patna,"Maurya Lok, Fraser Road Area",Indian Rupees(Rs.),1,600.0,600.0,600,600
+1,Lucknow,Hazratganj,Indian Rupees(Rs.),3,600.0,400.0,400,1000
+1,Amritsar,Ranjit Avenue,Indian Rupees(Rs.),5,600.0,500.0,200,1200
+1,Nashik,"Bon Vivant, College Road",Indian Rupees(Rs.),2,600.0,600.0,400,800
+1,Nagpur,Pratap Nagar,Indian Rupees(Rs.),1,600.0,600.0,600,600
+1,Bangalore,New BEL Road,Indian Rupees(Rs.),1,600.0,600.0,600,600
+1,Aurangabad,Shahgunj,Indian Rupees(Rs.),1,600.0,600.0,600,600
+1,Bangalore,JP Nagar,Indian Rupees(Rs.),1,600.0,600.0,600,600
+1,Kochi,Vyttila,Indian Rupees(Rs.),1,600.0,600.0,600,600
+1,Varanasi,Lanka,Indian Rupees(Rs.),3,600.0,600.0,400,800
+1,Vizag,"CMR Central Mall, Maddilapalem",Indian Rupees(Rs.),1,600.0,600.0,600,600
+1,Faridabad,Sector 34,Indian Rupees(Rs.),2,600.0,600.0,400,800
+1,Vadodara,"Hotel Express Towers, Alkapuri",Indian Rupees(Rs.),1,600.0,600.0,600,600
+1,New Delhi,Netaji Subhash Place,Indian Rupees(Rs.),48,600.0,450.0,150,1800
+1,Gurgaon,"Raheja Mall, Sohna Road",Indian Rupees(Rs.),3,600.0,600.0,500,700
+1,Gurgaon,Sector 50,Indian Rupees(Rs.),2,600.0,600.0,400,800
+189,Pretoria,"Menlyn Boutique Hotel, Menlyn",Rand(R),1,600.0,600.0,600,600
+1,Bhopal,Gulmohar Colony,Indian Rupees(Rs.),1,600.0,600.0,600,600
+1,New Delhi,Janakpuri,Indian Rupees(Rs.),46,598.9130434782609,600.0,250,1400
+1,New Delhi,Saket,Indian Rupees(Rs.),36,598.6111111111111,475.0,100,3000
+1,New Delhi,Bhikaji Cama Place,Indian Rupees(Rs.),9,594.4444444444445,300.0,150,2000
+1,Gurgaon,"Huda City Centre Metro Station, Sector 29, Gurgaon",Indian Rupees(Rs.),7,592.8571428571429,600.0,450,800
+1,Noida,"Ansal Plaza Mall, Greater Noida",Indian Rupees(Rs.),5,590.0,600.0,450,800
+1,New Delhi,"The India Mall, New Friends Colony",Indian Rupees(Rs.),8,587.5,600.0,250,1000
+1,New Delhi,"Pacific Mall, Tagore Garden",Indian Rupees(Rs.),27,587.0370370370371,500.0,100,2000
+1,New Delhi,Lajpat Nagar 2,Indian Rupees(Rs.),22,584.0909090909091,550.0,200,1000
+1,New Delhi,"Worldmark 1, Aerocity",Indian Rupees(Rs.),14,582.1428571428571,575.0,300,1000
+1,New Delhi,Safdarjung,Indian Rupees(Rs.),80,580.0,500.0,200,2300
+1,Puducherry,MG Road,Indian Rupees(Rs.),5,580.0,600.0,300,900
+1,Gurgaon,DLF Phase 1,Indian Rupees(Rs.),27,579.6296296296297,600.0,150,1500
+1,Puducherry,Auroville,Indian Rupees(Rs.),2,575.0,575.0,150,1000
+1,Varanasi,Assi Ghat,Indian Rupees(Rs.),2,575.0,575.0,450,700
+1,Gurgaon,"ILD Trade Centre Mall, Sohna Road",Indian Rupees(Rs.),2,575.0,575.0,350,800
+1,New Delhi,Shanti Niketan Marg,Indian Rupees(Rs.),2,575.0,575.0,450,700
+1,Nashik,Satpur,Indian Rupees(Rs.),4,575.0,600.0,100,1000
+1,New Delhi,"DLF Promenade Mall, Vasant Kunj",Indian Rupees(Rs.),13,573.0769230769231,500.0,350,1250
+1,New Delhi,"DLF South Square, Sarojini Nagar",Indian Rupees(Rs.),7,571.4285714285714,500.0,200,1500
+1,Gurgaon,"Unitech Cyber Park, Sector 39, Gurgaon",Indian Rupees(Rs.),5,570.0,600.0,300,800
+1,Noida,Sector 11,Indian Rupees(Rs.),8,568.75,575.0,300,900
+1,New Delhi,"Moments Mall, Kirti Nagar",Indian Rupees(Rs.),23,567.3913043478261,500.0,300,1200
+1,Gurgaon,Sushant Lok,Indian Rupees(Rs.),30,566.6666666666666,550.0,150,1500
+1,Ranchi,Lalpur,Indian Rupees(Rs.),6,566.6666666666666,475.0,400,1000
+1,New Delhi,"Palate of Delhi, Chanakyapuri",Indian Rupees(Rs.),9,566.6666666666666,600.0,350,900
+1,Faridabad,Sector 11,Indian Rupees(Rs.),4,562.5,575.0,300,800
+1,Gurgaon,"Sushant Shopping Arcade, Sushant Lok, Gurgaon",Indian Rupees(Rs.),18,555.5555555555555,550.0,200,1200
+1,New Delhi,New Friends Colony,Indian Rupees(Rs.),47,555.3191489361702,500.0,100,2500
+1,New Delhi,"Living Style Mall, Jasola",Indian Rupees(Rs.),13,553.8461538461538,650.0,150,1000
+1,New Delhi,Paharganj,Indian Rupees(Rs.),64,551.5625,550.0,100,1400
+1,New Delhi,Vasant Vihar,Indian Rupees(Rs.),36,550.0,400.0,150,2000
+1,Faridabad,Sector 12,Indian Rupees(Rs.),5,550.0,400.0,100,1500
+1,Kanpur,Arya Nagar,Indian Rupees(Rs.),1,550.0,550.0,550,550
+1,Guwahati,Chandmari,Indian Rupees(Rs.),2,550.0,550.0,500,600
+1,Chandigarh,Sector 8,Indian Rupees(Rs.),2,550.0,550.0,500,600
+1,Amritsar,White Avenue,Indian Rupees(Rs.),3,550.0,500.0,150,1000
+1,Noida,Sector 39,Indian Rupees(Rs.),3,550.0,600.0,400,650
+1,Noida,Sector 16,Indian Rupees(Rs.),11,550.0,500.0,200,1600
+1,Mohali,Sector 70,Indian Rupees(Rs.),1,550.0,550.0,550,550
+1,Agra,Rakabganj,Indian Rupees(Rs.),1,550.0,550.0,550,550
+1,Gurgaon,"MGF Metropolis Mall, MG Road",Indian Rupees(Rs.),6,550.0,575.0,350,700
+166,Doha,"The St. Regis, Westbay",Qatari Rial(QR),1,550.0,550.0,550,550
+1,Surat,Nanpura,Indian Rupees(Rs.),1,550.0,550.0,550,550
+189,Sandton,"Nicolway Shopping Centre, Bryanston",Rand(R),1,545.0,545.0,545,545
+1,Noida,Sector 110,Indian Rupees(Rs.),53,543.3962264150944,500.0,100,1400
+1,Bhubaneshwar,Patia,Indian Rupees(Rs.),9,538.8888888888889,450.0,300,900
+1,New Delhi,Satyaniketan,Indian Rupees(Rs.),79,537.9746835443038,500.0,100,1500
+189,Cape Town,"One and Only Hotel, V & A Waterfront",Rand(R),1,535.0,535.0,535,535
+1,Gurgaon,Sector 43,Indian Rupees(Rs.),3,533.3333333333334,600.0,400,600
+1,Gurgaon,Omaxe Gurgaon Mall,Indian Rupees(Rs.),3,533.3333333333334,500.0,400,700
+1,Nashik,College Road,Indian Rupees(Rs.),8,531.25,550.0,150,800
+1,New Delhi,"Spark Mall, Kamla Nagar",Indian Rupees(Rs.),5,530.0,500.0,400,700
+1,New Delhi,Moti Bagh,Indian Rupees(Rs.),5,530.0,600.0,250,750
+1,Vizag,Lawsons Bay,Indian Rupees(Rs.),2,525.0,525.0,450,600
+1,Bhubaneshwar,"BMC Bhawani Mall, Sahid Nagar",Indian Rupees(Rs.),2,525.0,525.0,500,550
+1,Patna,Golambar,Indian Rupees(Rs.),4,525.0,500.0,500,600
+1,Dehradun,Karanpur,Indian Rupees(Rs.),2,525.0,525.0,500,550
+1,Coimbatore,Saibaba Colony,Indian Rupees(Rs.),2,525.0,525.0,350,700
+1,New Delhi,SDA,Indian Rupees(Rs.),15,523.3333333333334,550.0,200,1000
+1,New Delhi,Patparganj,Indian Rupees(Rs.),8,518.75,425.0,300,1200
+1,Nagpur,Civil Lines,Indian Rupees(Rs.),3,516.6666666666666,550.0,400,600
+1,Mysore,Gokulam,Indian Rupees(Rs.),3,516.6666666666666,500.0,400,650
+1,Kanpur,Swaroop Nagar,Indian Rupees(Rs.),3,516.6666666666666,350.0,350,850
+189,Johannesburg,Parktown North,Rand(R),1,515.0,515.0,515,515
+1,Noida,Sector 2,Indian Rupees(Rs.),9,511.1111111111111,400.0,200,1100
+1,Guwahati,Uzan Bazaar,Indian Rupees(Rs.),5,510.0,500.0,300,850
+1,New Delhi,Karol Bagh,Indian Rupees(Rs.),76,509.86842105263156,475.0,50,1400
+1,Faridabad,Sector 86,Indian Rupees(Rs.),11,509.09090909090907,500.0,300,650
+1,Allahabad,Civil Lines,Indian Rupees(Rs.),18,508.3333333333333,500.0,0,1000
+1,New Delhi,South Extension 1,Indian Rupees(Rs.),13,507.6923076923077,500.0,150,900
+1,Gurgaon,"Unitech Infospace, Sector 21, Gurgaon",Indian Rupees(Rs.),25,502.0,500.0,200,1300
+1,New Delhi,East Patel Nagar,Indian Rupees(Rs.),50,501.0,400.0,100,1400
+1,New Delhi,"Gourmet Hub, Pashim Vihar",Indian Rupees(Rs.),1,500.0,500.0,500,500
+1,Kanpur,Mall Road,Indian Rupees(Rs.),4,500.0,500.0,0,1000
+1,Bhopal,Kohefiza,Indian Rupees(Rs.),1,500.0,500.0,500,500
+1,Mangalore,Hampankatta,Indian Rupees(Rs.),1,500.0,500.0,500,500
+214,Dubai,DIFC,Emirati Diram(AED),1,500.0,500.0,500,500
+1,Amritsar,Basant Nagar,Indian Rupees(Rs.),2,500.0,500.0,300,700
+1,Noida,Golf Course,Indian Rupees(Rs.),1,500.0,500.0,500,500
+1,New Delhi,Kashmiri Gate,Indian Rupees(Rs.),1,500.0,500.0,500,500
+1,Guwahati,Six Mile,Indian Rupees(Rs.),1,500.0,500.0,500,500
+1,Vizag,Maharani Peta,Indian Rupees(Rs.),2,500.0,500.0,500,500
+1,Vizag,Siripuram,Indian Rupees(Rs.),2,500.0,500.0,400,600
+1,Guwahati,Dispur,Indian Rupees(Rs.),1,500.0,500.0,500,500
+214,Dubai,"Nassima Royal Hotel, Trade Centre Area",Emirati Diram(AED),1,500.0,500.0,500,500
+1,New Delhi,"ARSS Mall, Paschim Vihar",Indian Rupees(Rs.),1,500.0,500.0,500,500
+166,Doha,"Hotel Intercontinental Doha, Westbay",Qatari Rial(QR),1,500.0,500.0,500,500
+1,New Delhi,Chhatarpur,Indian Rupees(Rs.),1,500.0,500.0,500,500
+1,Ranchi,Hindpiri,Indian Rupees(Rs.),3,500.0,450.0,400,650
+1,Mangalore,"The Ocean Pearl, Kodailbail",Indian Rupees(Rs.),1,500.0,500.0,500,500
+184,Singapore,"Cantonment Road, Outram",Dollar($),1,500.0,500.0,500,500
+1,New Delhi,Ashok Vihar Phase 3,Indian Rupees(Rs.),11,500.0,500.0,300,750
+1,New Delhi,Aaya Nagar,Indian Rupees(Rs.),1,500.0,500.0,500,500
+1,Noida,"Shopprix Mall, Sector 61, Noida",Indian Rupees(Rs.),2,500.0,500.0,400,600
+1,New Delhi,Shastri Park,Indian Rupees(Rs.),1,500.0,500.0,500,500
+1,Patna,Anandpuri,Indian Rupees(Rs.),1,500.0,500.0,500,500
+1,Noida,Sector 7,Indian Rupees(Rs.),3,500.0,500.0,300,700
+1,Gurgaon,"Central Arcade, DLF Phase 2, Gurgaon",Indian Rupees(Rs.),1,500.0,500.0,500,500
+1,Aurangabad,Nirala Bazar,Indian Rupees(Rs.),4,500.0,450.0,400,700
+1,Noida,Sector 34,Indian Rupees(Rs.),13,500.0,450.0,200,1250
+1,Mangalore,Bhavathi,Indian Rupees(Rs.),1,500.0,500.0,500,500
+1,Noida,"Logix City Centre, Sector 32, Noida",Indian Rupees(Rs.),30,498.3333333333333,450.0,100,1200
+1,New Delhi,Model Town 2,Indian Rupees(Rs.),25,498.0,400.0,100,1600
+1,Noida,Sector 41,Indian Rupees(Rs.),45,497.77777777777777,500.0,150,1300
+1,New Delhi,Hauz Khas,Indian Rupees(Rs.),74,497.2972972972973,350.0,50,1850
+1,Gurgaon,"Qutab Plaza, DLF Phase 1",Indian Rupees(Rs.),13,496.15384615384613,500.0,200,900
+1,New Delhi,Rohini,Indian Rupees(Rs.),48,494.7916666666667,450.0,150,1400
+1,New Delhi,"Dilli Haat, INA",Indian Rupees(Rs.),20,492.5,450.0,200,800
+1,Gurgaon,Sector 15,Indian Rupees(Rs.),11,490.90909090909093,450.0,300,1000
+1,Noida,"Tulip Mall, Sector 48, Noida",Indian Rupees(Rs.),5,490.0,500.0,250,700
+1,Faridabad,Sector 17,Indian Rupees(Rs.),10,490.0,500.0,100,700
+1,New Delhi,Vijay Nagar,Indian Rupees(Rs.),31,488.7096774193548,400.0,150,900
+1,Faridabad,Sector 15,Indian Rupees(Rs.),31,485.48387096774195,400.0,150,1000
+1,New Delhi,Delhi University-GTB Nagar,Indian Rupees(Rs.),65,484.61538461538464,400.0,50,2000
+1,New Delhi,Civil Lines,Indian Rupees(Rs.),15,483.3333333333333,300.0,100,1500
+1,Faridabad,Sector 41,Indian Rupees(Rs.),3,483.3333333333333,500.0,400,550
+1,Faridabad,Sector 10,Indian Rupees(Rs.),8,481.25,475.0,150,700
+1,Noida,Sector 38,Indian Rupees(Rs.),13,476.9230769230769,400.0,100,1300
+1,Ghaziabad,Surya Nagar,Indian Rupees(Rs.),2,475.0,475.0,400,550
+1,Varanasi,Nadesar,Indian Rupees(Rs.),2,475.0,475.0,350,600
+1,Kochi,Edappally,Indian Rupees(Rs.),2,475.0,475.0,350,600
+1,Aurangabad,Usmanpura,Indian Rupees(Rs.),2,475.0,475.0,450,500
+1,New Delhi,"Unity One Mall, Janakpuri",Indian Rupees(Rs.),5,470.0,400.0,350,700
+1,Noida,Greater Noida,Indian Rupees(Rs.),38,468.42105263157896,400.0,100,1200
+1,Noida,Sector 51,Indian Rupees(Rs.),28,467.85714285714283,500.0,100,800
+1,New Delhi,Okhla Phase 2,Indian Rupees(Rs.),6,466.6666666666667,500.0,100,700
+1,Gurgaon,"Hong Kong Bazaar Mall, Sector 57, Gurgaon",Indian Rupees(Rs.),3,466.6666666666667,500.0,400,500
+1,New Delhi,Model Town 3,Indian Rupees(Rs.),10,465.0,375.0,150,1200
+1,Faridabad,Sector 46,Indian Rupees(Rs.),4,462.5,475.0,200,700
+1,Gurgaon,Udyog Vihar,Indian Rupees(Rs.),37,462.1621621621622,400.0,150,2000
+1,Noida,Sector 48,Indian Rupees(Rs.),10,460.0,475.0,200,700
+1,Bhopal,Maharana Pratap Nagar,Indian Rupees(Rs.),5,460.0,500.0,350,550
+1,Noida,"Jaipuria Plaza, Sector 26, Noida",Indian Rupees(Rs.),13,457.6923076923077,400.0,150,1000
+1,Gurgaon,Sector 21,Indian Rupees(Rs.),7,457.14285714285717,400.0,150,800
+1,New Delhi,Kamla Nagar,Indian Rupees(Rs.),65,456.15384615384613,400.0,50,1900
+1,New Delhi,Nizamuddin,Indian Rupees(Rs.),10,455.0,350.0,300,1000
+1,New Delhi,INA,Indian Rupees(Rs.),4,450.0,450.0,300,600
+1,Bhopal,Arera Colony,Indian Rupees(Rs.),5,450.0,500.0,200,700
+189,Sandton,"Post Office Center, Illovo",Rand(R),1,450.0,450.0,450,450
+1,Chennai,Gopalapuram,Indian Rupees(Rs.),1,450.0,450.0,450,450
+1,Vizag,Rushikonda,Indian Rupees(Rs.),1,450.0,450.0,450,450
+1,New Delhi,Jor Bagh,Indian Rupees(Rs.),1,450.0,450.0,450,450
+1,Coimbatore,Podanur,Indian Rupees(Rs.),1,450.0,450.0,450,450
+1,Faridabad,Sector 19,Indian Rupees(Rs.),2,450.0,450.0,200,700
+1,New Delhi,Race Course,Indian Rupees(Rs.),1,450.0,450.0,450,450
+1,Vizag,Dwaraka Nagar,Indian Rupees(Rs.),2,450.0,450.0,300,600
+1,Gurgaon,Sector 57,Indian Rupees(Rs.),2,450.0,450.0,300,600
+1,Nagpur,Dharampeth,Indian Rupees(Rs.),3,450.0,350.0,250,750
+1,New Delhi,Pitampura,Indian Rupees(Rs.),85,449.4117647058824,400.0,100,1600
+1,Gurgaon,Sector 14,Indian Rupees(Rs.),52,448.0769230769231,400.0,150,1000
+1,Noida,Sector 62,Indian Rupees(Rs.),76,447.36842105263156,400.0,100,1500
+1,New Delhi,Prashant Vihar,Indian Rupees(Rs.),17,447.05882352941177,300.0,150,2400
+1,Noida,Sector 44,Indian Rupees(Rs.),23,445.6521739130435,500.0,100,800
+1,Noida,Sector 132,Indian Rupees(Rs.),43,445.3488372093023,400.0,100,1400
+166,Doha,"The Westin Doha Hotel & Spa, Fereej Bin Mahmoud",Qatari Rial(QR),1,445.0,445.0,445,445
+189,Pretoria,Faerie Glen,Rand(R),2,445.0,445.0,390,500
+1,Amritsar,Town Hall,Indian Rupees(Rs.),7,442.85714285714283,500.0,100,600
+1,Noida,Sector 25,Indian Rupees(Rs.),6,441.6666666666667,450.0,350,550
+1,New Delhi,Chittaranjan Park,Indian Rupees(Rs.),46,441.30434782608694,400.0,100,1500
+1,New Delhi,GTB Nagar,Indian Rupees(Rs.),38,440.7894736842105,375.0,100,1100
+1,New Delhi,Alaknanda,Indian Rupees(Rs.),32,440.625,400.0,150,800
+1,New Delhi,Barakhamba Road,Indian Rupees(Rs.),16,440.625,425.0,100,800
+1,Gurgaon,DLF Phase 3,Indian Rupees(Rs.),69,440.57971014492756,400.0,100,1000
+1,Noida,Sector 37,Indian Rupees(Rs.),25,440.0,400.0,100,800
+1,New Delhi,Rajinder Nagar,Indian Rupees(Rs.),81,439.75308641975306,400.0,100,1000
+1,Noida,Sector 72,Indian Rupees(Rs.),61,439.344262295082,400.0,100,1400
+1,New Delhi,Kalkaji,Indian Rupees(Rs.),73,438.35616438356163,400.0,100,1750
+1,New Delhi,Preet Vihar,Indian Rupees(Rs.),49,437.7551020408163,350.0,150,1800
+1,Noida,Sector 19,Indian Rupees(Rs.),4,437.5,450.0,350,500
+1,New Delhi,Mahipalpur,Indian Rupees(Rs.),69,436.95652173913044,400.0,100,1000
+1,Gurgaon,Ardee City,Indian Rupees(Rs.),19,434.2105263157895,350.0,100,1200
+1,New Delhi,"Fun City Mall, Prashant Vihar",Indian Rupees(Rs.),3,433.3333333333333,400.0,300,600
+1,Faridabad,"Parsavnath City Mall, Sector 12, Faridabad",Indian Rupees(Rs.),3,433.3333333333333,500.0,300,500
+1,Noida,"Harsha Mall, Greater Noida",Indian Rupees(Rs.),3,433.3333333333333,500.0,300,500
+1,Gurgaon,Sector 31,Indian Rupees(Rs.),35,432.85714285714283,450.0,150,850
+1,New Delhi,"DLF City Centre Mall, Shalimar Bagh",Indian Rupees(Rs.),5,430.0,450.0,150,700
+184,Singapore,"City Hall, Downtown Core",Dollar($),1,430.0,430.0,430,430
+1,New Delhi,Paschim Vihar,Indian Rupees(Rs.),56,429.4642857142857,400.0,100,800
+1,Noida,Sector 53,Indian Rupees(Rs.),19,428.94736842105266,400.0,50,800
+1,New Delhi,"West End Mall, Janak Puri",Indian Rupees(Rs.),2,425.0,425.0,350,500
+1,New Delhi,West Patel Nagar,Indian Rupees(Rs.),4,425.0,400.0,400,500
+1,Noida,Sector 65,Indian Rupees(Rs.),6,425.0,400.0,300,600
+189,Pretoria,"The Club Centre, Hazelwood, Near Waterkloof",Rand(R),2,425.0,425.0,400,450
+1,Faridabad,NIT,Indian Rupees(Rs.),4,425.0,450.0,300,500
+189,Cape Town,"Victoria Wharf, V & A Waterfront",Rand(R),2,420.0,420.0,270,570
+1,Varanasi,Bhelupur,Indian Rupees(Rs.),3,416.6666666666667,300.0,300,650
+1,Amritsar,INA Colony,Indian Rupees(Rs.),3,416.6666666666667,300.0,150,800
+1,New Delhi,Majnu ka Tila,Indian Rupees(Rs.),25,416.0,400.0,250,600
+1,Noida,"MSX Mall, Greater Noida",Indian Rupees(Rs.),7,414.2857142857143,400.0,100,800
+1,Noida,Sector 93,Indian Rupees(Rs.),18,413.8888888888889,375.0,150,800
+1,Noida,Sector 49,Indian Rupees(Rs.),4,412.5,425.0,300,500
+1,Gurgaon,South City 2,Indian Rupees(Rs.),8,412.5,450.0,100,700
+1,Gurgaon,Old Railway Road,Indian Rupees(Rs.),41,412.1951219512195,400.0,100,1000
+1,Nagpur,Bajaj Nagar,Indian Rupees(Rs.),5,410.0,500.0,250,550
+1,Gurgaon,Sector 7,Indian Rupees(Rs.),10,410.0,400.0,150,800
+1,Faridabad,Sector 9,Indian Rupees(Rs.),5,410.0,300.0,200,800
+1,New Delhi,Jangpura,Indian Rupees(Rs.),57,407.89473684210526,400.0,100,1600
+1,Noida,Sector 59,Indian Rupees(Rs.),7,407.14285714285717,350.0,200,700
+1,New Delhi,Dilshad Garden,Indian Rupees(Rs.),57,406.140350877193,400.0,100,1200
+1,New Delhi,Vikaspuri,Indian Rupees(Rs.),60,404.1666666666667,350.0,100,1150
+1,New Delhi,Gujranwala Town,Indian Rupees(Rs.),39,403.84615384615387,400.0,100,1300
+1,Gurgaon,Sector 56,Indian Rupees(Rs.),54,403.14814814814815,400.0,100,800
+1,Ranchi,Kanka,Indian Rupees(Rs.),3,400.0,500.0,200,500
+1,Bhubaneshwar,Unit 4,Indian Rupees(Rs.),1,400.0,400.0,400,400
+1,New Delhi,IP Extension,Indian Rupees(Rs.),47,400.0,350.0,100,1500
+1,Ahmedabad,Ellis Bridge,Indian Rupees(Rs.),2,400.0,400.0,350,450
+1,Bhopal,Peer Gate Area,Indian Rupees(Rs.),1,400.0,400.0,400,400
+1,Gurgaon,DLF Phase 5,Indian Rupees(Rs.),4,400.0,350.0,300,600
+1,Noida,Sector 20,Indian Rupees(Rs.),3,400.0,400.0,300,500
+1,Noida,Sector 61,Indian Rupees(Rs.),5,400.0,300.0,300,650
+1,Bangalore,Koramangala 6th Block,Indian Rupees(Rs.),1,400.0,400.0,400,400
+1,Dehradun,Race Course,Indian Rupees(Rs.),1,400.0,400.0,400,400
+1,Allahabad,Tagore Town,Indian Rupees(Rs.),1,400.0,400.0,400,400
+189,Pretoria,"Menlyn Maine, Waterkloof Glen",Rand(R),1,400.0,400.0,400,400
+189,Sandton,"Nelson Mandela Square, Sandown",Rand(R),1,400.0,400.0,400,400
+1,Faridabad,Sector 42,Indian Rupees(Rs.),3,400.0,300.0,300,600
+1,New Delhi,"T3 Domestic Arrival, Aerocity",Indian Rupees(Rs.),1,400.0,400.0,400,400
+1,Aurangabad,Nyay Nagar,Indian Rupees(Rs.),1,400.0,400.0,400,400
+189,Sandton,"Bryanston Shopping Centre, Bryanston",Rand(R),1,400.0,400.0,400,400
+189,Sandton,"Melrose Arch, Melrose",Rand(R),1,400.0,400.0,400,400
+1,New Delhi,Tagore Garden,Indian Rupees(Rs.),36,399.1666666666667,300.0,100,1600
+1,Gurgaon,Palam Vihar,Indian Rupees(Rs.),49,395.9183673469388,400.0,100,800
+1,Gurgaon,Sector 39,Indian Rupees(Rs.),20,395.0,375.0,150,900
+1,Noida,Sector 125,Indian Rupees(Rs.),8,393.75,400.0,200,550
+1,New Delhi,R K Puram,Indian Rupees(Rs.),38,393.42105263157896,350.0,100,950
+1,Gurgaon,"Shopping Mall, DLF Phase 1",Indian Rupees(Rs.),6,391.6666666666667,350.0,100,700
+1,New Delhi,India Gate,Indian Rupees(Rs.),6,391.6666666666667,325.0,200,800
+1,New Delhi,Laxmi Nagar,Indian Rupees(Rs.),58,391.37931034482756,350.0,100,900
+1,New Delhi,Ashok Vihar Phase 1,Indian Rupees(Rs.),36,390.27777777777777,375.0,100,1000
+1,Faridabad,Suraj Kund,Indian Rupees(Rs.),19,389.4736842105263,400.0,100,600
+1,New Delhi,East of Kailash,Indian Rupees(Rs.),56,389.4642857142857,400.0,100,1500
+1,New Delhi,Moti Nagar,Indian Rupees(Rs.),40,387.5,400.0,100,900
+1,New Delhi,Lawrence Road,Indian Rupees(Rs.),15,386.6666666666667,400.0,100,700
+189,Cape Town,V & A Waterfront,Rand(R),2,385.0,385.0,320,450
+1,New Delhi,Anand Vihar,Indian Rupees(Rs.),42,384.5238095238095,375.0,100,1000
+1,New Delhi,Jail Road,Indian Rupees(Rs.),61,384.42622950819674,350.0,100,2500
+1,New Delhi,Daryaganj,Indian Rupees(Rs.),43,383.72093023255815,400.0,100,1100
+1,Noida,Sector 21,Indian Rupees(Rs.),3,383.3333333333333,300.0,250,600
+1,Noida,Sector 45,Indian Rupees(Rs.),9,383.3333333333333,350.0,150,650
+1,New Delhi,Karampura,Indian Rupees(Rs.),3,383.3333333333333,450.0,100,600
+1,New Delhi,Narela,Indian Rupees(Rs.),8,381.25,375.0,250,500
+1,Faridabad,Sector 16,Indian Rupees(Rs.),17,379.4117647058824,400.0,250,800
+189,Pretoria,Brooklyn,Rand(R),3,376.6666666666667,360.0,320,450
+1,New Delhi,Mayur Vihar Phase 3,Indian Rupees(Rs.),32,376.5625,300.0,100,900
+1,Gurgaon,"Vyapar Kendra, Sushant Lok",Indian Rupees(Rs.),17,376.47058823529414,400.0,150,700
+1,Noida,Sector 15,Indian Rupees(Rs.),29,375.86206896551727,300.0,150,1500
+1,Gurgaon,Sector 45,Indian Rupees(Rs.),31,375.80645161290323,300.0,100,700
+214,Abu Dhabi,"World Trade Center Mall, Al Markaziya",Emirati Diram(AED),2,375.0,375.0,250,500
+1,Noida,Sector 63,Indian Rupees(Rs.),12,375.0,300.0,100,800
+1,New Delhi,Mayur Vihar Phase 1,Indian Rupees(Rs.),84,372.6190476190476,300.0,100,2000
+1,Faridabad,Sector 31,Indian Rupees(Rs.),9,372.22222222222223,350.0,200,700
+1,New Delhi,Yusuf Sarai,Indian Rupees(Rs.),25,372.0,350.0,100,1000
+1,Gurgaon,DLF Phase 2,Indian Rupees(Rs.),10,370.0,350.0,200,600
+1,New Delhi,Mayapuri Phase 2,Indian Rupees(Rs.),15,366.6666666666667,350.0,150,700
+1,New Delhi,Asaf Ali Road,Indian Rupees(Rs.),3,366.6666666666667,350.0,250,500
+1,Noida,Sector 26,Indian Rupees(Rs.),3,366.6666666666667,300.0,300,500
+1,Noida,Sector 29,Indian Rupees(Rs.),7,364.2857142857143,300.0,200,600
+1,Faridabad,Sector 28,Indian Rupees(Rs.),4,362.5,300.0,200,650
+1,Faridabad,Sector 37,Indian Rupees(Rs.),20,362.5,350.0,100,1000
+1,New Delhi,Shalimar Bagh,Indian Rupees(Rs.),67,361.1940298507463,350.0,100,700
+189,Sandton,"Waterfall Corner Mall, Midrand",Rand(R),1,360.0,360.0,360,360
+1,New Delhi,Krishna Nagar,Indian Rupees(Rs.),76,359.86842105263156,350.0,100,800
+1,New Delhi,Vivek Vihar,Indian Rupees(Rs.),36,359.72222222222223,350.0,100,800
+1,Faridabad,Sector 43,Indian Rupees(Rs.),11,359.09090909090907,350.0,100,700
+1,Noida,Sector 22,Indian Rupees(Rs.),9,355.55555555555554,450.0,150,500
+1,Gurgaon,Sector 17,Indian Rupees(Rs.),21,352.3809523809524,400.0,100,600
+1,New Delhi,Durga Puri,Indian Rupees(Rs.),1,350.0,350.0,350,350
+189,Sandton,Bryanston,Rand(R),2,350.0,350.0,250,450
+214,Abu Dhabi,"Crowne Plaza Abu Dhabi, Al Markaziya",Emirati Diram(AED),1,350.0,350.0,350,350
+189,Johannesburg,Parkhurst,Rand(R),3,350.0,350.0,350,350
+30,Brasília,"Shopping Iguatemi, Lago Norte",Brazilian Real(R$),1,350.0,350.0,350,350
+1,Faridabad,Sector 29,Indian Rupees(Rs.),2,350.0,350.0,100,600
+1,Dehradun,Krishna Nagar,Indian Rupees(Rs.),1,350.0,350.0,350,350
+1,New Delhi,Sheikh Sarai,Indian Rupees(Rs.),1,350.0,350.0,350,350
+1,New Delhi,Chander Nagar,Indian Rupees(Rs.),7,350.0,300.0,150,700
+1,Noida,Sector 1,Indian Rupees(Rs.),2,350.0,350.0,300,400
+1,New Delhi,ITO,Indian Rupees(Rs.),4,350.0,350.0,200,500
+1,New Delhi,Mehrauli,Indian Rupees(Rs.),20,350.0,300.0,200,700
+1,New Delhi,Model Town 1,Indian Rupees(Rs.),1,350.0,350.0,350,350
+1,Chennai,Kilpauk,Indian Rupees(Rs.),1,350.0,350.0,350,350
+1,Gurgaon,Sector 53,Indian Rupees(Rs.),1,350.0,350.0,350,350
+1,Noida,Sector 52,Indian Rupees(Rs.),5,350.0,300.0,150,800
+1,Noida,Sector 33,Indian Rupees(Rs.),5,350.0,300.0,300,450
+1,New Delhi,MG Road,Indian Rupees(Rs.),34,348.52941176470586,250.0,100,1200
+1,New Delhi,Mayur Vihar Phase 2,Indian Rupees(Rs.),29,346.55172413793105,300.0,50,1000
+1,Noida,Sector 12,Indian Rupees(Rs.),22,345.45454545454544,300.0,100,1100
+1,New Delhi,Lajpat Nagar 1,Indian Rupees(Rs.),42,344.04761904761904,300.0,100,800
+1,Noida,Sector 31,Indian Rupees(Rs.),8,343.75,300.0,200,600
+1,Noida,Sector 27,Indian Rupees(Rs.),26,342.3076923076923,325.0,100,800
+1,New Delhi,Munirka,Indian Rupees(Rs.),43,340.69767441860466,300.0,100,1000
+1,New Delhi,Zakir Nagar,Indian Rupees(Rs.),14,339.2857142857143,250.0,150,800
+1,Noida,Sector 58,Indian Rupees(Rs.),13,338.46153846153845,300.0,100,650
+1,Noida,Sector 47,Indian Rupees(Rs.),6,333.3333333333333,250.0,150,650
+189,Cape Town,Green Point,Rand(R),3,333.3333333333333,250.0,250,500
+1,Noida,Sector 56,Indian Rupees(Rs.),5,330.0,300.0,150,500
+214,Abu Dhabi,"Venetian Village, Al Maqtaa",Emirati Diram(AED),1,330.0,330.0,330,330
+1,New Delhi,JNU,Indian Rupees(Rs.),10,325.0,300.0,150,600
+1,New Delhi,Sarita Vihar,Indian Rupees(Rs.),26,325.0,300.0,100,750
+1,New Delhi,Delhi Cantt.,Indian Rupees(Rs.),4,325.0,250.0,200,600
+1,New Delhi,Mandi House,Indian Rupees(Rs.),4,325.0,300.0,100,600
+1,New Delhi,Lajpat Nagar 4,Indian Rupees(Rs.),2,325.0,325.0,150,500
+1,Noida,Sector 40,Indian Rupees(Rs.),2,325.0,325.0,250,400
+1,Noida,Sector 4,Indian Rupees(Rs.),2,325.0,325.0,150,500
+1,Gurgaon,Sector 22,Indian Rupees(Rs.),9,322.22222222222223,300.0,200,450
+1,New Delhi,Geeta Colony,Indian Rupees(Rs.),34,322.05882352941177,300.0,100,800
+189,Pretoria,Lynnwood,Rand(R),1,320.0,320.0,320,320
+1,New Delhi,Pandav Nagar,Indian Rupees(Rs.),20,320.0,300.0,150,700
+1,Noida,Sector 3,Indian Rupees(Rs.),5,320.0,300.0,200,500
+1,New Delhi,Jama Masjid,Indian Rupees(Rs.),26,319.2307692307692,300.0,100,800
+1,Noida,Sector 60,Indian Rupees(Rs.),3,316.6666666666667,250.0,200,500
+1,Faridabad,Sector 7,Indian Rupees(Rs.),9,316.6666666666667,300.0,100,500
+1,Noida,Sector 28,Indian Rupees(Rs.),6,316.6666666666667,300.0,100,600
+1,New Delhi,Sainik Farms,Indian Rupees(Rs.),35,315.7142857142857,300.0,100,1000
+184,Singapore,"Duxton Hill, Outram",Dollar($),1,315.0,315.0,315,315
+189,Sandton,"Pineslopes Shopping Centre, Fourways",Rand(R),2,315.0,315.0,300,330
+1,New Delhi,Okhla Phase 1,Indian Rupees(Rs.),8,312.5,300.0,250,500
+1,New Delhi,Shakarpur,Indian Rupees(Rs.),27,311.1111111111111,250.0,150,500
+1,New Delhi,Qutab Institutional Area,Indian Rupees(Rs.),23,310.8695652173913,350.0,100,600
+1,Faridabad,Charmwood Village,Indian Rupees(Rs.),6,308.3333333333333,300.0,200,400
+1,Faridabad,Sector 21,Indian Rupees(Rs.),14,307.14285714285717,300.0,100,700
+1,Noida,Sector 71,Indian Rupees(Rs.),7,307.14285714285717,200.0,150,500
+189,Pretoria,"Menlyn Shopping Centre, Menlyn",Rand(R),2,305.0,305.0,200,410
+1,Gurgaon,Sector 5,Indian Rupees(Rs.),1,300.0,300.0,300,300
+1,Coimbatore,"SMS Hotel, Peelamedu",Indian Rupees(Rs.),1,300.0,300.0,300,300
+189,Cape Town,"Cavendish Square, Claremont",Rand(R),1,300.0,300.0,300,300
+1,Gurgaon,"JMD Megapolis Mall, Sohna Road",Indian Rupees(Rs.),1,300.0,300.0,300,300
+1,New Delhi,Vikas Marg,Indian Rupees(Rs.),2,300.0,300.0,300,300
+184,Singapore,"Bayfront Avenue, Downtown Core",Dollar($),1,300.0,300.0,300,300
+1,Mysore,Doora,Indian Rupees(Rs.),1,300.0,300.0,300,300
+1,Noida,Sector 57,Indian Rupees(Rs.),1,300.0,300.0,300,300
+189,Cape Town,Gardens,Rand(R),2,300.0,300.0,250,350
+1,Noida,Sector 8,Indian Rupees(Rs.),2,300.0,300.0,200,400
+1,Gurgaon,Sikandarpur,Indian Rupees(Rs.),4,300.0,300.0,200,400
+1,Faridabad,Sector 30,Indian Rupees(Rs.),1,300.0,300.0,300,300
+1,Aurangabad,Mondha,Indian Rupees(Rs.),1,300.0,300.0,300,300
+1,Vizag,Jagadamba Junction,Indian Rupees(Rs.),1,300.0,300.0,300,300
+1,Varanasi,Dashaswmedh Road,Indian Rupees(Rs.),3,300.0,450.0,0,450
+1,Faridabad,Badkal Lake,Indian Rupees(Rs.),1,300.0,300.0,300,300
+1,New Delhi,"Sector 15, Dwarka",Indian Rupees(Rs.),1,300.0,300.0,300,300
+30,Rio de Janeiro,Santa Teresa,Brazilian Real(R$),1,300.0,300.0,300,300
+30,São Paulo,"Hotel Unique, Jardim Paulista",Brazilian Real(R$),1,300.0,300.0,300,300
+189,Johannesburg,Greenside,Rand(R),1,300.0,300.0,300,300
+1,New Delhi,Mansingh Road,Indian Rupees(Rs.),1,300.0,300.0,300,300
+1,Lucknow,Aminabad,Indian Rupees(Rs.),1,300.0,300.0,300,300
+189,Pretoria,Garsfontein,Rand(R),1,300.0,300.0,300,300
+189,Pretoria,"Glenfair Boulevard, Lynnwood",Rand(R),1,300.0,300.0,300,300
+166,Doha,"Al Emadi Financial Square, Al Hilal",Qatari Rial(QR),1,300.0,300.0,300,300
+1,New Delhi,Dr. Zakir Hussain Marg,Indian Rupees(Rs.),1,300.0,300.0,300,300
+1,Noida,Sector 127,Indian Rupees(Rs.),1,300.0,300.0,300,300
+214,Dubai,Festival City,Emirati Diram(AED),1,300.0,300.0,300,300
+1,Noida,Brahmaputra Shopping Complex,Indian Rupees(Rs.),4,300.0,300.0,200,400
+189,Cape Town,Athlone,Rand(R),1,294.0,294.0,294,294
+1,Noida,Sector 10,Indian Rupees(Rs.),7,292.85714285714283,200.0,100,500
+1,New Delhi,Sarojini Nagar,Indian Rupees(Rs.),13,292.3076923076923,300.0,100,650
+1,New Delhi,Shahdara,Indian Rupees(Rs.),87,290.8045977011494,300.0,100,700
+1,Ghaziabad,Indirapuram,Indian Rupees(Rs.),5,290.0,300.0,150,500
+1,New Delhi,Naraina,Indian Rupees(Rs.),54,289.25925925925924,250.0,100,1100
+1,Faridabad,Sector 35,Indian Rupees(Rs.),4,287.5,275.0,100,500
+1,New Delhi,Tilak Nagar,Indian Rupees(Rs.),60,285.0,300.0,100,700
+1,New Delhi,Palam,Indian Rupees(Rs.),60,280.0,200.0,50,700
+214,Dubai,Al Barari,Emirati Diram(AED),1,280.0,280.0,280,280
+166,Doha,Umm Ghuwailina,Qatari Rial(QR),2,280.0,280.0,160,400
+1,Gurgaon,"Vyapar Kendra, Palam Vihar",Indian Rupees(Rs.),7,278.57142857142856,250.0,100,600
+30,São Paulo,Rep�_blica,Brazilian Real(R$),2,275.0,275.0,150,400
+1,New Delhi,Uttam Nagar,Indian Rupees(Rs.),59,272.8813559322034,250.0,50,700
+184,Singapore,"Bayfront Subzone, Downtown Core",Dollar($),1,270.0,270.0,270,270
+1,New Delhi,Najafgarh,Indian Rupees(Rs.),60,268.3333333333333,250.0,50,800
+1,Gurgaon,Sector 8,Indian Rupees(Rs.),3,266.6666666666667,250.0,200,350
+1,New Delhi,Vasundhara Enclave,Indian Rupees(Rs.),62,263.7096774193548,250.0,50,700
+1,New Delhi,Chandni Chowk,Indian Rupees(Rs.),67,263.43283582089555,150.0,50,3000
+189,Pretoria,Waterkloof,Rand(R),3,261.6666666666667,250.0,250,285
+1,New Delhi,Subhash Nagar,Indian Rupees(Rs.),51,255.88235294117646,200.0,50,800
+214,Dubai,Trade Centre Area,Emirati Diram(AED),1,250.0,250.0,250,250
+189,Pretoria,"Waterglen Shopping Centre, Garsfontein",Rand(R),1,250.0,250.0,250,250
+166,Doha,"Barwa Towers, Al Sadd",Qatari Rial(QR),1,250.0,250.0,250,250
+214,Sharjah,"Sahara Centre, Al Nahda",Emirati Diram(AED),1,250.0,250.0,250,250
+214,Sharjah,"Majaz Waterfront, Al Majaz 3",Emirati Diram(AED),1,250.0,250.0,250,250
+166,Doha,"Mall of Qatar, Al Gharafa",Qatari Rial(QR),1,250.0,250.0,250,250
+1,Puducherry,Heritage Town,Indian Rupees(Rs.),1,250.0,250.0,250,250
+189,Sandton,Illovo,Rand(R),1,250.0,250.0,250,250
+166,Doha,Souq Waqif,Qatari Rial(QR),1,250.0,250.0,250,250
+1,Ghaziabad,Kaushambi,Indian Rupees(Rs.),1,250.0,250.0,250,250
+1,New Delhi,Wazirpur,Indian Rupees(Rs.),6,250.0,225.0,150,400
+1,Indore,HIG-LIG,Indian Rupees(Rs.),1,250.0,250.0,250,250
+189,Cape Town,Claremont,Rand(R),1,250.0,250.0,250,250
+30,São Paulo,"Bela Vista, Centro",Brazilian Real(R$),2,250.0,250.0,250,250
+214,Abu Dhabi,"Mushrif Mall, Al Mushrif",Emirati Diram(AED),1,250.0,250.0,250,250
+1,Varanasi,Sigra,Indian Rupees(Rs.),2,250.0,250.0,0,500
+1,New Delhi,Mukherjee Nagar,Indian Rupees(Rs.),68,242.64705882352942,200.0,50,700
+214,Dubai,"The Dubai Mall,Downtown Dubai",Emirati Diram(AED),3,241.66666666666666,270.0,170,285
+30,Brasília,"Pont��o Lago Sul, Lago Sul",Brazilian Real(R$),1,240.0,240.0,240,240
+1,New Delhi,Nangloi,Indian Rupees(Rs.),41,237.8048780487805,200.0,100,650
+30,Brasília,Setor De Clubes Esportivos Sul,Brazilian Real(R$),1,230.0,230.0,230,230
+189,Cape Town,CBD,Rand(R),3,230.0,180.0,150,360
+215,London,Chelsea,Pounds(��),1,230.0,230.0,230,230
+30,Brasília,"Bras�_lia Shopping, Asa Norte",Brazilian Real(R$),1,230.0,230.0,230,230
+30,São Paulo,Moema,Brazilian Real(R$),1,230.0,230.0,230,230
+1,Faridabad,Badarpur Border,Indian Rupees(Rs.),9,227.77777777777777,150.0,100,500
+1,Faridabad,"Eldeco Station 1 Mall, Sector 12, Faridabad",Indian Rupees(Rs.),2,225.0,225.0,200,250
+214,Abu Dhabi,"Abu Dhabi Mall, Tourist Club Area  (Al Zahiyah)",Emirati Diram(AED),2,225.0,225.0,190,260
+1,Gurgaon,Sadar Bazar,Indian Rupees(Rs.),2,225.0,225.0,200,250
+1,Noida,Sector 55,Indian Rupees(Rs.),2,225.0,225.0,150,300
+166,Doha,Al Nasr,Qatari Rial(QR),1,220.0,220.0,220,220
+1,Noida,Sector 5,Indian Rupees(Rs.),3,216.66666666666666,250.0,100,300
+208,Ankara,Gazi Osman Pa��a,Turkish Lira(TL),3,210.0,150.0,80,400
+30,São Paulo,Jardim Paulista,Brazilian Real(R$),3,206.66666666666666,200.0,120,300
+214,Abu Dhabi,"Al Wahda Mall, Al Wahda",Emirati Diram(AED),2,205.0,205.0,180,230
+189,Randburg,Linden,Rand(R),1,200.0,200.0,200,200
+189,Pretoria,"Greenlyn Village, Menlopark, Near Lynnwood",Rand(R),1,200.0,200.0,200,200
+166,Doha,"The Gate, Dafna",Qatari Rial(QR),1,200.0,200.0,200,200
+1,New Delhi,Tilak Marg,Indian Rupees(Rs.),1,200.0,200.0,200,200
+189,Cape Town,De Waterkant,Rand(R),1,200.0,200.0,200,200
+214,Abu Dhabi,"Yas Mall, Yas Island",Emirati Diram(AED),1,200.0,200.0,200,200
+214,Dubai,"CITY WALK, Al Safa",Emirati Diram(AED),1,200.0,200.0,200,200
+1,Noida,Sector 83,Indian Rupees(Rs.),1,200.0,200.0,200,200
+1,New Delhi,"DDA Market, Kalu Sarai, Hauz Khas",Indian Rupees(Rs.),2,200.0,200.0,150,250
+1,Faridabad,Dayal Bagh,Indian Rupees(Rs.),1,200.0,200.0,200,200
+148,Auckland,"The Langham Hotel, Auckland CBD",NewZealand($),1,190.0,190.0,190,190
+1,Gurgaon,"Ansal Plaza Mall, Palam Vihar",Indian Rupees(Rs.),4,187.5,200.0,100,250
+30,Rio de Janeiro,Leblon,Brazilian Real(R$),2,185.0,185.0,120,250
+184,Singapore,"Marina Centre, Downtown Core",Dollar($),3,183.33333333333334,220.0,30,300
+189,Cape Town,Sea Point,Rand(R),2,177.5,177.5,125,230
+166,Doha,Al Hilal,Qatari Rial(QR),1,170.0,170.0,170,170
+1,New Delhi,Chawri Bazar,Indian Rupees(Rs.),12,162.5,150.0,100,300
+214,Sharjah,"Al Qasba, Al Khan",Emirati Diram(AED),1,160.0,160.0,160,160
+214,Dubai,Deira City Centre Area,Emirati Diram(AED),1,160.0,160.0,160,160
+214,Dubai,Dubai Media City,Emirati Diram(AED),1,160.0,160.0,160,160
+214,Dubai,"Mall of the Emirates, Barsha 1",Emirati Diram(AED),1,160.0,160.0,160,160
+1,New Delhi,Feroze Shah Road,Indian Rupees(Rs.),2,150.0,150.0,100,200
+214,Dubai,Mankhool,Emirati Diram(AED),1,150.0,150.0,150,150
+214,Dubai,Satwa,Emirati Diram(AED),1,150.0,150.0,150,150
+166,Doha,"Ghanem Business Center, Fereej Bin Mahmoud",Qatari Rial(QR),1,150.0,150.0,150,150
+30,Rio de Janeiro,"Le Monde, Barra da Tijuca",Brazilian Real(R$),1,150.0,150.0,150,150
+30,Brasília,"ParkShopping, Guar�� I",Brazilian Real(R$),1,150.0,150.0,150,150
+166,Doha,Ain Khalid,Qatari Rial(QR),1,150.0,150.0,150,150
+214,Dubai,Barsha 2,Emirati Diram(AED),1,150.0,150.0,150,150
+1,Faridabad,"SRS Mall, Sector 12, Faridabad",Indian Rupees(Rs.),1,150.0,150.0,150,150
+1,Varanasi,Godaulia,Indian Rupees(Rs.),1,150.0,150.0,150,150
+1,Noida,Sector 6,Indian Rupees(Rs.),1,150.0,150.0,150,150
+1,Faridabad,Sector 49,Indian Rupees(Rs.),1,150.0,150.0,150,150
+1,Noida,"Logix Cyber Park, Sector 62, Noida",Indian Rupees(Rs.),2,150.0,150.0,100,200
+208,İstanbul,Kuru�_e��me,Turkish Lira(TL),2,145.0,145.0,120,170
+30,Rio de Janeiro,Leme,Brazilian Real(R$),2,145.0,145.0,40,250
+30,Rio de Janeiro,Barra da Tijuca,Brazilian Real(R$),1,140.0,140.0,140,140
+214,Dubai,Jumeirah 1,Emirati Diram(AED),1,140.0,140.0,140,140
+214,Dubai,Umm Hurair,Emirati Diram(AED),1,130.0,130.0,130,130
+208,İstanbul,Caddebostan,Turkish Lira(TL),1,130.0,130.0,130,130
+214,Sharjah,Halwan Suburb,Emirati Diram(AED),1,130.0,130.0,130,130
+30,Rio de Janeiro,Ipanema,Brazilian Real(R$),3,126.66666666666667,120.0,90,170
+215,Birmingham,Colmore Business District,Pounds(��),1,120.0,120.0,120,120
+14,Paynesville,Paynesville,Dollar($),1,120.0,120.0,120,120
+148,Auckland,Wynyard Quarter,NewZealand($),1,120.0,120.0,120,120
+214,Abu Dhabi,"Dalma Mall, Mussafah Sanaiya",Emirati Diram(AED),1,120.0,120.0,120,120
+30,São Paulo,Vila S��nia,Brazilian Real(R$),1,120.0,120.0,120,120
+30,São Paulo,Pinheiros,Brazilian Real(R$),1,120.0,120.0,120,120
+166,Doha,"Caravan Complex, Al Hilal",Qatari Rial(QR),1,110.0,110.0,110,110
+189,Cape Town,Newlands,Rand(R),1,110.0,110.0,110,110
+215,London,Mayfair,Pounds(��),2,110.0,110.0,100,120
+214,Abu Dhabi,Al Dhafrah,Emirati Diram(AED),2,110.0,110.0,70,150
+215,Manchester,"The Midland, Deansgate",Pounds(��),2,107.5,107.5,55,160
+30,Rio de Janeiro,Copacabana,Brazilian Real(R$),3,106.66666666666667,90.0,60,170
+208,İstanbul,Ko��uyolu,Turkish Lira(TL),1,105.0,105.0,105,105
+214,Sharjah,University City,Emirati Diram(AED),3,103.33333333333333,110.0,50,150
+215,London,"Conduit Street, Mayfair",Pounds(��),1,100.0,100.0,100,100
+1,Amritsar,Hathi Gate,Indian Rupees(Rs.),1,100.0,100.0,100,100
+214,Abu Dhabi,Al Mushrif,Emirati Diram(AED),1,100.0,100.0,100,100
+214,Dubai,"Kite Beach, Umm Suqeim",Emirati Diram(AED),1,100.0,100.0,100,100
+30,Brasília,Lago Sul,Brazilian Real(R$),1,100.0,100.0,100,100
+1,New Delhi,Trilokpuri,Indian Rupees(Rs.),1,100.0,100.0,100,100
+1,Faridabad,Indraprastha Colony,Indian Rupees(Rs.),1,100.0,100.0,100,100
+30,Rio de Janeiro,G��vea,Brazilian Real(R$),1,100.0,100.0,100,100
+166,Doha,Al Muntazah,Qatari Rial(QR),1,100.0,100.0,100,100
+184,Singapore,"Hillcrest, Bukit Timah",Dollar($),1,100.0,100.0,100,100
+30,Rio de Janeiro,Centro,Brazilian Real(R$),1,100.0,100.0,100,100
+30,Brasília,Asa Sul,Brazilian Real(R$),6,100.0,85.0,30,200
+148,Auckland,Mission Bay,NewZealand($),1,100.0,100.0,100,100
+214,Abu Dhabi,"Madinat Zayed Shopping Centre, Madinat Zayed",Emirati Diram(AED),1,100.0,100.0,100,100
+30,São Paulo,Vila Maria,Brazilian Real(R$),1,100.0,100.0,100,100
+208,Ankara,Dikmen,Turkish Lira(TL),1,100.0,100.0,100,100
+184,Singapore,"Robertson Quay, Singapore River",Dollar($),1,95.0,95.0,95,95
+214,Sharjah,Abu Shagara,Emirati Diram(AED),3,91.66666666666667,85.0,70,120
+208,Ankara,K۱z۱lay,Turkish Lira(TL),2,90.0,90.0,80,100
+148,Auckland,Lorne Street,NewZealand($),1,90.0,90.0,90,90
+214,Dubai,Al Karama,Emirati Diram(AED),2,90.0,90.0,90,90
+215,London,"Broadwick Street, Soho",Pounds(��),1,90.0,90.0,90,90
+148,Wellington City,Wellington Central,NewZealand($),3,90.0,90.0,70,110
+30,Rio de Janeiro,Lagoa,Brazilian Real(R$),1,90.0,90.0,90,90
+30,Brasília,�guas Claras,Brazilian Real(R$),3,86.66666666666667,100.0,60,100
+30,Rio de Janeiro,Tijuca,Brazilian Real(R$),1,85.0,85.0,85,85
+208,Ankara,Balgat,Turkish Lira(TL),2,85.0,85.0,70,100
+214,Sharjah,Al Mareija,Emirati Diram(AED),2,85.0,85.0,80,90
+30,São Paulo,Consola�_��o,Brazilian Real(R$),2,85.0,85.0,70,100
+30,São Paulo,Itaim Bibi,Brazilian Real(R$),3,83.33333333333333,75.0,55,120
+214,Sharjah,Al Majaz,Emirati Diram(AED),3,83.33333333333333,100.0,40,110
+214,Abu Dhabi,Najda,Emirati Diram(AED),3,83.33333333333333,80.0,70,100
+166,Doha,Al Doha Al Jadeeda,Qatari Rial(QR),1,80.0,80.0,80,80
+30,Rio de Janeiro,Urca,Brazilian Real(R$),1,80.0,80.0,80,80
+184,Singapore,"Chinatown, Outram",Dollar($),1,80.0,80.0,80,80
+166,Doha,Musheireb,Qatari Rial(QR),1,80.0,80.0,80,80
+215,London,"Albemarle Street, Mayfair",Pounds(��),1,80.0,80.0,80,80
+208,İstanbul,Be��ikta�� Merkez,Turkish Lira(TL),1,80.0,80.0,80,80
+215,Birmingham,Jewellery Quarter,Pounds(��),1,80.0,80.0,80,80
+208,İstanbul,Kad۱k�_y Merkez,Turkish Lira(TL),1,80.0,80.0,80,80
+208,İstanbul,Emirg��n,Turkish Lira(TL),1,75.0,75.0,75,75
+184,Singapore,"Victoria, Rochor",Dollar($),1,75.0,75.0,75,75
+148,Auckland,Federal Street,NewZealand($),2,75.0,75.0,60,90
+208,Ankara,"Armada AVM, S�_���_t�_z�_, Yenimahalle",Turkish Lira(TL),1,70.0,70.0,70,70
+208,Ankara,Maltepe,Turkish Lira(TL),1,70.0,70.0,70,70
+208,Ankara,��mitk�_y,Turkish Lira(TL),1,70.0,70.0,70,70
+216,Des Moines,Fairground,Dollar($),1,70.0,70.0,70,70
+37,Vineland Station,Vineland Station,Dollar($),1,70.0,70.0,70,70
+30,São Paulo,Vila Mariana,Brazilian Real(R$),1,70.0,70.0,70,70
+30,Rio de Janeiro,Madureira,Brazilian Real(R$),1,70.0,70.0,70,70
+208,Ankara,"Kentpark AVM, ��niversiteler, �ankaya",Turkish Lira(TL),1,70.0,70.0,70,70
+148,Auckland,Newmarket,NewZealand($),1,70.0,70.0,70,70
+216,Sioux City,South Sioux City,Dollar($),1,70.0,70.0,70,70
+215,Manchester,Deansgate,Pounds(��),2,70.0,70.0,55,85
+216,Rest of Hawaii,Paia,Dollar($),1,70.0,70.0,70,70
+216,Princeton,Princeton,Dollar($),1,70.0,70.0,70,70
+148,Wellington City,Te Aro,NewZealand($),15,69.66666666666667,50.0,25,200
+214,Sharjah,Al Khan,Emirati Diram(AED),1,65.0,65.0,65,65
+30,São Paulo,"Shopping Metr�� Santa Cruz, Vila Mariana",Brazilian Real(R$),1,65.0,65.0,65,65
+214,Sharjah,Al Nahda,Emirati Diram(AED),2,65.0,65.0,50,80
+148,Auckland,Mt Eden,NewZealand($),3,61.666666666666664,60.0,35,90
+208,İstanbul,Karak�_y,Turkish Lira(TL),4,61.25,60.0,35,90
+208,Ankara,Kavakl۱dere,Turkish Lira(TL),1,60.0,60.0,60,60
+214,Abu Dhabi,Madinat Zayed,Emirati Diram(AED),1,60.0,60.0,60,60
+216,Orlando,Restaurant Row,Dollar($),1,60.0,60.0,60,60
+215,London,"Charlotte Street, Fitzrovia",Pounds(��),1,60.0,60.0,60,60
+166,Doha,Al Ghanim,Qatari Rial(QR),1,60.0,60.0,60,60
+215,Manchester,Market Street,Pounds(��),2,60.0,60.0,50,70
+184,Singapore,"Lavender, Kallang",Dollar($),2,60.0,60.0,40,80
+208,Ankara,Emek,Turkish Lira(TL),1,60.0,60.0,60,60
+184,Singapore,"North Bridge Road, Rochor",Dollar($),1,60.0,60.0,60,60
+30,Rio de Janeiro,"Galeria River, Copacabana",Brazilian Real(R$),1,60.0,60.0,60,60
+148,Auckland,"Sky City Metro, Auckland CBD",NewZealand($),1,60.0,60.0,60,60
+148,Wellington City,Mt Victoria,NewZealand($),1,60.0,60.0,60,60
+184,Singapore,"Neil Road, Outram",Dollar($),1,60.0,60.0,60,60
+215,Birmingham,"Brindleyplace, Broad Street",Pounds(��),1,60.0,60.0,60,60
+214,Sharjah,Muwailih Commercial,Emirati Diram(AED),1,60.0,60.0,60,60
+214,Sharjah,Al Nud,Emirati Diram(AED),1,60.0,60.0,60,60
+216,Orlando,I-Drive/Universal,Dollar($),4,58.75,47.5,40,100
+148,Auckland,Penrose,NewZealand($),1,55.0,55.0,55,55
+215,London,"Boundary Street, Shoreditch",Pounds(��),1,55.0,55.0,55,55
+208,İstanbul,Moda,Turkish Lira(TL),1,55.0,55.0,55,55
+215,London,"Bishopsgate, City Of London",Pounds(��),1,55.0,55.0,55,55
+215,Edinburgh,"Twelve Picardy Place, New Town",Pounds(��),1,55.0,55.0,55,55
+148,Wellington City,Lyall Bay,NewZealand($),1,50.0,50.0,50,50
+184,Singapore,"Sungai Pinang, Rochor",Dollar($),1,50.0,50.0,50,50
+208,Ankara,�ukurambar,Turkish Lira(TL),1,50.0,50.0,50,50
+215,Birmingham,Edgbaston,Pounds(��),1,50.0,50.0,50,50
+208,Ankara,Macunk�_y,Turkish Lira(TL),1,50.0,50.0,50,50
+208,İstanbul,Asmal۱mescit,Turkish Lira(TL),1,50.0,50.0,50,50
+148,Auckland,Mt Albert,NewZealand($),1,50.0,50.0,50,50
+30,Brasília,Sudoeste,Brazilian Real(R$),1,50.0,50.0,50,50
+215,Edinburgh,Leith,Pounds(��),4,50.0,40.0,30,90
+214,Abu Dhabi,Mussafah Sanaiya,Emirati Diram(AED),1,50.0,50.0,50,50
+166,Doha,Fereej Bin Mahmoud,Qatari Rial(QR),1,50.0,50.0,50,50
+148,Auckland,Parnell,NewZealand($),1,50.0,50.0,50,50
+184,Singapore,"Kay Siang Road, Tanglin",Dollar($),1,50.0,50.0,50,50
+30,São Paulo,"Shopping Morumbi, Santo Amaro",Brazilian Real(R$),1,50.0,50.0,50,50
+30,Brasília,Asa Norte,Brazilian Real(R$),4,47.5,50.0,30,60
+216,Tampa Bay,Hyde Park,Dollar($),5,46.0,40.0,25,70
+208,Ankara,K�_�_�_k Esat,Turkish Lira(TL),2,45.0,45.0,40,50
+215,Birmingham,Sparkhill,Pounds(��),1,45.0,45.0,45,45
+215,Manchester,Spinningfields,Pounds(��),3,45.0,30.0,25,80
+216,Orlando,Disney World Area,Dollar($),1,45.0,45.0,45,45
+148,Auckland,Henderson,NewZealand($),1,45.0,45.0,45,45
+148,Auckland,Britomart,NewZealand($),3,45.0,50.0,20,65
+216,Pocatello,Chubbuck,Dollar($),1,45.0,45.0,45,45
+215,London,"Archer Street, Soho",Pounds(��),1,45.0,45.0,45,45
+215,London,"Portman Mews South, Marble Arch",Pounds(��),1,45.0,45.0,45,45
+216,Orlando,Disney: Downtown Disney,Dollar($),2,42.5,42.5,35,50
+215,Birmingham,City Centre,Pounds(��),2,42.5,42.5,40,45
+215,London,"Upper St Martin's Lane, Covent Garden",Pounds(��),2,42.5,42.5,35,50
+215,Manchester,Northern Quarter,Pounds(��),4,41.25,42.5,30,50
+216,Columbus,Hamilton,Dollar($),1,40.0,40.0,40,40
+216,Sioux City,Le Mars,Dollar($),1,40.0,40.0,40,40
+216,Orlando,Church Street District,Dollar($),1,40.0,40.0,40,40
+215,London,"D'arblay Street, Soho",Pounds(��),1,40.0,40.0,40,40
+215,London,"Walker's Court, Soho",Pounds(��),1,40.0,40.0,40,40
+216,Boise,Nampa,Dollar($),1,40.0,40.0,40,40
+184,Singapore,"Telok Ayer Street, Outram",Dollar($),1,40.0,40.0,40,40
+148,Auckland,Balmoral,NewZealand($),1,40.0,40.0,40,40
+216,Tampa Bay,Ybor City,Dollar($),1,40.0,40.0,40,40
+215,Edinburgh,New Town,Pounds(��),4,40.0,40.0,30,50
+208,Ankara,Y۱ld۱zevler,Turkish Lira(TL),1,40.0,40.0,40,40
+216,Orlando,Sanford,Dollar($),1,40.0,40.0,40,40
+216,Ojo Caliente,Ojo Caliente,Dollar($),1,40.0,40.0,40,40
+216,Des Moines,Beaverdale,Dollar($),1,40.0,40.0,40,40
+216,Tampa Bay,Palma Ceia,Dollar($),1,40.0,40.0,40,40
+216,Tampa Bay,Northeast St Petersburg,Dollar($),1,40.0,40.0,40,40
+216,Tampa Bay,New Tampa,Dollar($),1,40.0,40.0,40,40
+216,Tampa Bay,Madeira Beach/Redington Beach,Dollar($),1,40.0,40.0,40,40
+216,Tampa Bay,Indian Rocks/Indian Shores,Dollar($),1,40.0,40.0,40,40
+215,Birmingham,"Bullring Shopping Centre, Southside",Pounds(��),3,38.333333333333336,35.0,30,50
+216,Pensacola,Pensacola Beach,Dollar($),5,37.0,40.0,25,40
+216,Rest of Hawaii,Waikiki,Dollar($),7,35.714285714285715,25.0,10,70
+216,Orlando,Windermere,Dollar($),1,35.0,35.0,35,35
+215,Manchester,Levenshulme,Pounds(��),1,35.0,35.0,35,35
+216,Rest of Hawaii,Kailua Kona,Dollar($),1,35.0,35.0,35,35
+215,London,"Beak Street, Soho",Pounds(��),1,35.0,35.0,35,35
+208,Ankara,�ayyolu,Turkish Lira(TL),1,35.0,35.0,35,35
+215,Edinburgh,Old Town,Pounds(��),9,33.888888888888886,25.0,15,100
+216,Savannah,Savannah,Dollar($),18,33.333333333333336,25.0,10,70
+216,Macon,Macon,Dollar($),10,32.5,25.0,10,70
+215,Manchester,Oxford Road,Pounds(��),2,32.5,32.5,15,50
+216,Orlando,Winter Park,Dollar($),6,32.5,32.5,25,40
+216,Des Moines,West Des Moines,Dollar($),2,32.5,32.5,25,40
+215,Birmingham,Moseley,Pounds(��),2,32.5,32.5,20,45
+14,Montville,Montville,Dollar($),1,30.0,30.0,30,30
+215,London,"Long Acre, Covent Garden",Pounds(��),1,30.0,30.0,30,30
+14,Palm Cove,Palm Cove,Dollar($),1,30.0,30.0,30,30
+14,Middleton Beach,Middleton Beach,Dollar($),1,30.0,30.0,30,30
+216,Tampa Bay,Seminole Heights,Dollar($),3,30.0,40.0,10,40
+14,Tanunda,Tanunda,Dollar($),1,30.0,30.0,30,30
+215,Birmingham,Handsworth,Pounds(��),1,30.0,30.0,30,30
+216,Des Moines,Downtown,Dollar($),6,30.0,32.5,10,40
+14,Flaxton,Flaxton,Dollar($),1,30.0,30.0,30,30
+216,Rest of Hawaii,Kihei,Dollar($),4,30.0,35.0,10,40
+215,London,Covent Garden,Pounds(��),1,30.0,30.0,30,30
+215,London,"Tavistock Court, Covent Garden",Pounds(��),1,30.0,30.0,30,30
+215,Manchester,Rusholme,Pounds(��),2,30.0,30.0,25,35
+215,Birmingham,Harborne,Pounds(��),1,30.0,30.0,30,30
+208,İstanbul,Bebek,Turkish Lira(TL),1,30.0,30.0,30,30
+215,Edinburgh,Fountainbridge,Pounds(��),1,30.0,30.0,30,30
+216,Valdosta,Valdosta,Dollar($),20,29.25,25.0,10,70
+216,Augusta,Augusta,Dollar($),15,29.0,25.0,10,40
+216,Pensacola,Pensacola,Dollar($),12,28.75,25.0,10,40
+216,Boise,Boise,Dollar($),18,26.666666666666668,25.0,10,70
+216,Cedar Rapids/Iowa City,Iowa City,Dollar($),9,26.666666666666668,25.0,10,40
+216,Columbus,Columbus,Dollar($),19,26.05263157894737,25.0,0,40
+216,Davenport,Davenport,Dollar($),15,25.333333333333332,25.0,0,70
+216,Orlando,The Milk District,Dollar($),1,25.0,25.0,25,25
+216,Tampa Bay,Downtown St Petersburg,Dollar($),4,25.0,25.0,25,25
+216,Cedar Rapids/Iowa City,Marion,Dollar($),1,25.0,25.0,25,25
+216,Gainesville,Flowery Branch,Dollar($),3,25.0,25.0,10,40
+37,Chatham-Kent,Chatham-Kent,Dollar($),1,25.0,25.0,25,25
+148,Auckland,Fort Street,NewZealand($),1,25.0,25.0,25,25
+216,Cochrane,Cochrane,Dollar($),1,25.0,25.0,25,25
+216,Boise,Meridian,Dollar($),1,25.0,25.0,25,25
+216,Cedar Rapids/Iowa City,Cedar Rapids,Dollar($),8,25.0,25.0,10,40
+216,Rest of Hawaii,Kahuku,Dollar($),1,25.0,25.0,25,25
+215,Manchester,Cheetham Hill,Pounds(��),2,25.0,25.0,20,30
+37,Consort,Consort,Dollar($),1,25.0,25.0,25,25
+216,Savannah,Tybee Island,Dollar($),2,25.0,25.0,10,40
+216,Cedar Rapids/Iowa City,Coralville,Dollar($),2,25.0,25.0,25,25
+216,Potrero,Potrero,Dollar($),1,25.0,25.0,25,25
+37,Yorkton,Yorkton,Dollar($),1,25.0,25.0,25,25
+216,Pensacola,Navarre,Dollar($),1,25.0,25.0,25,25
+216,Pensacola,Perdido Key,Dollar($),2,25.0,25.0,10,40
+216,Des Moines,Clive,Dollar($),2,25.0,25.0,25,25
+216,Des Moines,Urbandale,Dollar($),1,25.0,25.0,25,25
+216,Des Moines,Kingman Place Historic District,Dollar($),1,25.0,25.0,25,25
+216,Des Moines,Ames,Dollar($),2,25.0,25.0,25,25
+216,Gainesville,Braselton,Dollar($),1,25.0,25.0,25,25
+216,Monroe,Monroe,Dollar($),1,25.0,25.0,25,25
+216,Weirton,Weirton,Dollar($),1,25.0,25.0,25,25
+216,Davenport,Bettendorf,Dollar($),5,25.0,25.0,10,40
+216,Winchester Bay,Winchester Bay,Dollar($),1,25.0,25.0,25,25
+216,Tampa Bay,Clearwater,Dollar($),1,25.0,25.0,25,25
+216,Macon,Bonaire,Dollar($),1,25.0,25.0,25,25
+216,Lincoln,Haymarket,Dollar($),1,25.0,25.0,25,25
+216,Rest of Hawaii,Lahaina,Dollar($),5,25.0,25.0,10,40
+216,Augusta,Evans,Dollar($),4,23.75,25.0,10,35
+216,Dubuque,Dubuque,Dollar($),20,23.75,25.0,0,70
+216,Orlando,Mills 50,Dollar($),2,22.5,22.5,10,35
+216,Gainesville,Dahlonega,Dollar($),5,22.0,25.0,10,40
+216,Pocatello,Pocatello,Dollar($),16,21.875,25.0,0,40
+216,Macon,Warner Robins,Dollar($),9,21.666666666666668,25.0,10,40
+216,Waterloo,Cedar Falls,Dollar($),13,21.53846153846154,25.0,10,40
+216,Gainesville,Helen,Dollar($),4,21.25,17.5,10,40
+216,Sioux City,Sioux City,Dollar($),18,20.833333333333332,17.5,10,40
+216,Waterloo,Waterloo,Dollar($),7,20.714285714285715,25.0,10,40
+216,Albany,Albany,Dollar($),19,20.263157894736842,10.0,0,70
+216,Gainesville,Gainesville,Dollar($),6,20.0,25.0,10,25
+216,Dalton,Calhoun,Dollar($),3,20.0,25.0,10,25
+184,Singapore,"Haji Lane, Rochor",Dollar($),1,20.0,20.0,20,20
+14,Phillip Island,Phillip Island,Dollar($),1,20.0,20.0,20,20
+14,Mayfield,Mayfield,Dollar($),1,20.0,20.0,20,20
+14,Macedon,Macedon,Dollar($),1,20.0,20.0,20,20
+14,Forrest,Forrest,Dollar($),1,20.0,20.0,20,20
+14,Huskisson,Huskisson,Dollar($),1,20.0,20.0,20,20
+14,East Ballina,East Ballina,Dollar($),1,20.0,20.0,20,20
+14,Trentham East,Trentham East,Dollar($),1,20.0,20.0,20,20
+14,Victor Harbor,Victor Harbor,Dollar($),1,20.0,20.0,20,20
+14,Penola,Penola,Dollar($),1,20.0,20.0,20,20
+215,Birmingham,Digbeth,Pounds(��),1,20.0,20.0,20,20
+14,Beechworth,Beechworth,Dollar($),1,20.0,20.0,20,20
+14,Armidale,Armidale,Dollar($),1,20.0,20.0,20,20
+14,Balingup,Balingup,Dollar($),1,20.0,20.0,20,20
+215,Birmingham,"The Mailbox, Broad Street",Pounds(��),1,20.0,20.0,20,20
+215,Birmingham,Smethwick,Pounds(��),1,20.0,20.0,20,20
+215,Edinburgh,Tollcross,Pounds(��),1,20.0,20.0,20,20
+14,Lorn,Lorn,Dollar($),1,20.0,20.0,20,20
+215,London,"Lexington Street, Soho",Pounds(��),1,20.0,20.0,20,20
+216,Dalton,Fort Oglethorpe,Dollar($),3,20.0,25.0,10,25
+216,Athens,Athens,Dollar($),20,19.0,10.0,10,40
+216,Des Moines,East Village,Dollar($),2,17.5,17.5,10,25
+216,Dalton,Dalton,Dollar($),8,17.5,10.0,10,40
+215,Birmingham,Brindleyplace,Pounds(��),1,15.0,15.0,15,15
+215,Birmingham,Small Heath,Pounds(��),1,15.0,15.0,15,15
+14,Hepburn Springs,Hepburn Springs,Dollar($),2,13.5,13.5,7,20
+216,Tampa Bay,Kenwood,Dollar($),1,10.0,10.0,10,10
+216,Gainesville,Clarkesville,Dollar($),1,10.0,10.0,10,10
+216,Des Moines,Greater South Side,Dollar($),1,10.0,10.0,10,10
+216,Fernley,Fernley,Dollar($),1,10.0,10.0,10,10
+215,Birmingham,Alum Rock,Pounds(��),1,10.0,10.0,10,10
+216,Pocatello,Blackfoot,Dollar($),1,10.0,10.0,10,10
+216,Vernonia,Vernonia,Dollar($),1,10.0,10.0,10,10
+216,Des Moines,Johnston,Dollar($),1,10.0,10.0,10,10
+216,Lakeview,Lakeview,Dollar($),1,10.0,10.0,10,10
+216,Dalton,LaFayette,Dollar($),1,10.0,10.0,10,10
+216,Dalton,Chatsworth,Dollar($),1,10.0,10.0,10,10
+216,Clatskanie,Clatskanie,Dollar($),1,10.0,10.0,10,10
+216,Dalton,Ringgold,Dollar($),3,10.0,10.0,10,10
+216,Rest of Hawaii,Kaimuki,Dollar($),1,10.0,10.0,10,10
+216,Albany,Sylvester,Dollar($),1,10.0,10.0,10,10
+216,Augusta,Grovetown,Dollar($),1,10.0,10.0,10,10
+216,Mc Millan,Mc Millan,Dollar($),1,10.0,10.0,10,10
+216,Dalton,Rock Spring,Dollar($),1,10.0,10.0,10,10
+14,Dicky Beach,Dicky Beach,Dollar($),1,7.0,7.0,7,7
+14,Inverloch,Inverloch,Dollar($),1,7.0,7.0,7,7
+14,Lakes Entrance,Lakes Entrance,Dollar($),1,7.0,7.0,7,7
+216,Pocatello,Lava Hot Springs,Dollar($),2,5.0,5.0,0,10
+1,Kanpur,Parade,Indian Rupees(Rs.),1,0.0,0.0,0,0
+216,Miller,Miller,Dollar($),1,0.0,0.0,0,0

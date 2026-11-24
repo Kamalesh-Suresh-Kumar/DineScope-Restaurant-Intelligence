@@ -1,0 +1,146 @@
+Cuisine,Actual Test Support,Baseline Predicted Count,Tuned Predicted Count,Test Representation
+afghani,3,0,0,Represented
+african,2,0,0,Represented
+american,78,9,67,Represented
+andhra,2,0,0,Represented
+arabian,6,0,0,Represented
+argentine,0,0,0,Not Represented
+armenian,1,0,0,Represented
+asian,47,0,10,Represented
+asian fusion,0,0,0,Not Represented
+assamese,1,0,0,Represented
+australian,1,0,0,Represented
+awadhi,2,0,0,Represented
+bakery,149,0,7,Represented
+bar food,8,0,5,Represented
+bbq,7,0,0,Represented
+belgian,0,0,0,Not Represented
+bengali,6,0,0,Represented
+beverages,46,0,0,Represented
+bihari,1,0,0,Represented
+biryani,35,0,0,Represented
+brazilian,6,0,9,Represented
+breakfast,8,0,7,Represented
+british,3,0,2,Represented
+bubble tea,0,0,0,Not Represented
+burger,50,0,10,Represented
+burmese,2,0,0,Represented
+börek,0,0,0,Not Represented
+cafe,141,0,80,Represented
+cajun,2,0,0,Represented
+canadian,0,0,0,Not Represented
+cantonese,0,0,0,Not Represented
+caribbean,1,0,0,Represented
+charcoal grill,1,0,0,Represented
+chettinad,2,0,0,Represented
+chinese,547,80,1455,Represented
+coffee and tea,4,1,4,Represented
+contemporary,2,0,0,Represented
+continental,147,34,218,Represented
+cuban,0,0,0,Not Represented
+cuisine varies,0,0,0,Not Represented
+curry,1,0,0,Represented
+deli,1,0,0,Represented
+desserts,131,0,16,Represented
+dim sum,1,0,0,Represented
+diner,1,0,0,Represented
+drinks only,0,0,0,Not Represented
+durban,0,0,0,Not Represented
+döner,0,0,0,Not Represented
+european,30,0,19,Represented
+fast food,397,7,973,Represented
+filipino,2,1,9,Represented
+finger food,23,0,19,Represented
+fish and chips,0,0,0,Not Represented
+french,6,0,0,Represented
+fusion,1,0,0,Represented
+german,2,0,0,Represented
+goan,4,0,2,Represented
+gourmet fast food,0,0,0,Not Represented
+greek,3,0,0,Represented
+grill,4,0,5,Represented
+gujarati,2,0,0,Represented
+hawaiian,2,0,4,Represented
+healthy food,30,0,0,Represented
+hyderabadi,5,0,0,Represented
+ice cream,45,0,2,Represented
+indian,14,5,19,Represented
+indonesian,3,0,1,Represented
+international,4,0,0,Represented
+iranian,1,0,0,Represented
+irish,0,0,0,Not Represented
+italian,153,12,202,Represented
+izgara,0,0,0,Not Represented
+japanese,27,1,9,Represented
+juices,6,0,0,Represented
+kashmiri,4,0,0,Represented
+kebab,2,0,2,Represented
+kerala,5,0,0,Represented
+kiwi,1,0,5,Represented
+korean,4,0,0,Represented
+latin american,2,0,0,Represented
+lebanese,14,0,0,Represented
+lucknowi,3,0,0,Represented
+maharashtrian,2,0,0,Represented
+malay,0,0,0,Not Represented
+malaysian,4,0,0,Represented
+malwani,0,0,0,Not Represented
+mangalorean,1,0,0,Represented
+mediterranean,22,0,2,Represented
+mexican,36,0,3,Represented
+middle eastern,4,0,1,Represented
+mineira,0,0,0,Not Represented
+mithai,76,1,15,Represented
+modern australian,2,1,6,Represented
+modern indian,3,0,0,Represented
+moroccan,1,0,0,Represented
+mughlai,199,0,118,Represented
+naga,2,0,0,Represented
+nepalese,2,0,0,Represented
+new american,0,0,0,Not Represented
+north eastern,2,0,0,Represented
+north indian,792,471,1725,Represented
+oriya,0,0,0,Not Represented
+pakistani,2,0,0,Represented
+parsi,2,0,0,Represented
+patisserie,1,0,0,Represented
+peranakan,0,0,0,Not Represented
+persian,0,0,0,Not Represented
+peruvian,0,0,0,Not Represented
+pizza,76,0,8,Represented
+portuguese,1,0,0,Represented
+pub food,0,0,0,Not Represented
+rajasthani,4,0,0,Represented
+ramen,0,0,0,Not Represented
+raw meats,23,0,0,Represented
+restaurant cafe,1,0,1,Represented
+salad,19,0,0,Represented
+sandwich,11,0,3,Represented
+scottish,1,0,0,Represented
+seafood,35,5,28,Represented
+singaporean,1,0,0,Represented
+soul food,0,0,0,Not Represented
+south african,1,0,0,Represented
+south american,0,0,0,Not Represented
+south indian,127,0,4,Represented
+southern,5,0,0,Represented
+southwestern,1,0,0,Represented
+spanish,3,0,0,Represented
+sri lankan,1,0,0,Represented
+steak,12,1,11,Represented
+street food,112,2,80,Represented
+sunda,1,0,0,Represented
+sushi,15,1,9,Represented
+taiwanese,0,0,0,Not Represented
+tapas,4,0,0,Represented
+tea,10,0,0,Represented
+teriyaki,0,0,0,Not Represented
+tex-mex,4,0,0,Represented
+thai,47,0,5,Represented
+tibetan,9,0,0,Represented
+turkish,3,0,0,Represented
+turkish pizza,2,0,0,Represented
+vegetarian,5,0,0,Represented
+vietnamese,4,0,0,Represented
+western,2,0,4,Represented
+world cuisine,1,0,0,Represented

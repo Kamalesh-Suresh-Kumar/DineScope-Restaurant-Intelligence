@@ -1,0 +1,28 @@
+Column,Missing_Values,Data_Type,Unique_Values
+Source Row Index,0,int64,9551
+Restaurant ID,0,int64,9551
+Restaurant Name,0,string,7446
+Country Code,0,int64,15
+City,0,string,141
+Address,0,string,8918
+Locality,0,string,1208
+Locality Verbose,0,string,1265
+Longitude,0,float64,8120
+Latitude,0,float64,8677
+Cuisines,0,string,1826
+Average Cost for two,0,int64,140
+Currency,0,string,12
+Has Table booking,0,str,2
+Has Online delivery,0,str,2
+Is delivering now,0,str,2
+Switch to order menu,0,str,1
+Price range,0,int64,4
+Aggregate rating,2148,float64,32
+Rating color,0,str,6
+Rating text,0,str,6
+Votes,0,int64,1012
+Coordinate Valid,0,bool,1
+Duplicate Coordinate,0,bool,2
+Cuisine List,0,list<item: string>[pyarrow],1826
+Location Key,0,string,1265
+City Key,0,string,141

@@ -1,0 +1,12 @@
+Validation,Status
+Original restaurant count preserved,PASS
+City features generated,PASS
+Locality features generated,PASS
+City cuisine features generated,PASS
+Locality cuisine features generated,PASS
+Currency-aware cost features generated,PASS
+City restaurant counts reconcile,PASS
+Locality restaurant counts reconcile,PASS
+Restaurant IDs remain unique,PASS
+Rating values remain within valid range,PASS
+Coordinate values remain valid,PASS

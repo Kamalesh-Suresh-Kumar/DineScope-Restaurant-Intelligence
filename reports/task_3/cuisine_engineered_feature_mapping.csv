@@ -1,0 +1,171 @@
+Feature Index,Engineered Feature
+0,numerical__Longitude
+1,numerical__Latitude
+2,numerical__Average Cost for two
+3,numerical__Price range
+4,numerical__Aggregate rating
+5,numerical__Votes
+6,categorical__Country Code_1
+7,categorical__Country Code_14
+8,categorical__Country Code_148
+9,categorical__Country Code_162
+10,categorical__Country Code_166
+11,categorical__Country Code_184
+12,categorical__Country Code_189
+13,categorical__Country Code_191
+14,categorical__Country Code_208
+15,categorical__Country Code_214
+16,categorical__Country Code_215
+17,categorical__Country Code_216
+18,categorical__Country Code_30
+19,categorical__Country Code_37
+20,categorical__Country Code_94
+21,categorical__City_Abu Dhabi
+22,categorical__City_Agra
+23,categorical__City_Ahmedabad
+24,categorical__City_Albany
+25,categorical__City_Allahabad
+26,categorical__City_Amritsar
+27,categorical__City_Ankara
+28,categorical__City_Armidale
+29,categorical__City_Athens
+30,categorical__City_Auckland
+31,categorical__City_Augusta
+32,categorical__City_Aurangabad
+33,categorical__City_Bandung
+34,categorical__City_Bangalore
+35,categorical__City_Beechworth
+36,categorical__City_Bhopal
+37,categorical__City_Bhubaneshwar
+38,categorical__City_Birmingham
+39,categorical__City_Bogor
+40,categorical__City_Boise
+41,categorical__City_Brasília
+42,categorical__City_Cape Town
+43,categorical__City_Cedar Rapids/Iowa City
+44,categorical__City_Chandigarh
+45,categorical__City_Chatham-Kent
+46,categorical__City_Chennai
+47,categorical__City_Clatskanie
+48,categorical__City_Cochrane
+49,categorical__City_Coimbatore
+50,categorical__City_Colombo
+51,categorical__City_Columbus
+52,categorical__City_Consort
+53,categorical__City_Dalton
+54,categorical__City_Davenport
+55,categorical__City_Dehradun
+56,categorical__City_Des Moines
+57,categorical__City_Dicky Beach
+58,categorical__City_Doha
+59,categorical__City_Dubai
+60,categorical__City_Dubuque
+61,categorical__City_East Ballina
+62,categorical__City_Edinburgh
+63,categorical__City_Faridabad
+64,categorical__City_Fernley
+65,categorical__City_Flaxton
+66,categorical__City_Forrest
+67,categorical__City_Gainesville
+68,categorical__City_Ghaziabad
+69,categorical__City_Goa
+70,categorical__City_Gurgaon
+71,categorical__City_Guwahati
+72,categorical__City_Hepburn Springs
+73,categorical__City_Huskisson
+74,categorical__City_Hyderabad
+75,categorical__City_Indore
+76,categorical__City_Inner City
+77,categorical__City_Inverloch
+78,categorical__City_Jaipur
+79,categorical__City_Jakarta
+80,categorical__City_Johannesburg
+81,categorical__City_Kanpur
+82,categorical__City_Kochi
+83,categorical__City_Kolkata
+84,categorical__City_Lakes Entrance
+85,categorical__City_Lakeview
+86,categorical__City_London
+87,categorical__City_Lucknow
+88,categorical__City_Ludhiana
+89,categorical__City_Macedon
+90,categorical__City_Macon
+91,categorical__City_Makati City
+92,categorical__City_Manchester
+93,categorical__City_Mandaluyong City
+94,categorical__City_Mangalore
+95,categorical__City_Mc Millan
+96,categorical__City_Middleton Beach
+97,categorical__City_Mohali
+98,categorical__City_Montville
+99,categorical__City_Mumbai
+100,categorical__City_Mysore
+101,categorical__City_Nagpur
+102,categorical__City_Nashik
+103,categorical__City_New Delhi
+104,categorical__City_Noida
+105,categorical__City_Ojo Caliente
+106,categorical__City_Orlando
+107,categorical__City_Panchkula
+108,categorical__City_Pasay City
+109,categorical__City_Pasig City
+110,categorical__City_Patna
+111,categorical__City_Paynesville
+112,categorical__City_Penola
+113,categorical__City_Pensacola
+114,categorical__City_Phillip Island
+115,categorical__City_Pocatello
+116,categorical__City_Pretoria
+117,categorical__City_Princeton
+118,categorical__City_Puducherry
+119,categorical__City_Pune
+120,categorical__City_Quezon City
+121,categorical__City_Ranchi
+122,categorical__City_Rest of Hawaii
+123,categorical__City_Rio de Janeiro
+124,categorical__City_San Juan City
+125,categorical__City_Sandton
+126,categorical__City_Santa Rosa
+127,categorical__City_Savannah
+128,categorical__City_Secunderabad
+129,categorical__City_Sharjah
+130,categorical__City_Singapore
+131,categorical__City_Sioux City
+132,categorical__City_Surat
+133,categorical__City_São Paulo
+134,categorical__City_Tagaytay City
+135,categorical__City_Taguig City
+136,categorical__City_Tampa Bay
+137,categorical__City_Tangerang
+138,categorical__City_Trentham East
+139,categorical__City_Vadodara
+140,categorical__City_Valdosta
+141,categorical__City_Varanasi
+142,categorical__City_Victor Harbor
+143,categorical__City_Vineland Station
+144,categorical__City_Vizag
+145,categorical__City_Waterloo
+146,categorical__City_Weirton
+147,categorical__City_Wellington City
+148,categorical__City_Winchester Bay
+149,categorical__City_Yorkton
+150,categorical__City_İstanbul
+151,categorical__Currency_Botswana Pula(P)
+152,categorical__Currency_Brazilian Real(R$)
+153,categorical__Currency_Dollar($)
+154,categorical__Currency_Emirati Diram(AED)
+155,categorical__Currency_Indian Rupees(Rs.)
+156,categorical__Currency_Indonesian Rupiah(IDR)
+157,categorical__Currency_NewZealand($)
+158,categorical__Currency_Pounds(��)
+159,categorical__Currency_Qatari Rial(QR)
+160,categorical__Currency_Rand(R)
+161,categorical__Currency_Sri Lankan Rupee(LKR)
+162,categorical__Currency_Turkish Lira(TL)
+163,categorical__Has Table booking_No
+164,categorical__Has Table booking_Yes
+165,categorical__Has Online delivery_No
+166,categorical__Has Online delivery_Yes
+167,categorical__Is delivering now_No
+168,categorical__Is delivering now_Yes
+169,categorical__Switch to order menu_No

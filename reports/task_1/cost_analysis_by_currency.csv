@@ -1,0 +1,13 @@
+Currency,restaurant_count,mean_cost,median_cost,minimum_cost,maximum_cost,zero_cost_count
+Indian Rupees(Rs.),8652,623.370319001387,450.0,0,8000,9
+Dollar($),482,31.510373443983404,25.0,0,500,9
+Pounds Sterling,80,47.8125,40.0,10,230,0
+Brazilian Real(R$),60,134.66666666666666,100.0,30,400,0
+Rand(R),60,419.73333333333335,340.0,110,3210,0
+Emirati Diram(AED),60,166.41666666666666,145.0,40,500,0
+NewZealand($),40,69.75,60.0,20,200,0
+Turkish Lira(TL),34,84.8529411764706,70.0,30,400,0
+Botswana Pula(P),22,1606.8181818181818,1150.0,600,6000,0
+Indonesian Rupiah(IDR),21,281190.4761904762,200000.0,70000,800000,0
+Qatari Rial(QR),20,223.75,185.0,50,550,0
+Sri Lankan Rupee(LKR),20,2375.0,2200.0,1000,4500,0

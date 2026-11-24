@@ -1,0 +1,557 @@
+Country Code,City,Cuisine,Restaurant_Count
+214,Abu Dhabi,indian,7
+214,Abu Dhabi,american,4
+214,Abu Dhabi,chinese,3
+214,Abu Dhabi,north indian,3
+214,Abu Dhabi,arabian,2
+1,Agra,north indian,15
+1,Agra,mughlai,9
+1,Agra,chinese,6
+1,Agra,continental,5
+1,Agra,italian,3
+1,Ahmedabad,continental,12
+1,Ahmedabad,italian,10
+1,Ahmedabad,north indian,9
+1,Ahmedabad,desserts,6
+1,Ahmedabad,cafe,5
+216,Albany,american,4
+216,Albany,steak,4
+216,Albany,bar food,3
+216,Albany,chinese,3
+216,Albany,sandwich,3
+1,Allahabad,north indian,12
+1,Allahabad,chinese,8
+1,Allahabad,fast food,8
+1,Allahabad,south indian,4
+1,Allahabad,italian,3
+1,Amritsar,north indian,15
+1,Amritsar,fast food,6
+1,Amritsar,chinese,4
+1,Amritsar,mughlai,2
+1,Amritsar,street food,2
+208,Ankara,kebab,10
+208,Ankara,turkish pizza,8
+208,Ankara,cafe,4
+208,Ankara,desserts,3
+208,Ankara,world cuisine,2
+14,Armidale,bar food,1
+14,Armidale,steak,1
+216,Athens,american,5
+216,Athens,sandwich,5
+216,Athens,italian,4
+216,Athens,southern,4
+216,Athens,burger,3
+148,Auckland,cafe,5
+148,Auckland,european,4
+148,Auckland,desserts,3
+148,Auckland,american,2
+148,Auckland,asian,2
+216,Augusta,american,3
+216,Augusta,mexican,3
+216,Augusta,sandwich,3
+216,Augusta,seafood,3
+216,Augusta,burger,2
+1,Aurangabad,north indian,15
+1,Aurangabad,chinese,9
+1,Aurangabad,continental,4
+1,Aurangabad,italian,4
+1,Aurangabad,mughlai,4
+14,Balingup,modern australian,1
+94,Bandung,cafe,1
+94,Bandung,coffee and tea,1
+94,Bandung,western,1
+1,Bangalore,italian,8
+1,Bangalore,north indian,8
+1,Bangalore,cafe,6
+1,Bangalore,continental,6
+1,Bangalore,american,4
+14,Beechworth,bar food,1
+14,Beechworth,pizza,1
+1,Bhopal,fast food,8
+1,Bhopal,north indian,7
+1,Bhopal,chinese,6
+1,Bhopal,south indian,4
+1,Bhopal,bakery,3
+1,Bhubaneshwar,chinese,12
+1,Bhubaneshwar,north indian,10
+1,Bhubaneshwar,cafe,8
+1,Bhubaneshwar,continental,4
+1,Bhubaneshwar,asian,3
+215,Birmingham,british,4
+215,Birmingham,indian,4
+215,Birmingham,cafe,3
+215,Birmingham,italian,3
+215,Birmingham,latin american,2
+94,Bogor,beverages,1
+94,Bogor,cafe,1
+94,Bogor,desserts,1
+94,Bogor,indonesian,1
+94,Bogor,peranakan,1
+216,Boise,american,8
+216,Boise,burger,3
+216,Boise,pizza,3
+216,Boise,steak,3
+216,Boise,bar food,2
+30,Brasília,brazilian,3
+30,Brasília,american,2
+30,Brasília,cafe,2
+30,Brasília,grill,2
+30,Brasília,international,2
+189,Cape Town,cafe,7
+189,Cape Town,sushi,6
+189,Cape Town,burger,4
+189,Cape Town,grill,4
+189,Cape Town,seafood,4
+216,Cedar Rapids/Iowa City,american,7
+216,Cedar Rapids/Iowa City,breakfast,4
+216,Cedar Rapids/Iowa City,burger,4
+216,Cedar Rapids/Iowa City,pizza,4
+216,Cedar Rapids/Iowa City,bbq,2
+1,Chandigarh,north indian,6
+1,Chandigarh,american,4
+1,Chandigarh,chinese,4
+1,Chandigarh,continental,4
+1,Chandigarh,italian,4
+37,Chatham-Kent,japanese,1
+37,Chatham-Kent,sushi,1
+1,Chennai,north indian,11
+1,Chennai,chinese,6
+1,Chennai,italian,6
+1,Chennai,cafe,5
+1,Chennai,european,5
+216,Clatskanie,american,1
+216,Clatskanie,breakfast,1
+216,Clatskanie,desserts,1
+216,Cochrane,asian,1
+216,Cochrane,japanese,1
+1,Coimbatore,north indian,10
+1,Coimbatore,chinese,5
+1,Coimbatore,continental,4
+1,Coimbatore,desserts,4
+1,Coimbatore,fast food,4
+191,Colombo,american,6
+191,Colombo,cafe,4
+191,Colombo,desserts,4
+191,Colombo,sri lankan,4
+191,Colombo,chinese,3
+216,Columbus,american,5
+216,Columbus,steak,5
+216,Columbus,pizza,4
+216,Columbus,japanese,3
+216,Columbus,seafood,3
+37,Consort,canadian,1
+37,Consort,chinese,1
+216,Dalton,american,6
+216,Dalton,bbq,5
+216,Dalton,southern,4
+216,Dalton,japanese,3
+216,Dalton,mexican,3
+216,Davenport,american,8
+216,Davenport,mexican,3
+216,Davenport,bbq,2
+216,Davenport,breakfast,2
+216,Davenport,sushi,2
+1,Dehradun,chinese,11
+1,Dehradun,north indian,11
+1,Dehradun,cafe,6
+1,Dehradun,fast food,3
+1,Dehradun,desserts,2
+216,Des Moines,american,5
+216,Des Moines,asian,3
+216,Des Moines,bbq,3
+216,Des Moines,chinese,3
+216,Des Moines,pizza,3
+14,Dicky Beach,coffee and tea,1
+14,Dicky Beach,modern australian,1
+14,Dicky Beach,tea,1
+166,Doha,indian,7
+166,Doha,american,3
+166,Doha,chinese,3
+166,Doha,bakery,2
+166,Doha,international,2
+214,Dubai,indian,11
+214,Dubai,american,4
+214,Dubai,burger,4
+214,Dubai,north indian,3
+214,Dubai,asian,2
+216,Dubuque,american,9
+216,Dubuque,burger,5
+216,Dubuque,pizza,5
+216,Dubuque,breakfast,3
+216,Dubuque,italian,3
+14,East Ballina,cafe,1
+215,Edinburgh,cafe,6
+215,Edinburgh,bakery,3
+215,Edinburgh,british,3
+215,Edinburgh,indian,3
+215,Edinburgh,scottish,3
+1,Faridabad,north indian,122
+1,Faridabad,chinese,96
+1,Faridabad,fast food,69
+1,Faridabad,mughlai,30
+1,Faridabad,bakery,27
+216,Fernley,mexican,1
+14,Flaxton,modern australian,1
+14,Flaxton,tea,1
+14,Forrest,australian,1
+14,Forrest,cafe,1
+216,Gainesville,sandwich,6
+216,Gainesville,american,5
+216,Gainesville,seafood,5
+216,Gainesville,bbq,4
+216,Gainesville,burger,3
+1,Ghaziabad,north indian,10
+1,Ghaziabad,fast food,8
+1,Ghaziabad,chinese,6
+1,Ghaziabad,cafe,4
+1,Ghaziabad,burger,3
+1,Goa,goan,11
+1,Goa,seafood,11
+1,Goa,north indian,10
+1,Goa,continental,9
+1,Goa,chinese,5
+1,Gurgaon,north indian,508
+1,Gurgaon,chinese,324
+1,Gurgaon,fast food,220
+1,Gurgaon,mughlai,117
+1,Gurgaon,bakery,109
+1,Guwahati,chinese,11
+1,Guwahati,continental,10
+1,Guwahati,cafe,8
+1,Guwahati,north indian,6
+1,Guwahati,italian,5
+14,Hepburn Springs,cafe,2
+14,Hepburn Springs,coffee and tea,1
+14,Hepburn Springs,fusion,1
+14,Hepburn Springs,italian,1
+14,Hepburn Springs,modern australian,1
+14,Huskisson,breakfast,1
+14,Huskisson,modern australian,1
+1,Hyderabad,north indian,9
+1,Hyderabad,chinese,6
+1,Hyderabad,continental,5
+1,Hyderabad,italian,4
+1,Hyderabad,european,3
+1,Indore,north indian,9
+1,Indore,cafe,8
+1,Indore,italian,8
+1,Indore,chinese,7
+1,Indore,continental,4
+189,Inner City,contemporary,1
+189,Inner City,european,1
+189,Inner City,tapas,1
+14,Inverloch,burger,1
+14,Inverloch,coffee and tea,1
+14,Inverloch,modern australian,1
+1,Jaipur,continental,13
+1,Jaipur,italian,10
+1,Jaipur,north indian,10
+1,Jaipur,mexican,8
+1,Jaipur,cafe,7
+94,Jakarta,western,8
+94,Jakarta,indonesian,4
+94,Jakarta,cafe,3
+94,Jakarta,japanese,3
+94,Jakarta,asian,2
+189,Johannesburg,american,2
+189,Johannesburg,burger,2
+189,Johannesburg,pizza,2
+189,Johannesburg,asian,1
+189,Johannesburg,beverages,1
+1,Kanpur,north indian,10
+1,Kanpur,chinese,7
+1,Kanpur,fast food,7
+1,Kanpur,continental,5
+1,Kanpur,italian,5
+1,Kochi,cafe,7
+1,Kochi,kerala,7
+1,Kochi,chinese,6
+1,Kochi,continental,6
+1,Kochi,north indian,5
+1,Kolkata,north indian,12
+1,Kolkata,chinese,10
+1,Kolkata,continental,6
+1,Kolkata,american,3
+1,Kolkata,asian,3
+14,Lakes Entrance,breakfast,1
+14,Lakes Entrance,coffee and tea,1
+216,Lakeview,burger,1
+216,Lakeview,desserts,1
+216,Lakeview,sandwich,1
+216,Lincoln,thai,1
+215,London,indian,5
+215,London,curry,4
+215,London,american,3
+215,London,burger,3
+215,London,japanese,3
+14,Lorn,breakfast,1
+14,Lorn,coffee and tea,1
+1,Lucknow,cafe,8
+1,Lucknow,north indian,8
+1,Lucknow,continental,7
+1,Lucknow,chinese,6
+1,Lucknow,italian,5
+1,Ludhiana,north indian,11
+1,Ludhiana,chinese,10
+1,Ludhiana,continental,9
+1,Ludhiana,cafe,4
+1,Ludhiana,italian,4
+14,Macedon,cafe,1
+216,Macon,sushi,4
+216,Macon,american,3
+216,Macon,greek,3
+216,Macon,japanese,3
+216,Macon,sandwich,3
+162,Makati City,japanese,2
+162,Makati City,desserts,1
+162,Makati City,french,1
+215,Manchester,american,5
+215,Manchester,indian,5
+215,Manchester,british,3
+215,Manchester,burger,3
+215,Manchester,fast food,3
+162,Mandaluyong City,japanese,2
+162,Mandaluyong City,asian,1
+162,Mandaluyong City,chinese,1
+162,Mandaluyong City,filipino,1
+162,Mandaluyong City,indian,1
+1,Mangalore,north indian,9
+1,Mangalore,chinese,6
+1,Mangalore,continental,5
+1,Mangalore,italian,3
+1,Mangalore,mughlai,3
+14,Mayfield,asian,1
+216,Mc Millan,breakfast,1
+216,Mc Millan,burger,1
+14,Middleton Beach,bar food,1
+14,Middleton Beach,modern australian,1
+1,Mohali,continental,1
+1,Mohali,north indian,1
+216,Monroe,italian,1
+216,Monroe,pizza,1
+14,Montville,coffee and tea,1
+14,Montville,modern australian,1
+1,Mumbai,italian,9
+1,Mumbai,desserts,8
+1,Mumbai,chinese,7
+1,Mumbai,cafe,6
+1,Mumbai,fast food,6
+1,Mysore,north indian,12
+1,Mysore,chinese,7
+1,Mysore,continental,6
+1,Mysore,south indian,6
+1,Mysore,italian,4
+1,Nagpur,chinese,8
+1,Nagpur,cafe,7
+1,Nagpur,north indian,7
+1,Nagpur,continental,6
+1,Nagpur,fast food,6
+1,Nashik,north indian,11
+1,Nashik,chinese,5
+1,Nashik,cafe,3
+1,Nashik,maharashtrian,3
+1,Nashik,fast food,2
+1,New Delhi,north indian,2425
+1,New Delhi,chinese,1638
+1,New Delhi,fast food,1304
+1,New Delhi,mughlai,628
+1,New Delhi,bakery,465
+1,Noida,north indian,532
+1,Noida,chinese,384
+1,Noida,fast food,265
+1,Noida,mughlai,155
+1,Noida,bakery,93
+216,Ojo Caliente,american,1
+216,Ojo Caliente,international,1
+216,Ojo Caliente,southwestern,1
+216,Orlando,american,5
+216,Orlando,sandwich,3
+216,Orlando,asian,2
+216,Orlando,cajun,2
+216,Orlando,tapas,2
+14,Palm Cove,mediterranean,1
+14,Palm Cove,seafood,1
+1,Panchkula,middle eastern,1
+1,Panchkula,north indian,1
+1,Panchkula,pizza,1
+162,Pasay City,asian,3
+162,Pasay City,european,3
+162,Pasay City,filipino,1
+162,Pasay City,indian,1
+162,Pasay City,seafood,1
+162,Pasig City,filipino,2
+162,Pasig City,american,1
+162,Pasig City,desserts,1
+162,Pasig City,ice cream,1
+162,Pasig City,mexican,1
+1,Patna,north indian,15
+1,Patna,chinese,14
+1,Patna,fast food,5
+1,Patna,continental,4
+1,Patna,mughlai,4
+14,Paynesville,modern australian,1
+14,Penola,cafe,1
+14,Penola,coffee and tea,1
+14,Penola,sandwich,1
+216,Pensacola,seafood,8
+216,Pensacola,burger,4
+216,Pensacola,italian,3
+216,Pensacola,pizza,3
+216,Pensacola,sandwich,3
+14,Phillip Island,breakfast,1
+14,Phillip Island,coffee and tea,1
+14,Phillip Island,modern australian,1
+216,Pocatello,american,5
+216,Pocatello,pizza,5
+216,Pocatello,sandwich,4
+216,Pocatello,asian,2
+216,Pocatello,burger,2
+216,Potrero,american,1
+216,Potrero,bbq,1
+216,Potrero,burger,1
+189,Pretoria,burger,7
+189,Pretoria,grill,6
+189,Pretoria,cafe,4
+189,Pretoria,desserts,4
+189,Pretoria,south african,4
+216,Princeton,seafood,1
+1,Puducherry,continental,6
+1,Puducherry,north indian,5
+1,Puducherry,cafe,4
+1,Puducherry,french,4
+1,Puducherry,italian,4
+1,Pune,north indian,11
+1,Pune,continental,9
+1,Pune,italian,6
+1,Pune,finger food,4
+1,Pune,european,3
+162,Quezon City,filipino,1
+162,Quezon City,mexican,1
+1,Ranchi,north indian,16
+1,Ranchi,chinese,12
+1,Ranchi,south indian,6
+1,Ranchi,continental,4
+1,Ranchi,fast food,3
+189,Randburg,cafe,1
+216,Rest of Hawaii,seafood,8
+216,Rest of Hawaii,hawaiian,7
+216,Rest of Hawaii,american,5
+216,Rest of Hawaii,asian,4
+216,Rest of Hawaii,breakfast,4
+30,Rio de Janeiro,brazilian,13
+30,Rio de Janeiro,bar food,7
+30,Rio de Janeiro,healthy food,2
+30,Rio de Janeiro,juices,2
+30,Rio de Janeiro,seafood,2
+162,San Juan City,filipino,1
+162,San Juan City,korean,1
+189,Sandton,italian,4
+189,Sandton,burger,2
+189,Sandton,contemporary,2
+189,Sandton,european,2
+189,Sandton,grill,2
+162,Santa Rosa,italian,2
+162,Santa Rosa,american,1
+162,Santa Rosa,cafe,1
+162,Santa Rosa,filipino,1
+162,Santa Rosa,pizza,1
+216,Savannah,american,8
+216,Savannah,breakfast,5
+216,Savannah,sandwich,5
+216,Savannah,seafood,4
+216,Savannah,southern,4
+1,Secunderabad,cafe,1
+1,Secunderabad,chinese,1
+1,Secunderabad,continental,1
+1,Secunderabad,north indian,1
+214,Sharjah,indian,7
+214,Sharjah,chinese,4
+214,Sharjah,american,3
+214,Sharjah,fast food,3
+214,Sharjah,north indian,3
+184,Singapore,american,5
+184,Singapore,french,4
+184,Singapore,singaporean,4
+184,Singapore,bakery,3
+184,Singapore,cafe,3
+216,Sioux City,american,6
+216,Sioux City,steak,4
+216,Sioux City,asian,3
+216,Sioux City,pizza,3
+216,Sioux City,seafood,3
+1,Surat,italian,9
+1,Surat,chinese,6
+1,Surat,mexican,6
+1,Surat,north indian,5
+1,Surat,asian,3
+30,São Paulo,brazilian,10
+30,São Paulo,beverages,3
+30,São Paulo,italian,3
+30,São Paulo,bbq,2
+30,São Paulo,french,2
+162,Tagaytay City,filipino,1
+162,Taguig City,american,3
+162,Taguig City,cafe,2
+162,Taguig City,italian,2
+162,Taguig City,seafood,2
+162,Taguig City,asian,1
+216,Tampa Bay,seafood,5
+216,Tampa Bay,american,4
+216,Tampa Bay,steak,4
+216,Tampa Bay,breakfast,3
+216,Tampa Bay,italian,3
+94,Tangerang,indonesian,2
+94,Tangerang,sunda,1
+14,Tanunda,australian,1
+14,Tanunda,modern australian,1
+14,Trentham East,australian,1
+1,Vadodara,north indian,8
+1,Vadodara,italian,7
+1,Vadodara,mexican,5
+1,Vadodara,cafe,4
+1,Vadodara,chinese,4
+216,Valdosta,mexican,4
+216,Valdosta,seafood,3
+216,Valdosta,southern,3
+216,Valdosta,american,2
+216,Valdosta,bar food,2
+1,Varanasi,north indian,12
+1,Varanasi,chinese,6
+1,Varanasi,cafe,4
+1,Varanasi,fast food,2
+1,Varanasi,mughlai,2
+216,Vernonia,coffee and tea,1
+216,Vernonia,mediterranean,1
+14,Victor Harbor,australian,1
+14,Victor Harbor,coffee and tea,1
+14,Victor Harbor,tapas,1
+37,Vineland Station,italian,1
+37,Vineland Station,mediterranean,1
+37,Vineland Station,pizza,1
+1,Vizag,north indian,10
+1,Vizag,chinese,8
+1,Vizag,biryani,5
+1,Vizag,fast food,5
+1,Vizag,continental,4
+216,Waterloo,american,5
+216,Waterloo,chinese,3
+216,Waterloo,pizza,3
+216,Waterloo,sandwich,3
+216,Waterloo,sushi,3
+216,Weirton,burger,1
+216,Weirton,greek,1
+216,Weirton,sandwich,1
+148,Wellington City,cafe,9
+148,Wellington City,european,4
+148,Wellington City,kiwi,4
+148,Wellington City,american,2
+148,Wellington City,asian,2
+216,Winchester Bay,burger,1
+216,Winchester Bay,seafood,1
+216,Winchester Bay,steak,1
+37,Yorkton,asian,1
+208,İstanbul,cafe,4
+208,İstanbul,desserts,4
+208,İstanbul,restaurant cafe,4
+208,İstanbul,turkish,2
+208,İstanbul,world cuisine,2

@@ -1,0 +1,142 @@
+Country Code,City,Restaurant_Count,Rated_Restaurant_Count,Rating_Coverage_Percentage
+1,New Delhi,5473,4048,73.9630915402887
+1,Gurgaon,1118,890,79.60644007155635
+1,Noida,1080,696,64.44444444444444
+1,Faridabad,251,151,60.1593625498008
+1,Ghaziabad,25,23,92.0
+1,Amritsar,21,21,100.0
+1,Ahmedabad,21,21,100.0
+1,Lucknow,21,21,100.0
+1,Guwahati,21,21,100.0
+1,Bhubaneshwar,21,21,100.0
+1,Allahabad,20,20,100.0
+1,Aurangabad,20,20,100.0
+1,Agra,20,20,100.0
+216,Pensacola,20,20,100.0
+1,Dehradun,20,20,100.0
+1,Chennai,20,20,100.0
+1,Coimbatore,20,20,100.0
+1,Bangalore,20,20,100.0
+1,Bhopal,20,20,100.0
+1,Indore,20,20,100.0
+1,Jaipur,20,20,100.0
+1,Mangalore,20,20,100.0
+1,Kochi,20,20,100.0
+1,Kolkata,20,20,100.0
+1,Ludhiana,20,20,100.0
+1,Mysore,20,20,100.0
+1,Mumbai,20,20,100.0
+1,Kanpur,20,20,100.0
+1,Goa,20,20,100.0
+1,Vizag,20,20,100.0
+1,Surat,20,20,100.0
+1,Nashik,20,20,100.0
+1,Nagpur,20,20,100.0
+1,Patna,20,20,100.0
+1,Puducherry,20,20,100.0
+1,Pune,20,20,100.0
+1,Ranchi,20,20,100.0
+1,Vadodara,20,20,100.0
+1,Varanasi,20,20,100.0
+30,Brasília,20,19,95.0
+30,São Paulo,20,17,85.0
+30,Rio de Janeiro,20,19,95.0
+216,Orlando,20,20,100.0
+216,Savannah,20,20,100.0
+216,Waterloo,20,20,100.0
+216,Boise,20,20,100.0
+216,Cedar Rapids/Iowa City,20,20,100.0
+216,Dalton,20,20,100.0
+216,Columbus,20,20,100.0
+216,Davenport,20,18,90.0
+216,Des Moines,20,20,100.0
+216,Gainesville,20,20,100.0
+216,Dubuque,20,20,100.0
+216,Macon,20,20,100.0
+216,Sioux City,20,20,100.0
+216,Tampa Bay,20,20,100.0
+216,Valdosta,20,20,100.0
+216,Pocatello,20,19,95.0
+216,Rest of Hawaii,20,20,100.0
+215,London,20,20,100.0
+216,Augusta,20,20,100.0
+189,Pretoria,20,20,100.0
+191,Colombo,20,20,100.0
+214,Abu Dhabi,20,20,100.0
+208,Ankara,20,20,100.0
+214,Dubai,20,20,100.0
+215,Edinburgh,20,20,100.0
+215,Birmingham,20,19,95.0
+214,Sharjah,20,20,100.0
+215,Manchester,20,20,100.0
+216,Albany,20,20,100.0
+216,Athens,20,20,100.0
+189,Cape Town,20,20,100.0
+166,Doha,20,20,100.0
+184,Singapore,20,20,100.0
+148,Wellington City,20,20,100.0
+148,Auckland,20,20,100.0
+1,Chandigarh,18,18,100.0
+1,Hyderabad,18,18,100.0
+94,Jakarta,16,16,100.0
+208,İstanbul,14,14,100.0
+189,Sandton,11,11,100.0
+189,Johannesburg,6,6,100.0
+162,Taguig City,4,4,100.0
+162,Mandaluyong City,4,4,100.0
+162,Pasig City,3,3,100.0
+162,Pasay City,3,3,100.0
+1,Secunderabad,2,2,100.0
+162,Makati City,2,2,100.0
+189,Inner City,2,2,100.0
+162,San Juan City,2,2,100.0
+162,Santa Rosa,2,2,100.0
+14,Hepburn Springs,2,2,100.0
+94,Bogor,2,2,100.0
+94,Tangerang,2,2,100.0
+14,Inverloch,1,1,100.0
+14,Flaxton,1,1,100.0
+14,Dicky Beach,1,1,100.0
+14,Huskisson,1,1,100.0
+14,Forrest,1,1,100.0
+14,Lakes Entrance,1,1,100.0
+14,Beechworth,1,1,100.0
+1,Panchkula,1,1,100.0
+14,Armidale,1,1,100.0
+14,Balingup,1,1,100.0
+1,Mohali,1,1,100.0
+14,East Ballina,1,1,100.0
+14,Lorn,1,1,100.0
+14,Paynesville,1,1,100.0
+94,Bandung,1,1,100.0
+37,Consort,1,1,100.0
+37,Vineland Station,1,1,100.0
+37,Yorkton,1,1,100.0
+37,Chatham-Kent,1,1,100.0
+14,Tanunda,1,1,100.0
+14,Phillip Island,1,1,100.0
+14,Victor Harbor,1,1,100.0
+14,Penola,1,1,100.0
+14,Trentham East,1,1,100.0
+14,Macedon,1,1,100.0
+14,Mayfield,1,1,100.0
+14,Middleton Beach,1,1,100.0
+14,Montville,1,1,100.0
+14,Palm Cove,1,1,100.0
+162,Quezon City,1,1,100.0
+189,Randburg,1,1,100.0
+162,Tagaytay City,1,1,100.0
+216,Lincoln,1,1,100.0
+216,Mc Millan,1,1,100.0
+216,Fernley,1,1,100.0
+216,Clatskanie,1,1,100.0
+216,Cochrane,1,1,100.0
+216,Lakeview,1,1,100.0
+216,Miller,1,1,100.0
+216,Potrero,1,1,100.0
+216,Ojo Caliente,1,1,100.0
+216,Monroe,1,1,100.0
+216,Princeton,1,1,100.0
+216,Vernonia,1,1,100.0
+216,Weirton,1,1,100.0
+216,Winchester Bay,1,1,100.0

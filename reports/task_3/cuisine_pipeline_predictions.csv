@@ -1,0 +1,1922 @@
+Source Row Index,Predicted Cuisine Count,Predicted Cuisines,Prediction Threshold
+1,2,"[""filipino"", ""japanese""]",0.225
+2,5,"[""european"", ""filipino"", ""japanese"", ""seafood"", ""sushi""]",0.225
+4,4,"[""european"", ""filipino"", ""japanese"", ""sushi""]",0.225
+5,1,"[""filipino""]",0.225
+6,4,"[""asian"", ""european"", ""filipino"", ""seafood""]",0.225
+11,1,"[""filipino""]",0.225
+13,1,"[""filipino""]",0.225
+16,3,"[""american"", ""cafe"", ""filipino""]",0.225
+18,2,"[""bakery"", ""cafe""]",0.225
+21,7,"[""american"", ""european"", ""filipino"", ""italian"", ""japanese"", ""mediterranean"", ""seafood""]",0.225
+22,1,"[""brazilian""]",0.225
+24,0,[],0.225
+27,1,"[""brazilian""]",0.225
+38,0,[],0.225
+42,2,"[""bar food"", ""brazilian""]",0.225
+49,2,"[""bar food"", ""brazilian""]",0.225
+52,2,"[""bar food"", ""brazilian""]",0.225
+55,2,"[""bar food"", ""brazilian""]",0.225
+59,2,"[""bar food"", ""brazilian""]",0.225
+66,2,"[""brazilian"", ""italian""]",0.225
+67,1,"[""brazilian""]",0.225
+88,0,[],0.225
+91,5,"[""american"", ""japanese"", ""seafood"", ""steak"", ""sushi""]",0.225
+100,1,"[""sandwich""]",0.225
+108,1,"[""sandwich""]",0.225
+125,1,"[""american""]",0.225
+126,0,[],0.225
+128,2,"[""american"", ""seafood""]",0.225
+129,1,"[""american""]",0.225
+131,1,"[""american""]",0.225
+132,1,"[""american""]",0.225
+136,2,"[""american"", ""seafood""]",0.225
+139,0,[],0.225
+140,1,"[""american""]",0.225
+141,2,"[""american"", ""seafood""]",0.225
+143,2,"[""coffee and tea"", ""modern australian""]",0.225
+148,7,"[""american"", ""italian"", ""japanese"", ""pizza"", ""seafood"", ""steak"", ""sushi""]",0.225
+150,7,"[""american"", ""italian"", ""japanese"", ""pizza"", ""seafood"", ""steak"", ""sushi""]",0.225
+176,1,"[""breakfast""]",0.225
+189,0,[],0.225
+192,0,[],0.225
+197,3,"[""american"", ""pizza"", ""steak""]",0.225
+204,0,[],0.225
+205,0,[],0.225
+209,0,[],0.225
+210,0,[],0.225
+216,0,[],0.225
+227,0,[],0.225
+228,0,[],0.225
+229,1,"[""american""]",0.225
+235,1,"[""american""]",0.225
+239,1,"[""american""]",0.225
+240,2,"[""american"", ""breakfast""]",0.225
+247,1,"[""american""]",0.225
+253,0,[],0.225
+258,2,"[""american"", ""sushi""]",0.225
+259,2,"[""american"", ""sushi""]",0.225
+261,0,[],0.225
+263,0,[],0.225
+264,0,[],0.225
+265,1,"[""american""]",0.225
+272,2,"[""american"", ""breakfast""]",0.225
+274,1,"[""american""]",0.225
+278,2,"[""american"", ""pizza""]",0.225
+280,1,"[""american""]",0.225
+281,4,"[""american"", ""pizza"", ""seafood"", ""steak""]",0.225
+285,4,"[""american"", ""pizza"", ""seafood"", ""steak""]",0.225
+296,1,"[""seafood""]",0.225
+302,2,"[""american"", ""seafood""]",0.225
+303,1,"[""sandwich""]",0.225
+310,2,"[""american"", ""seafood""]",0.225
+315,4,"[""breakfast"", ""cafe"", ""coffee and tea"", ""modern australian""]",0.225
+320,1,"[""american""]",0.225
+321,2,"[""coffee and tea"", ""modern australian""]",0.225
+336,0,[],0.225
+343,2,"[""coffee and tea"", ""modern australian""]",0.225
+347,0,[],0.225
+351,1,"[""american""]",0.225
+358,1,"[""american""]",0.225
+362,0,[],0.225
+370,1,"[""modern australian""]",0.225
+377,2,"[""seafood"", ""steak""]",0.225
+379,0,[],0.225
+381,1,"[""seafood""]",0.225
+384,1,"[""seafood""]",0.225
+390,1,"[""seafood""]",0.225
+397,0,[],0.225
+398,2,"[""american"", ""pizza""]",0.225
+399,2,"[""american"", ""steak""]",0.225
+403,0,[],0.225
+405,0,[],0.225
+406,1,"[""steak""]",0.225
+414,0,[],0.225
+417,4,"[""american"", ""asian"", ""hawaiian"", ""seafood""]",0.225
+420,1,"[""breakfast""]",0.225
+421,4,"[""asian"", ""hawaiian"", ""seafood"", ""steak""]",0.225
+425,2,"[""hawaiian"", ""seafood""]",0.225
+431,2,"[""hawaiian"", ""seafood""]",0.225
+444,1,"[""american""]",0.225
+448,1,"[""american""]",0.225
+452,3,"[""american"", ""seafood"", ""steak""]",0.225
+465,0,[],0.225
+479,0,[],0.225
+499,0,[],0.225
+507,2,"[""breakfast"", ""desserts""]",0.225
+508,2,"[""american"", ""seafood""]",0.225
+513,1,"[""breakfast""]",0.225
+516,2,"[""cafe"", ""modern australian""]",0.225
+521,1,"[""american""]",0.225
+529,1,"[""american""]",0.225
+532,0,[],0.225
+534,0,[],0.225
+535,0,[],0.225
+538,0,[],0.225
+545,1,"[""american""]",0.225
+548,1,"[""american""]",0.225
+550,0,[],0.225
+554,1,"[""american""]",0.225
+566,2,"[""american"", ""indian""]",0.225
+569,1,"[""indian""]",0.225
+571,5,"[""american"", ""chinese"", ""indian"", ""middle eastern"", ""north indian""]",0.225
+578,1,"[""indian""]",0.225
+583,1,"[""american""]",0.225
+588,1,"[""indian""]",0.225
+590,4,"[""asian"", ""continental"", ""indian"", ""north indian""]",0.225
+592,1,"[""american""]",0.225
+611,4,"[""american"", ""burger"", ""fast food"", ""indian""]",0.225
+615,1,"[""indian""]",0.225
+616,2,"[""american"", ""indian""]",0.225
+617,2,"[""american"", ""indian""]",0.225
+619,1,"[""indian""]",0.225
+621,1,"[""indian""]",0.225
+628,4,"[""chinese"", ""continental"", ""mughlai"", ""north indian""]",0.225
+638,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+641,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+643,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+647,4,"[""cafe"", ""continental"", ""italian"", ""north indian""]",0.225
+655,4,"[""cafe"", ""continental"", ""italian"", ""north indian""]",0.225
+660,5,"[""cafe"", ""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+665,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+668,5,"[""chinese"", ""continental"", ""fast food"", ""italian"", ""north indian""]",0.225
+669,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+672,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+676,4,"[""chinese"", ""fast food"", ""italian"", ""north indian""]",0.225
+678,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+689,2,"[""fast food"", ""north indian""]",0.225
+694,2,"[""fast food"", ""north indian""]",0.225
+695,2,"[""fast food"", ""north indian""]",0.225
+696,2,"[""fast food"", ""north indian""]",0.225
+701,2,"[""fast food"", ""north indian""]",0.225
+707,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+711,2,"[""chinese"", ""north indian""]",0.225
+712,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+724,2,"[""chinese"", ""north indian""]",0.225
+725,2,"[""chinese"", ""north indian""]",0.225
+735,4,"[""cafe"", ""italian"", ""north indian"", ""pizza""]",0.225
+737,3,"[""cafe"", ""desserts"", ""north indian""]",0.225
+744,3,"[""cafe"", ""continental"", ""north indian""]",0.225
+750,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+758,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+769,3,"[""cafe"", ""chinese"", ""north indian""]",0.225
+776,3,"[""cafe"", ""chinese"", ""north indian""]",0.225
+778,3,"[""cafe"", ""chinese"", ""north indian""]",0.225
+779,3,"[""cafe"", ""chinese"", ""north indian""]",0.225
+780,3,"[""cafe"", ""chinese"", ""north indian""]",0.225
+784,3,"[""cafe"", ""chinese"", ""north indian""]",0.225
+787,6,"[""chinese"", ""continental"", ""fast food"", ""italian"", ""mexican"", ""north indian""]",0.225
+789,6,"[""american"", ""burger"", ""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+793,3,"[""continental"", ""italian"", ""north indian""]",0.225
+797,2,"[""fast food"", ""north indian""]",0.225
+801,2,"[""chinese"", ""north indian""]",0.225
+802,6,"[""american"", ""asian"", ""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+828,4,"[""chinese"", ""desserts"", ""fast food"", ""north indian""]",0.225
+832,2,"[""desserts"", ""north indian""]",0.225
+834,4,"[""chinese"", ""desserts"", ""fast food"", ""north indian""]",0.225
+836,4,"[""chinese"", ""desserts"", ""fast food"", ""north indian""]",0.225
+839,2,"[""desserts"", ""north indian""]",0.225
+849,3,"[""cafe"", ""chinese"", ""north indian""]",0.225
+860,3,"[""cafe"", ""chinese"", ""north indian""]",0.225
+864,3,"[""cafe"", ""chinese"", ""north indian""]",0.225
+869,4,"[""fast food"", ""mithai"", ""north indian"", ""street food""]",0.225
+872,5,"[""chinese"", ""fast food"", ""mithai"", ""north indian"", ""street food""]",0.225
+884,5,"[""chinese"", ""fast food"", ""italian"", ""mughlai"", ""north indian""]",0.225
+885,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+894,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+895,4,"[""chinese"", ""fast food"", ""mughlai"", ""north indian""]",0.225
+900,2,"[""chinese"", ""north indian""]",0.225
+909,2,"[""chinese"", ""north indian""]",0.225
+914,2,"[""chinese"", ""north indian""]",0.225
+922,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+925,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+933,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+937,2,"[""chinese"", ""north indian""]",0.225
+942,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+945,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+948,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+951,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+957,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+959,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+960,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+963,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+964,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+983,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+985,2,"[""chinese"", ""north indian""]",0.225
+988,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+993,4,"[""bakery"", ""chinese"", ""fast food"", ""north indian""]",0.225
+997,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+998,2,"[""chinese"", ""north indian""]",0.225
+1004,4,"[""chinese"", ""fast food"", ""mughlai"", ""north indian""]",0.225
+1008,4,"[""fast food"", ""mithai"", ""north indian"", ""street food""]",0.225
+1009,2,"[""chinese"", ""north indian""]",0.225
+1017,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1024,2,"[""chinese"", ""north indian""]",0.225
+1025,3,"[""chinese"", ""mithai"", ""north indian""]",0.225
+1030,2,"[""chinese"", ""north indian""]",0.225
+1032,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1035,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1044,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1046,2,"[""chinese"", ""north indian""]",0.225
+1052,2,"[""chinese"", ""north indian""]",0.225
+1054,2,"[""chinese"", ""north indian""]",0.225
+1057,2,"[""chinese"", ""north indian""]",0.225
+1063,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1067,2,"[""chinese"", ""north indian""]",0.225
+1068,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1089,2,"[""chinese"", ""north indian""]",0.225
+1098,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1100,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1116,2,"[""fast food"", ""north indian""]",0.225
+1119,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1134,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1147,6,"[""chinese"", ""continental"", ""goan"", ""italian"", ""north indian"", ""seafood""]",0.225
+1150,5,"[""chinese"", ""continental"", ""goan"", ""north indian"", ""seafood""]",0.225
+1168,3,"[""mithai"", ""north indian"", ""street food""]",0.225
+1174,2,"[""chinese"", ""north indian""]",0.225
+1180,1,"[""north indian""]",0.225
+1186,2,"[""chinese"", ""north indian""]",0.225
+1187,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1207,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+1215,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+1222,2,"[""chinese"", ""north indian""]",0.225
+1227,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1236,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1237,6,"[""american"", ""chinese"", ""continental"", ""italian"", ""north indian"", ""thai""]",0.225
+1241,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1245,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1246,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1248,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+1249,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+1255,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+1257,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+1258,3,"[""chinese"", ""italian"", ""north indian""]",0.225
+1261,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1264,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+1265,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+1275,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1276,2,"[""chinese"", ""north indian""]",0.225
+1278,2,"[""chinese"", ""north indian""]",0.225
+1282,2,"[""chinese"", ""north indian""]",0.225
+1283,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1288,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1305,2,"[""chinese"", ""north indian""]",0.225
+1309,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1312,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1313,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+1315,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1316,2,"[""chinese"", ""north indian""]",0.225
+1317,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1320,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1321,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1325,2,"[""chinese"", ""north indian""]",0.225
+1335,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1336,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1352,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1357,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1374,2,"[""chinese"", ""north indian""]",0.225
+1385,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1386,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1387,2,"[""fast food"", ""north indian""]",0.225
+1391,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1397,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1399,2,"[""chinese"", ""north indian""]",0.225
+1403,4,"[""chinese"", ""fast food"", ""italian"", ""north indian""]",0.225
+1412,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1413,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1418,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1433,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+1437,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+1440,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1444,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+1448,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1449,4,"[""chinese"", ""continental"", ""finger food"", ""north indian""]",0.225
+1456,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1458,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1464,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+1470,5,"[""chinese"", ""continental"", ""fast food"", ""italian"", ""north indian""]",0.225
+1471,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1472,2,"[""chinese"", ""north indian""]",0.225
+1483,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+1485,2,"[""chinese"", ""north indian""]",0.225
+1487,2,"[""chinese"", ""north indian""]",0.225
+1490,5,"[""chinese"", ""continental"", ""finger food"", ""italian"", ""north indian""]",0.225
+1504,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+1509,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1517,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+1527,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+1530,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1531,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1532,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1540,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+1564,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1565,2,"[""chinese"", ""north indian""]",0.225
+1569,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1576,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+1580,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1585,2,"[""chinese"", ""north indian""]",0.225
+1594,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1597,2,"[""chinese"", ""north indian""]",0.225
+1598,2,"[""chinese"", ""north indian""]",0.225
+1603,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1610,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1614,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+1622,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+1644,2,"[""chinese"", ""north indian""]",0.225
+1648,2,"[""fast food"", ""north indian""]",0.225
+1650,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1654,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1657,2,"[""chinese"", ""north indian""]",0.225
+1662,2,"[""north indian"", ""street food""]",0.225
+1664,1,"[""north indian""]",0.225
+1669,1,"[""north indian""]",0.225
+1673,2,"[""chinese"", ""north indian""]",0.225
+1676,2,"[""chinese"", ""north indian""]",0.225
+1682,2,"[""chinese"", ""north indian""]",0.225
+1683,2,"[""chinese"", ""north indian""]",0.225
+1694,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+1696,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1706,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1713,2,"[""fast food"", ""north indian""]",0.225
+1724,2,"[""fast food"", ""north indian""]",0.225
+1733,2,"[""fast food"", ""north indian""]",0.225
+1734,2,"[""bakery"", ""north indian""]",0.225
+1743,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1751,2,"[""chinese"", ""north indian""]",0.225
+1758,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1759,2,"[""chinese"", ""north indian""]",0.225
+1766,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1768,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1771,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1772,2,"[""chinese"", ""north indian""]",0.225
+1775,2,"[""chinese"", ""north indian""]",0.225
+1776,2,"[""chinese"", ""north indian""]",0.225
+1807,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1811,2,"[""chinese"", ""north indian""]",0.225
+1818,2,"[""chinese"", ""north indian""]",0.225
+1823,2,"[""chinese"", ""north indian""]",0.225
+1825,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1832,2,"[""chinese"", ""north indian""]",0.225
+1847,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+1850,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+1851,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+1852,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+1854,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1855,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+1856,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+1861,5,"[""chinese"", ""continental"", ""fast food"", ""italian"", ""north indian""]",0.225
+1863,8,"[""asian"", ""chinese"", ""continental"", ""italian"", ""japanese"", ""mughlai"", ""north indian"", ""thai""]",0.225
+1864,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+1865,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+1872,1,"[""north indian""]",0.225
+1877,1,"[""north indian""]",0.225
+1896,2,"[""chinese"", ""north indian""]",0.225
+1904,2,"[""chinese"", ""north indian""]",0.225
+1907,2,"[""chinese"", ""north indian""]",0.225
+1909,2,"[""chinese"", ""north indian""]",0.225
+1913,1,"[""north indian""]",0.225
+1917,2,"[""chinese"", ""north indian""]",0.225
+1918,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1919,1,"[""north indian""]",0.225
+1934,1,"[""north indian""]",0.225
+1938,2,"[""chinese"", ""north indian""]",0.225
+1942,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1957,2,"[""chinese"", ""north indian""]",0.225
+1969,2,"[""bakery"", ""street food""]",0.225
+1976,2,"[""bakery"", ""north indian""]",0.225
+1977,2,"[""fast food"", ""north indian""]",0.225
+1978,2,"[""fast food"", ""north indian""]",0.225
+1985,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+1989,2,"[""north indian"", ""street food""]",0.225
+1994,1,"[""north indian""]",0.225
+1997,2,"[""chinese"", ""north indian""]",0.225
+1999,2,"[""chinese"", ""north indian""]",0.225
+2000,2,"[""chinese"", ""north indian""]",0.225
+2002,1,"[""north indian""]",0.225
+2003,2,"[""chinese"", ""north indian""]",0.225
+2006,2,"[""north indian"", ""street food""]",0.225
+2010,2,"[""chinese"", ""north indian""]",0.225
+2012,1,"[""north indian""]",0.225
+2018,2,"[""chinese"", ""north indian""]",0.225
+2020,2,"[""chinese"", ""north indian""]",0.225
+2023,1,"[""north indian""]",0.225
+2025,2,"[""chinese"", ""north indian""]",0.225
+2032,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+2035,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2041,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2049,2,"[""fast food"", ""north indian""]",0.225
+2050,1,"[""north indian""]",0.225
+2053,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2058,2,"[""fast food"", ""north indian""]",0.225
+2059,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2063,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2065,2,"[""chinese"", ""north indian""]",0.225
+2074,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2075,3,"[""bakery"", ""fast food"", ""north indian""]",0.225
+2080,1,"[""north indian""]",0.225
+2082,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2094,2,"[""chinese"", ""north indian""]",0.225
+2099,5,"[""chinese"", ""continental"", ""italian"", ""north indian"", ""thai""]",0.225
+2105,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2109,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2111,5,"[""chinese"", ""continental"", ""italian"", ""north indian"", ""thai""]",0.225
+2114,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2122,2,"[""chinese"", ""north indian""]",0.225
+2125,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2139,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2145,2,"[""chinese"", ""north indian""]",0.225
+2146,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2148,2,"[""chinese"", ""north indian""]",0.225
+2150,2,"[""chinese"", ""north indian""]",0.225
+2156,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2160,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2165,5,"[""chinese"", ""continental"", ""finger food"", ""italian"", ""north indian""]",0.225
+2167,5,"[""chinese"", ""continental"", ""finger food"", ""italian"", ""north indian""]",0.225
+2168,4,"[""chinese"", ""continental"", ""finger food"", ""north indian""]",0.225
+2169,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+2171,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+2180,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+2181,4,"[""chinese"", ""continental"", ""mughlai"", ""north indian""]",0.225
+2183,4,"[""chinese"", ""continental"", ""finger food"", ""north indian""]",0.225
+2189,2,"[""fast food"", ""north indian""]",0.225
+2199,2,"[""chinese"", ""north indian""]",0.225
+2202,2,"[""chinese"", ""north indian""]",0.225
+2205,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2209,2,"[""chinese"", ""north indian""]",0.225
+2220,1,"[""north indian""]",0.225
+2221,1,"[""north indian""]",0.225
+2225,2,"[""chinese"", ""north indian""]",0.225
+2227,2,"[""chinese"", ""north indian""]",0.225
+2229,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2231,2,"[""chinese"", ""north indian""]",0.225
+2233,1,"[""north indian""]",0.225
+2239,2,"[""fast food"", ""north indian""]",0.225
+2247,2,"[""chinese"", ""north indian""]",0.225
+2252,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+2256,2,"[""fast food"", ""north indian""]",0.225
+2270,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+2276,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2279,4,"[""cafe"", ""chinese"", ""continental"", ""north indian""]",0.225
+2283,5,"[""cafe"", ""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+2287,3,"[""cafe"", ""chinese"", ""continental""]",0.225
+2288,4,"[""cafe"", ""chinese"", ""continental"", ""north indian""]",0.225
+2290,4,"[""cafe"", ""chinese"", ""continental"", ""north indian""]",0.225
+2291,2,"[""cafe"", ""chinese""]",0.225
+2298,4,"[""cafe"", ""chinese"", ""continental"", ""north indian""]",0.225
+2302,5,"[""chinese"", ""continental"", ""italian"", ""mediterranean"", ""north indian""]",0.225
+2303,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+2304,5,"[""cafe"", ""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+2324,5,"[""cafe"", ""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+2329,3,"[""cafe"", ""chinese"", ""north indian""]",0.225
+2331,3,"[""cafe"", ""chinese"", ""north indian""]",0.225
+2333,5,"[""cafe"", ""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+2334,3,"[""cafe"", ""chinese"", ""north indian""]",0.225
+2335,5,"[""cafe"", ""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+2338,6,"[""cafe"", ""chinese"", ""continental"", ""italian"", ""mexican"", ""north indian""]",0.225
+2339,5,"[""cafe"", ""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+2340,5,"[""cafe"", ""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+2345,5,"[""cafe"", ""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+2347,5,"[""cafe"", ""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+2351,5,"[""cafe"", ""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+2355,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+2361,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+2364,5,"[""desserts"", ""fast food"", ""ice cream"", ""mithai"", ""street food""]",0.225
+2365,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2369,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+2370,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+2374,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2376,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+2377,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+2380,3,"[""cafe"", ""chinese"", ""north indian""]",0.225
+2385,5,"[""cafe"", ""chinese"", ""desserts"", ""fast food"", ""north indian""]",0.225
+2389,3,"[""cafe"", ""chinese"", ""north indian""]",0.225
+2390,3,"[""cafe"", ""chinese"", ""north indian""]",0.225
+2391,3,"[""cafe"", ""chinese"", ""north indian""]",0.225
+2392,3,"[""cafe"", ""chinese"", ""north indian""]",0.225
+2394,4,"[""cafe"", ""chinese"", ""north indian"", ""south indian""]",0.225
+2402,5,"[""american"", ""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+2403,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+2409,4,"[""cafe"", ""chinese"", ""continental"", ""north indian""]",0.225
+2410,4,"[""american"", ""chinese"", ""italian"", ""north indian""]",0.225
+2412,4,"[""american"", ""chinese"", ""italian"", ""north indian""]",0.225
+2420,5,"[""cafe"", ""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+2428,5,"[""cafe"", ""chinese"", ""continental"", ""mughlai"", ""north indian""]",0.225
+2430,6,"[""cafe"", ""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+2431,5,"[""cafe"", ""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+2434,6,"[""cafe"", ""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+2436,7,"[""asian"", ""cafe"", ""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+2451,5,"[""cafe"", ""chinese"", ""continental"", ""fast food"", ""north indian""]",0.225
+2452,5,"[""cafe"", ""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+2463,2,"[""chinese"", ""north indian""]",0.225
+2475,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+2484,6,"[""cafe"", ""chinese"", ""desserts"", ""fast food"", ""italian"", ""north indian""]",0.225
+2498,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+2502,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+2505,2,"[""chinese"", ""north indian""]",0.225
+2506,2,"[""chinese"", ""north indian""]",0.225
+2516,2,"[""chinese"", ""north indian""]",0.225
+2529,4,"[""cafe"", ""chinese"", ""fast food"", ""north indian""]",0.225
+2537,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2539,4,"[""cafe"", ""chinese"", ""continental"", ""north indian""]",0.225
+2555,2,"[""chinese"", ""north indian""]",0.225
+2556,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+2561,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2564,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2565,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2567,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2572,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+2573,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+2576,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2582,2,"[""chinese"", ""north indian""]",0.225
+2590,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2599,4,"[""chinese"", ""fast food"", ""mughlai"", ""north indian""]",0.225
+2600,2,"[""chinese"", ""north indian""]",0.225
+2608,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2613,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2622,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2634,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2639,2,"[""chinese"", ""north indian""]",0.225
+2640,2,"[""fast food"", ""north indian""]",0.225
+2643,2,"[""chinese"", ""north indian""]",0.225
+2644,2,"[""fast food"", ""north indian""]",0.225
+2645,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2648,2,"[""fast food"", ""north indian""]",0.225
+2651,2,"[""fast food"", ""north indian""]",0.225
+2666,1,"[""north indian""]",0.225
+2667,2,"[""chinese"", ""north indian""]",0.225
+2668,1,"[""north indian""]",0.225
+2670,2,"[""chinese"", ""north indian""]",0.225
+2674,2,"[""chinese"", ""north indian""]",0.225
+2683,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+2690,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2695,2,"[""fast food"", ""north indian""]",0.225
+2702,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2704,2,"[""chinese"", ""north indian""]",0.225
+2711,2,"[""chinese"", ""north indian""]",0.225
+2713,2,"[""chinese"", ""north indian""]",0.225
+2719,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2720,1,"[""north indian""]",0.225
+2723,2,"[""chinese"", ""north indian""]",0.225
+2728,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+2732,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2734,2,"[""fast food"", ""north indian""]",0.225
+2745,2,"[""chinese"", ""north indian""]",0.225
+2754,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2756,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2761,2,"[""chinese"", ""north indian""]",0.225
+2766,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2776,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2777,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+2781,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+2783,3,"[""chinese"", ""italian"", ""north indian""]",0.225
+2791,2,"[""fast food"", ""north indian""]",0.225
+2795,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2806,2,"[""chinese"", ""north indian""]",0.225
+2809,2,"[""chinese"", ""north indian""]",0.225
+2815,2,"[""chinese"", ""north indian""]",0.225
+2817,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2819,2,"[""chinese"", ""north indian""]",0.225
+2823,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2826,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+2831,2,"[""chinese"", ""north indian""]",0.225
+2846,2,"[""fast food"", ""north indian""]",0.225
+2861,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+2872,3,"[""fast food"", ""mithai"", ""street food""]",0.225
+2878,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2884,3,"[""fast food"", ""mithai"", ""street food""]",0.225
+2887,2,"[""north indian"", ""street food""]",0.225
+2900,4,"[""fast food"", ""mithai"", ""north indian"", ""street food""]",0.225
+2918,2,"[""chinese"", ""north indian""]",0.225
+2920,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+2923,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+2932,2,"[""chinese"", ""north indian""]",0.225
+2937,2,"[""chinese"", ""north indian""]",0.225
+2947,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2955,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+2956,2,"[""chinese"", ""north indian""]",0.225
+2959,2,"[""chinese"", ""north indian""]",0.225
+2960,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2962,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+2978,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2983,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2984,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2985,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2988,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+2989,4,"[""chinese"", ""italian"", ""mughlai"", ""north indian""]",0.225
+2992,2,"[""fast food"", ""north indian""]",0.225
+2999,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+3002,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+3007,4,"[""fast food"", ""mithai"", ""north indian"", ""street food""]",0.225
+3013,3,"[""desserts"", ""fast food"", ""street food""]",0.225
+3017,3,"[""chinese"", ""italian"", ""north indian""]",0.225
+3024,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3029,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+3031,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3037,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3038,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+3057,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3071,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3076,5,"[""chinese"", ""fast food"", ""italian"", ""mughlai"", ""north indian""]",0.225
+3078,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+3090,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+3093,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+3108,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+3117,4,"[""chinese"", ""fast food"", ""italian"", ""north indian""]",0.225
+3121,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3125,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3126,2,"[""chinese"", ""north indian""]",0.225
+3133,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+3156,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3161,2,"[""chinese"", ""north indian""]",0.225
+3166,2,"[""chinese"", ""north indian""]",0.225
+3171,2,"[""fast food"", ""north indian""]",0.225
+3179,2,"[""chinese"", ""north indian""]",0.225
+3182,2,"[""fast food"", ""north indian""]",0.225
+3186,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3188,2,"[""fast food"", ""north indian""]",0.225
+3197,2,"[""chinese"", ""north indian""]",0.225
+3198,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3200,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3207,2,"[""chinese"", ""north indian""]",0.225
+3233,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3237,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+3238,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+3245,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3246,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3250,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3251,2,"[""chinese"", ""north indian""]",0.225
+3258,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+3261,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+3262,2,"[""chinese"", ""north indian""]",0.225
+3268,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3275,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3276,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3280,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3282,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3285,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3296,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3339,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3340,2,"[""chinese"", ""north indian""]",0.225
+3348,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3352,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3354,2,"[""fast food"", ""north indian""]",0.225
+3360,2,"[""chinese"", ""north indian""]",0.225
+3363,2,"[""chinese"", ""north indian""]",0.225
+3365,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3373,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3378,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3380,2,"[""chinese"", ""north indian""]",0.225
+3382,2,"[""fast food"", ""north indian""]",0.225
+3385,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3393,2,"[""chinese"", ""north indian""]",0.225
+3398,2,"[""chinese"", ""north indian""]",0.225
+3403,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3407,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3424,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+3439,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3444,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3445,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3449,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3453,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3455,4,"[""chinese"", ""italian"", ""mughlai"", ""north indian""]",0.225
+3461,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3462,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3471,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3475,2,"[""fast food"", ""north indian""]",0.225
+3485,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3492,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3494,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+3498,2,"[""chinese"", ""north indian""]",0.225
+3501,2,"[""chinese"", ""north indian""]",0.225
+3508,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3509,2,"[""chinese"", ""north indian""]",0.225
+3512,2,"[""chinese"", ""north indian""]",0.225
+3515,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3520,2,"[""chinese"", ""north indian""]",0.225
+3534,2,"[""chinese"", ""north indian""]",0.225
+3539,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3545,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3565,2,"[""chinese"", ""north indian""]",0.225
+3570,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3573,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3577,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+3581,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3584,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3588,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+3592,6,"[""chinese"", ""continental"", ""finger food"", ""italian"", ""mughlai"", ""north indian""]",0.225
+3594,8,"[""asian"", ""chinese"", ""continental"", ""european"", ""finger food"", ""italian"", ""mughlai"", ""north indian""]",0.225
+3603,2,"[""chinese"", ""north indian""]",0.225
+3604,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3605,5,"[""chinese"", ""continental"", ""european"", ""italian"", ""north indian""]",0.225
+3607,2,"[""chinese"", ""north indian""]",0.225
+3611,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3612,2,"[""fast food"", ""north indian""]",0.225
+3616,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3619,2,"[""fast food"", ""north indian""]",0.225
+3628,2,"[""chinese"", ""north indian""]",0.225
+3632,2,"[""chinese"", ""north indian""]",0.225
+3636,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3638,2,"[""chinese"", ""north indian""]",0.225
+3641,3,"[""chinese"", ""italian"", ""north indian""]",0.225
+3644,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3649,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3653,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+3657,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3659,2,"[""chinese"", ""north indian""]",0.225
+3661,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3673,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+3678,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3679,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+3683,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+3684,2,"[""fast food"", ""north indian""]",0.225
+3690,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+3696,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+3699,2,"[""chinese"", ""north indian""]",0.225
+3700,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3706,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3709,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3710,2,"[""chinese"", ""north indian""]",0.225
+3721,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+3727,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3731,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+3734,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3735,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3736,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3738,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3741,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3745,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3746,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+3749,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3757,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3763,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+3767,5,"[""chinese"", ""continental"", ""european"", ""italian"", ""north indian""]",0.225
+3768,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+3771,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3772,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+3778,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+3798,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+3806,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3811,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+3818,2,"[""chinese"", ""north indian""]",0.225
+3819,2,"[""chinese"", ""north indian""]",0.225
+3820,2,"[""chinese"", ""north indian""]",0.225
+3838,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3840,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+3844,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3848,1,"[""north indian""]",0.225
+3849,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3850,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3857,2,"[""chinese"", ""north indian""]",0.225
+3859,2,"[""chinese"", ""north indian""]",0.225
+3867,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+3869,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3872,2,"[""chinese"", ""north indian""]",0.225
+3873,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3875,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3876,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3884,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3892,2,"[""chinese"", ""north indian""]",0.225
+3897,1,"[""north indian""]",0.225
+3899,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3906,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+3913,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+3915,2,"[""fast food"", ""north indian""]",0.225
+3922,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3929,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3934,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3937,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3938,2,"[""chinese"", ""north indian""]",0.225
+3939,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3944,2,"[""fast food"", ""north indian""]",0.225
+3947,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+3949,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3952,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+3962,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3967,2,"[""chinese"", ""north indian""]",0.225
+3968,2,"[""chinese"", ""north indian""]",0.225
+3972,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+3985,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+3992,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+4007,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+4015,6,"[""chinese"", ""continental"", ""finger food"", ""italian"", ""mughlai"", ""north indian""]",0.225
+4030,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4032,2,"[""fast food"", ""north indian""]",0.225
+4070,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4074,2,"[""chinese"", ""north indian""]",0.225
+4082,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4091,2,"[""chinese"", ""north indian""]",0.225
+4095,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4097,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+4098,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4102,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4104,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4106,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4118,2,"[""fast food"", ""north indian""]",0.225
+4123,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4125,2,"[""chinese"", ""north indian""]",0.225
+4133,2,"[""fast food"", ""north indian""]",0.225
+4140,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4145,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4147,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4155,2,"[""fast food"", ""north indian""]",0.225
+4162,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4163,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4164,2,"[""fast food"", ""north indian""]",0.225
+4173,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4180,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4181,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4186,2,"[""chinese"", ""north indian""]",0.225
+4190,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4208,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+4209,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4217,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4222,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4228,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4230,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4232,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4236,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4243,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4252,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4253,4,"[""chinese"", ""fast food"", ""mughlai"", ""north indian""]",0.225
+4258,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+4264,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4265,1,"[""north indian""]",0.225
+4266,2,"[""chinese"", ""north indian""]",0.225
+4267,2,"[""chinese"", ""north indian""]",0.225
+4269,2,"[""chinese"", ""north indian""]",0.225
+4270,1,"[""north indian""]",0.225
+4272,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4281,3,"[""chinese"", ""italian"", ""north indian""]",0.225
+4290,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+4291,2,"[""fast food"", ""north indian""]",0.225
+4292,2,"[""fast food"", ""north indian""]",0.225
+4294,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4295,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4306,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+4309,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+4317,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4320,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4321,5,"[""chinese"", ""continental"", ""european"", ""italian"", ""north indian""]",0.225
+4327,2,"[""chinese"", ""north indian""]",0.225
+4333,2,"[""chinese"", ""north indian""]",0.225
+4336,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4349,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+4355,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4365,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4367,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4369,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+4372,2,"[""chinese"", ""north indian""]",0.225
+4373,2,"[""chinese"", ""north indian""]",0.225
+4397,2,"[""fast food"", ""north indian""]",0.225
+4398,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4399,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4409,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4412,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4422,2,"[""chinese"", ""north indian""]",0.225
+4428,2,"[""fast food"", ""north indian""]",0.225
+4431,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4434,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4442,2,"[""chinese"", ""north indian""]",0.225
+4446,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4449,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4453,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4454,2,"[""fast food"", ""north indian""]",0.225
+4458,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4460,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4461,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4467,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4474,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4482,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4488,2,"[""chinese"", ""north indian""]",0.225
+4494,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4500,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+4503,3,"[""fast food"", ""mithai"", ""street food""]",0.225
+4506,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+4509,2,"[""fast food"", ""north indian""]",0.225
+4510,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4526,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4533,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4535,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4539,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+4545,2,"[""chinese"", ""north indian""]",0.225
+4552,2,"[""chinese"", ""north indian""]",0.225
+4553,2,"[""fast food"", ""north indian""]",0.225
+4557,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+4574,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4575,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4578,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4586,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4588,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4592,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4601,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4608,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4614,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+4624,2,"[""chinese"", ""north indian""]",0.225
+4639,4,"[""chinese"", ""fast food"", ""italian"", ""north indian""]",0.225
+4646,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4651,5,"[""chinese"", ""fast food"", ""italian"", ""mughlai"", ""north indian""]",0.225
+4652,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+4655,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+4657,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+4667,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+4679,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4682,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4684,2,"[""fast food"", ""north indian""]",0.225
+4686,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4688,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+4697,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4706,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4711,2,"[""chinese"", ""north indian""]",0.225
+4712,3,"[""chinese"", ""italian"", ""north indian""]",0.225
+4728,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4734,2,"[""fast food"", ""north indian""]",0.225
+4736,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4738,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4741,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4744,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+4746,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4753,2,"[""chinese"", ""north indian""]",0.225
+4757,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4761,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+4763,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4766,2,"[""chinese"", ""north indian""]",0.225
+4769,2,"[""fast food"", ""north indian""]",0.225
+4777,2,"[""chinese"", ""north indian""]",0.225
+4783,2,"[""chinese"", ""north indian""]",0.225
+4792,1,"[""north indian""]",0.225
+4799,2,"[""chinese"", ""north indian""]",0.225
+4813,2,"[""chinese"", ""north indian""]",0.225
+4814,2,"[""chinese"", ""north indian""]",0.225
+4824,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4848,2,"[""north indian"", ""street food""]",0.225
+4855,2,"[""chinese"", ""north indian""]",0.225
+4863,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4866,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4867,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4868,4,"[""chinese"", ""fast food"", ""mughlai"", ""north indian""]",0.225
+4882,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4884,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4885,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4887,2,"[""chinese"", ""north indian""]",0.225
+4891,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4896,2,"[""chinese"", ""north indian""]",0.225
+4901,2,"[""fast food"", ""north indian""]",0.225
+4904,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4906,2,"[""fast food"", ""north indian""]",0.225
+4913,2,"[""fast food"", ""north indian""]",0.225
+4918,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4919,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4920,2,"[""fast food"", ""north indian""]",0.225
+4925,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4937,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4939,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4940,2,"[""fast food"", ""north indian""]",0.225
+4944,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+4949,2,"[""chinese"", ""north indian""]",0.225
+4953,4,"[""chinese"", ""fast food"", ""mughlai"", ""north indian""]",0.225
+4954,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4957,4,"[""chinese"", ""continental"", ""mughlai"", ""north indian""]",0.225
+4963,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+4966,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4967,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4968,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+4973,2,"[""fast food"", ""north indian""]",0.225
+4980,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4988,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4989,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+4996,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5000,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+5011,2,"[""chinese"", ""north indian""]",0.225
+5017,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+5019,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+5033,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5038,2,"[""chinese"", ""north indian""]",0.225
+5045,2,"[""chinese"", ""north indian""]",0.225
+5046,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5047,2,"[""chinese"", ""north indian""]",0.225
+5052,1,"[""north indian""]",0.225
+5056,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5061,2,"[""chinese"", ""north indian""]",0.225
+5064,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5070,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5072,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5075,2,"[""chinese"", ""north indian""]",0.225
+5077,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5078,2,"[""chinese"", ""north indian""]",0.225
+5086,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5087,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5088,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5092,2,"[""chinese"", ""north indian""]",0.225
+5094,2,"[""chinese"", ""north indian""]",0.225
+5100,2,"[""chinese"", ""north indian""]",0.225
+5113,2,"[""chinese"", ""north indian""]",0.225
+5114,2,"[""chinese"", ""north indian""]",0.225
+5118,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5131,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5135,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5136,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5150,2,"[""fast food"", ""north indian""]",0.225
+5151,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5156,4,"[""chinese"", ""fast food"", ""italian"", ""north indian""]",0.225
+5159,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5169,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5170,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5183,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5185,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+5187,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5204,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5209,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5210,2,"[""north indian"", ""street food""]",0.225
+5212,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5216,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5217,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5231,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5232,2,"[""fast food"", ""north indian""]",0.225
+5239,2,"[""chinese"", ""north indian""]",0.225
+5242,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5247,2,"[""chinese"", ""north indian""]",0.225
+5249,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+5252,2,"[""fast food"", ""north indian""]",0.225
+5258,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5265,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5269,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5285,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5296,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5300,2,"[""chinese"", ""north indian""]",0.225
+5304,2,"[""chinese"", ""north indian""]",0.225
+5308,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5314,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+5320,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5324,2,"[""fast food"", ""north indian""]",0.225
+5328,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5329,3,"[""chinese"", ""italian"", ""north indian""]",0.225
+5335,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+5338,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5355,2,"[""fast food"", ""north indian""]",0.225
+5356,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5364,2,"[""north indian"", ""street food""]",0.225
+5376,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5379,2,"[""chinese"", ""north indian""]",0.225
+5383,2,"[""chinese"", ""north indian""]",0.225
+5389,2,"[""chinese"", ""north indian""]",0.225
+5394,2,"[""chinese"", ""north indian""]",0.225
+5401,2,"[""chinese"", ""north indian""]",0.225
+5402,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5410,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5415,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5417,2,"[""chinese"", ""north indian""]",0.225
+5418,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5419,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+5420,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5422,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5424,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5429,2,"[""chinese"", ""north indian""]",0.225
+5433,5,"[""chinese"", ""continental"", ""european"", ""italian"", ""north indian""]",0.225
+5438,4,"[""chinese"", ""finger food"", ""mughlai"", ""north indian""]",0.225
+5446,2,"[""fast food"", ""north indian""]",0.225
+5448,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5457,2,"[""chinese"", ""north indian""]",0.225
+5459,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5460,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5464,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5477,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5478,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+5481,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5484,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5485,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5489,2,"[""chinese"", ""north indian""]",0.225
+5490,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5495,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+5499,3,"[""chinese"", ""italian"", ""north indian""]",0.225
+5504,2,"[""chinese"", ""north indian""]",0.225
+5515,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5520,2,"[""chinese"", ""north indian""]",0.225
+5521,2,"[""chinese"", ""north indian""]",0.225
+5523,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5530,2,"[""chinese"", ""north indian""]",0.225
+5534,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5535,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5544,2,"[""chinese"", ""north indian""]",0.225
+5545,1,"[""north indian""]",0.225
+5548,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+5551,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5552,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5557,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5562,2,"[""fast food"", ""north indian""]",0.225
+5566,2,"[""fast food"", ""north indian""]",0.225
+5570,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5574,2,"[""chinese"", ""north indian""]",0.225
+5578,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5586,2,"[""chinese"", ""north indian""]",0.225
+5587,1,"[""north indian""]",0.225
+5591,1,"[""north indian""]",0.225
+5605,2,"[""chinese"", ""north indian""]",0.225
+5611,2,"[""chinese"", ""north indian""]",0.225
+5613,1,"[""north indian""]",0.225
+5616,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5620,2,"[""chinese"", ""north indian""]",0.225
+5628,2,"[""fast food"", ""north indian""]",0.225
+5631,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5634,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5640,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5645,1,"[""north indian""]",0.225
+5653,2,"[""north indian"", ""street food""]",0.225
+5654,2,"[""chinese"", ""north indian""]",0.225
+5665,1,"[""north indian""]",0.225
+5670,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5679,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5680,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5684,2,"[""chinese"", ""north indian""]",0.225
+5692,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5699,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5701,2,"[""fast food"", ""north indian""]",0.225
+5726,1,"[""north indian""]",0.225
+5733,1,"[""north indian""]",0.225
+5741,2,"[""chinese"", ""north indian""]",0.225
+5743,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5749,2,"[""chinese"", ""north indian""]",0.225
+5751,2,"[""fast food"", ""north indian""]",0.225
+5764,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+5768,2,"[""fast food"", ""north indian""]",0.225
+5769,2,"[""fast food"", ""north indian""]",0.225
+5774,2,"[""fast food"", ""north indian""]",0.225
+5776,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+5782,2,"[""fast food"", ""north indian""]",0.225
+5785,2,"[""chinese"", ""north indian""]",0.225
+5786,1,"[""north indian""]",0.225
+5792,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5793,1,"[""north indian""]",0.225
+5797,2,"[""fast food"", ""north indian""]",0.225
+5798,2,"[""chinese"", ""north indian""]",0.225
+5800,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5806,1,"[""north indian""]",0.225
+5814,2,"[""chinese"", ""north indian""]",0.225
+5815,2,"[""chinese"", ""north indian""]",0.225
+5817,2,"[""chinese"", ""north indian""]",0.225
+5820,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5842,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5853,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+5859,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5863,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5868,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5869,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5879,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5880,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5887,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5888,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+5890,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5896,1,"[""north indian""]",0.225
+5899,3,"[""chinese"", ""italian"", ""north indian""]",0.225
+5901,6,"[""chinese"", ""continental"", ""finger food"", ""italian"", ""mughlai"", ""north indian""]",0.225
+5904,2,"[""chinese"", ""north indian""]",0.225
+5906,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5911,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5915,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5922,2,"[""chinese"", ""north indian""]",0.225
+5930,2,"[""chinese"", ""north indian""]",0.225
+5932,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5938,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5943,1,"[""north indian""]",0.225
+5950,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5956,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5957,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5968,2,"[""chinese"", ""north indian""]",0.225
+5975,2,"[""chinese"", ""north indian""]",0.225
+5986,2,"[""chinese"", ""north indian""]",0.225
+5987,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5988,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+5997,2,"[""north indian"", ""street food""]",0.225
+5998,2,"[""chinese"", ""north indian""]",0.225
+6011,2,"[""chinese"", ""north indian""]",0.225
+6024,2,"[""chinese"", ""north indian""]",0.225
+6027,2,"[""chinese"", ""north indian""]",0.225
+6033,2,"[""chinese"", ""north indian""]",0.225
+6037,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+6044,2,"[""fast food"", ""north indian""]",0.225
+6049,2,"[""chinese"", ""north indian""]",0.225
+6053,2,"[""fast food"", ""north indian""]",0.225
+6056,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6058,2,"[""north indian"", ""street food""]",0.225
+6067,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6068,2,"[""fast food"", ""north indian""]",0.225
+6081,2,"[""chinese"", ""north indian""]",0.225
+6087,1,"[""north indian""]",0.225
+6092,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6098,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6099,2,"[""chinese"", ""north indian""]",0.225
+6106,2,"[""north indian"", ""street food""]",0.225
+6111,1,"[""north indian""]",0.225
+6131,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6132,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6133,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6134,2,"[""chinese"", ""north indian""]",0.225
+6140,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+6141,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+6148,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6149,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6153,2,"[""chinese"", ""north indian""]",0.225
+6159,2,"[""chinese"", ""north indian""]",0.225
+6175,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6181,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6193,2,"[""fast food"", ""north indian""]",0.225
+6199,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+6221,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6237,2,"[""chinese"", ""north indian""]",0.225
+6239,2,"[""chinese"", ""north indian""]",0.225
+6241,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6242,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6244,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6245,2,"[""chinese"", ""north indian""]",0.225
+6249,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6250,2,"[""chinese"", ""north indian""]",0.225
+6254,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+6263,2,"[""chinese"", ""north indian""]",0.225
+6268,4,"[""chinese"", ""fast food"", ""mughlai"", ""north indian""]",0.225
+6281,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6287,3,"[""fast food"", ""mithai"", ""street food""]",0.225
+6288,2,"[""fast food"", ""north indian""]",0.225
+6290,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6296,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6301,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6302,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6303,4,"[""chinese"", ""fast food"", ""italian"", ""north indian""]",0.225
+6304,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+6307,2,"[""chinese"", ""north indian""]",0.225
+6308,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6311,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6322,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6329,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6336,2,"[""chinese"", ""north indian""]",0.225
+6348,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+6353,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6355,2,"[""chinese"", ""north indian""]",0.225
+6361,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6362,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6363,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6371,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6373,2,"[""chinese"", ""north indian""]",0.225
+6379,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6383,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6384,5,"[""chinese"", ""continental"", ""finger food"", ""italian"", ""north indian""]",0.225
+6388,2,"[""chinese"", ""north indian""]",0.225
+6390,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+6391,2,"[""chinese"", ""north indian""]",0.225
+6405,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6411,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6420,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6424,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6440,2,"[""chinese"", ""north indian""]",0.225
+6456,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6458,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+6459,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6465,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6466,1,"[""north indian""]",0.225
+6471,2,"[""chinese"", ""north indian""]",0.225
+6472,2,"[""chinese"", ""north indian""]",0.225
+6473,2,"[""fast food"", ""north indian""]",0.225
+6478,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+6479,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6480,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6487,2,"[""chinese"", ""north indian""]",0.225
+6488,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6492,2,"[""fast food"", ""north indian""]",0.225
+6493,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6497,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+6499,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6502,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+6507,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+6515,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+6528,5,"[""chinese"", ""continental"", ""european"", ""italian"", ""north indian""]",0.225
+6534,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6536,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6538,2,"[""chinese"", ""north indian""]",0.225
+6543,2,"[""chinese"", ""north indian""]",0.225
+6545,2,"[""fast food"", ""north indian""]",0.225
+6549,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+6550,2,"[""chinese"", ""north indian""]",0.225
+6553,2,"[""fast food"", ""north indian""]",0.225
+6557,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6558,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6570,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6575,3,"[""chinese"", ""italian"", ""north indian""]",0.225
+6582,2,"[""chinese"", ""north indian""]",0.225
+6583,2,"[""chinese"", ""north indian""]",0.225
+6588,2,"[""fast food"", ""north indian""]",0.225
+6594,2,"[""chinese"", ""north indian""]",0.225
+6597,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+6598,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6601,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6602,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6607,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6609,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6621,4,"[""chinese"", ""fast food"", ""mughlai"", ""north indian""]",0.225
+6628,2,"[""fast food"", ""north indian""]",0.225
+6635,2,"[""chinese"", ""north indian""]",0.225
+6636,2,"[""chinese"", ""north indian""]",0.225
+6638,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6644,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6646,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6653,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6663,5,"[""chinese"", ""fast food"", ""italian"", ""mughlai"", ""north indian""]",0.225
+6665,2,"[""fast food"", ""north indian""]",0.225
+6674,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6677,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+6684,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6706,2,"[""chinese"", ""north indian""]",0.225
+6707,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6711,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+6725,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6730,2,"[""fast food"", ""north indian""]",0.225
+6731,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6733,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6736,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6739,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6740,3,"[""chinese"", ""italian"", ""north indian""]",0.225
+6741,2,"[""fast food"", ""north indian""]",0.225
+6743,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6745,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6747,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6750,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+6757,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+6771,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6773,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6775,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6776,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6786,2,"[""chinese"", ""north indian""]",0.225
+6788,4,"[""chinese"", ""fast food"", ""mughlai"", ""north indian""]",0.225
+6789,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6792,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6796,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6800,2,"[""chinese"", ""north indian""]",0.225
+6802,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6807,4,"[""chinese"", ""fast food"", ""mughlai"", ""north indian""]",0.225
+6808,2,"[""chinese"", ""north indian""]",0.225
+6810,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6814,2,"[""chinese"", ""north indian""]",0.225
+6815,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6816,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6821,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6829,2,"[""chinese"", ""north indian""]",0.225
+6830,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6834,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6838,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6842,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6843,2,"[""chinese"", ""north indian""]",0.225
+6850,3,"[""chinese"", ""italian"", ""north indian""]",0.225
+6856,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6857,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+6858,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6860,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6869,2,"[""chinese"", ""north indian""]",0.225
+6872,1,"[""north indian""]",0.225
+6882,2,"[""chinese"", ""north indian""]",0.225
+6886,2,"[""fast food"", ""north indian""]",0.225
+6890,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6896,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+6900,2,"[""chinese"", ""north indian""]",0.225
+6902,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6903,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6904,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6907,2,"[""chinese"", ""north indian""]",0.225
+6914,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6916,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6919,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6926,2,"[""chinese"", ""north indian""]",0.225
+6927,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+6929,2,"[""chinese"", ""north indian""]",0.225
+6945,2,"[""chinese"", ""north indian""]",0.225
+6946,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6952,2,"[""chinese"", ""north indian""]",0.225
+6958,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6960,2,"[""fast food"", ""north indian""]",0.225
+6964,1,"[""north indian""]",0.225
+6974,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6979,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6981,2,"[""fast food"", ""north indian""]",0.225
+6985,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+6988,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6989,2,"[""fast food"", ""north indian""]",0.225
+6990,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6993,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+6997,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7006,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7014,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7018,2,"[""chinese"", ""north indian""]",0.225
+7019,2,"[""fast food"", ""north indian""]",0.225
+7025,2,"[""chinese"", ""north indian""]",0.225
+7026,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7032,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7034,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7037,2,"[""chinese"", ""north indian""]",0.225
+7038,2,"[""chinese"", ""north indian""]",0.225
+7039,2,"[""fast food"", ""north indian""]",0.225
+7041,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7050,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7051,2,"[""chinese"", ""north indian""]",0.225
+7052,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7054,2,"[""chinese"", ""north indian""]",0.225
+7071,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+7078,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7080,4,"[""chinese"", ""fast food"", ""mughlai"", ""north indian""]",0.225
+7090,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+7092,2,"[""fast food"", ""north indian""]",0.225
+7098,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7107,2,"[""fast food"", ""north indian""]",0.225
+7111,2,"[""fast food"", ""north indian""]",0.225
+7113,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7115,2,"[""chinese"", ""north indian""]",0.225
+7121,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+7123,2,"[""fast food"", ""north indian""]",0.225
+7124,2,"[""fast food"", ""north indian""]",0.225
+7126,2,"[""chinese"", ""north indian""]",0.225
+7128,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7132,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+7133,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+7134,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7139,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7146,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7147,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7150,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7155,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7156,1,"[""north indian""]",0.225
+7160,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7164,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7166,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7170,2,"[""chinese"", ""north indian""]",0.225
+7171,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7173,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7182,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+7183,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7189,2,"[""chinese"", ""north indian""]",0.225
+7195,4,"[""chinese"", ""fast food"", ""mughlai"", ""north indian""]",0.225
+7196,2,"[""chinese"", ""north indian""]",0.225
+7199,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7201,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7221,1,"[""north indian""]",0.225
+7222,2,"[""chinese"", ""north indian""]",0.225
+7223,2,"[""chinese"", ""north indian""]",0.225
+7225,2,"[""chinese"", ""north indian""]",0.225
+7227,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7230,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7232,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+7239,2,"[""fast food"", ""north indian""]",0.225
+7241,2,"[""chinese"", ""north indian""]",0.225
+7248,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7250,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7252,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7275,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7296,6,"[""chinese"", ""continental"", ""finger food"", ""italian"", ""mughlai"", ""north indian""]",0.225
+7303,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7314,4,"[""chinese"", ""fast food"", ""mughlai"", ""north indian""]",0.225
+7320,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7321,2,"[""fast food"", ""north indian""]",0.225
+7327,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7335,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7336,2,"[""fast food"", ""north indian""]",0.225
+7342,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7343,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7345,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7348,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7356,4,"[""chinese"", ""finger food"", ""mughlai"", ""north indian""]",0.225
+7366,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7369,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7387,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7394,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7396,2,"[""chinese"", ""north indian""]",0.225
+7399,2,"[""chinese"", ""north indian""]",0.225
+7401,3,"[""mithai"", ""north indian"", ""street food""]",0.225
+7406,2,"[""north indian"", ""street food""]",0.225
+7409,2,"[""chinese"", ""north indian""]",0.225
+7411,1,"[""north indian""]",0.225
+7418,3,"[""mithai"", ""north indian"", ""street food""]",0.225
+7426,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7428,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7447,2,"[""fast food"", ""north indian""]",0.225
+7466,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7468,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7469,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+7475,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+7476,2,"[""chinese"", ""north indian""]",0.225
+7478,2,"[""chinese"", ""north indian""]",0.225
+7479,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+7492,5,"[""chinese"", ""continental"", ""finger food"", ""mughlai"", ""north indian""]",0.225
+7500,3,"[""chinese"", ""italian"", ""north indian""]",0.225
+7503,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7509,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+7516,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+7517,5,"[""chinese"", ""continental"", ""finger food"", ""italian"", ""north indian""]",0.225
+7518,6,"[""chinese"", ""continental"", ""finger food"", ""italian"", ""mughlai"", ""north indian""]",0.225
+7523,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+7528,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+7533,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+7535,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+7540,7,"[""asian"", ""chinese"", ""continental"", ""european"", ""italian"", ""mughlai"", ""north indian""]",0.225
+7542,6,"[""chinese"", ""continental"", ""finger food"", ""italian"", ""mughlai"", ""north indian""]",0.225
+7545,6,"[""chinese"", ""continental"", ""finger food"", ""italian"", ""mughlai"", ""north indian""]",0.225
+7552,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+7555,2,"[""fast food"", ""north indian""]",0.225
+7560,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7567,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7570,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+7579,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7582,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7585,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7586,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7587,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7607,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+7615,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7625,2,"[""chinese"", ""north indian""]",0.225
+7630,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7638,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+7650,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7652,2,"[""fast food"", ""north indian""]",0.225
+7654,2,"[""fast food"", ""north indian""]",0.225
+7660,2,"[""chinese"", ""north indian""]",0.225
+7666,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+7667,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7675,2,"[""fast food"", ""north indian""]",0.225
+7682,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7683,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+7688,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7689,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7692,4,"[""chinese"", ""italian"", ""mughlai"", ""north indian""]",0.225
+7695,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+7702,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7709,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7710,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+7711,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7724,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+7730,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7737,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7738,2,"[""chinese"", ""north indian""]",0.225
+7743,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7754,2,"[""chinese"", ""north indian""]",0.225
+7756,2,"[""fast food"", ""north indian""]",0.225
+7769,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7773,2,"[""chinese"", ""north indian""]",0.225
+7777,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7779,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7780,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7781,2,"[""chinese"", ""north indian""]",0.225
+7790,2,"[""fast food"", ""north indian""]",0.225
+7792,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7793,1,"[""north indian""]",0.225
+7806,1,"[""north indian""]",0.225
+7808,3,"[""mithai"", ""north indian"", ""street food""]",0.225
+7811,2,"[""fast food"", ""north indian""]",0.225
+7813,2,"[""chinese"", ""north indian""]",0.225
+7814,2,"[""chinese"", ""north indian""]",0.225
+7815,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7819,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7826,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7832,2,"[""chinese"", ""north indian""]",0.225
+7836,2,"[""chinese"", ""north indian""]",0.225
+7837,2,"[""chinese"", ""north indian""]",0.225
+7839,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7840,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7842,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7846,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7850,2,"[""fast food"", ""north indian""]",0.225
+7852,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7858,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7864,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7867,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7872,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7876,2,"[""fast food"", ""north indian""]",0.225
+7887,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+7889,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7890,2,"[""chinese"", ""north indian""]",0.225
+7892,2,"[""chinese"", ""north indian""]",0.225
+7899,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7905,2,"[""fast food"", ""north indian""]",0.225
+7910,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+7924,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7948,1,"[""north indian""]",0.225
+7952,2,"[""chinese"", ""north indian""]",0.225
+7955,1,"[""north indian""]",0.225
+7962,2,"[""chinese"", ""north indian""]",0.225
+7966,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7968,2,"[""fast food"", ""north indian""]",0.225
+7977,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7979,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7980,2,"[""chinese"", ""north indian""]",0.225
+7982,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7989,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+7992,2,"[""chinese"", ""north indian""]",0.225
+7996,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+7998,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8003,2,"[""chinese"", ""north indian""]",0.225
+8011,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8016,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8019,2,"[""chinese"", ""north indian""]",0.225
+8023,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8025,2,"[""chinese"", ""north indian""]",0.225
+8026,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8028,2,"[""chinese"", ""north indian""]",0.225
+8031,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8041,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8047,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+8056,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8062,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+8077,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+8082,2,"[""chinese"", ""north indian""]",0.225
+8087,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+8096,2,"[""chinese"", ""north indian""]",0.225
+8097,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+8105,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8107,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8114,2,"[""chinese"", ""north indian""]",0.225
+8119,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8120,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+8127,2,"[""fast food"", ""north indian""]",0.225
+8128,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8130,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8132,2,"[""chinese"", ""north indian""]",0.225
+8135,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8138,1,"[""north indian""]",0.225
+8139,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8151,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8153,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8159,2,"[""chinese"", ""north indian""]",0.225
+8160,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+8164,4,"[""chinese"", ""continental"", ""mughlai"", ""north indian""]",0.225
+8167,2,"[""chinese"", ""north indian""]",0.225
+8171,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8173,2,"[""chinese"", ""north indian""]",0.225
+8178,2,"[""chinese"", ""north indian""]",0.225
+8181,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8182,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8191,1,"[""north indian""]",0.225
+8192,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8197,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+8199,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8209,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+8210,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+8217,2,"[""chinese"", ""north indian""]",0.225
+8237,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8238,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8240,2,"[""fast food"", ""north indian""]",0.225
+8241,2,"[""chinese"", ""north indian""]",0.225
+8245,2,"[""chinese"", ""north indian""]",0.225
+8249,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8256,4,"[""chinese"", ""fast food"", ""mughlai"", ""north indian""]",0.225
+8258,2,"[""chinese"", ""north indian""]",0.225
+8259,2,"[""chinese"", ""north indian""]",0.225
+8267,1,"[""north indian""]",0.225
+8293,2,"[""chinese"", ""north indian""]",0.225
+8302,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8311,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8312,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8314,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8320,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8327,2,"[""chinese"", ""north indian""]",0.225
+8328,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8331,2,"[""chinese"", ""north indian""]",0.225
+8344,2,"[""chinese"", ""north indian""]",0.225
+8347,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8349,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8350,2,"[""chinese"", ""north indian""]",0.225
+8353,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+8355,2,"[""fast food"", ""north indian""]",0.225
+8359,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8361,2,"[""chinese"", ""north indian""]",0.225
+8363,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8365,2,"[""chinese"", ""north indian""]",0.225
+8370,2,"[""chinese"", ""north indian""]",0.225
+8384,2,"[""chinese"", ""north indian""]",0.225
+8389,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8396,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+8400,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8408,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8427,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+8428,2,"[""chinese"", ""north indian""]",0.225
+8429,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8434,6,"[""american"", ""chinese"", ""fast food"", ""italian"", ""mughlai"", ""north indian""]",0.225
+8436,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8437,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8443,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8449,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8454,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8458,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+8459,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+8478,2,"[""chinese"", ""north indian""]",0.225
+8481,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8484,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8486,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8491,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8494,2,"[""chinese"", ""north indian""]",0.225
+8498,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8519,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8527,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8528,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8529,2,"[""chinese"", ""north indian""]",0.225
+8544,2,"[""chinese"", ""north indian""]",0.225
+8547,2,"[""fast food"", ""north indian""]",0.225
+8552,2,"[""chinese"", ""north indian""]",0.225
+8558,2,"[""chinese"", ""north indian""]",0.225
+8561,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8564,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8570,2,"[""chinese"", ""north indian""]",0.225
+8572,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8573,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8579,2,"[""fast food"", ""north indian""]",0.225
+8580,2,"[""chinese"", ""north indian""]",0.225
+8581,2,"[""chinese"", ""north indian""]",0.225
+8586,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8594,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8597,2,"[""chinese"", ""north indian""]",0.225
+8603,3,"[""fast food"", ""north indian"", ""street food""]",0.225
+8604,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8620,4,"[""chinese"", ""fast food"", ""mughlai"", ""north indian""]",0.225
+8623,2,"[""chinese"", ""north indian""]",0.225
+8626,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8632,2,"[""chinese"", ""north indian""]",0.225
+8645,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8646,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8648,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8656,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8658,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8659,2,"[""chinese"", ""north indian""]",0.225
+8660,2,"[""chinese"", ""north indian""]",0.225
+8665,2,"[""chinese"", ""north indian""]",0.225
+8676,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8693,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8700,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8711,2,"[""chinese"", ""north indian""]",0.225
+8712,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8724,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8731,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8732,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8734,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8737,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8748,2,"[""chinese"", ""north indian""]",0.225
+8751,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8752,4,"[""chinese"", ""fast food"", ""mughlai"", ""north indian""]",0.225
+8755,4,"[""chinese"", ""fast food"", ""mughlai"", ""north indian""]",0.225
+8764,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8766,2,"[""chinese"", ""north indian""]",0.225
+8773,2,"[""chinese"", ""north indian""]",0.225
+8777,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8779,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8781,1,"[""north indian""]",0.225
+8796,2,"[""chinese"", ""north indian""]",0.225
+8797,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8803,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+8805,2,"[""chinese"", ""north indian""]",0.225
+8808,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8810,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8811,2,"[""fast food"", ""north indian""]",0.225
+8812,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8817,2,"[""chinese"", ""north indian""]",0.225
+8829,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8837,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8846,2,"[""chinese"", ""north indian""]",0.225
+8850,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8853,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8856,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8861,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8865,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8869,2,"[""chinese"", ""north indian""]",0.225
+8870,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8882,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8885,2,"[""chinese"", ""north indian""]",0.225
+8886,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8887,2,"[""chinese"", ""north indian""]",0.225
+8893,4,"[""chinese"", ""fast food"", ""mughlai"", ""north indian""]",0.225
+8901,2,"[""chinese"", ""north indian""]",0.225
+8908,2,"[""chinese"", ""north indian""]",0.225
+8909,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+8910,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8911,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8912,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8913,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+8921,4,"[""chinese"", ""fast food"", ""mughlai"", ""north indian""]",0.225
+8928,2,"[""chinese"", ""north indian""]",0.225
+8933,2,"[""chinese"", ""north indian""]",0.225
+8940,2,"[""chinese"", ""north indian""]",0.225
+8942,4,"[""chinese"", ""fast food"", ""mughlai"", ""north indian""]",0.225
+8956,4,"[""chinese"", ""fast food"", ""mughlai"", ""north indian""]",0.225
+8959,2,"[""chinese"", ""north indian""]",0.225
+8967,2,"[""chinese"", ""north indian""]",0.225
+8968,2,"[""chinese"", ""north indian""]",0.225
+8970,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8973,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+8993,3,"[""chinese"", ""mughlai"", ""north indian""]",0.225
+8998,2,"[""chinese"", ""north indian""]",0.225
+9003,2,"[""chinese"", ""north indian""]",0.225
+9005,2,"[""chinese"", ""north indian""]",0.225
+9009,2,"[""fast food"", ""north indian""]",0.225
+9013,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+9015,2,"[""fast food"", ""north indian""]",0.225
+9016,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+9019,2,"[""chinese"", ""north indian""]",0.225
+9021,2,"[""chinese"", ""north indian""]",0.225
+9025,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+9028,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+9029,2,"[""chinese"", ""north indian""]",0.225
+9030,2,"[""chinese"", ""north indian""]",0.225
+9043,4,"[""chinese"", ""fast food"", ""italian"", ""north indian""]",0.225
+9052,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+9053,2,"[""chinese"", ""north indian""]",0.225
+9055,5,"[""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+9064,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+9070,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+9073,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+9077,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+9078,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+9079,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+9080,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+9081,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+9096,7,"[""american"", ""chinese"", ""continental"", ""italian"", ""mughlai"", ""north indian"", ""thai""]",0.225
+9097,2,"[""chinese"", ""north indian""]",0.225
+9100,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+9103,2,"[""chinese"", ""north indian""]",0.225
+9108,4,"[""chinese"", ""fast food"", ""mughlai"", ""north indian""]",0.225
+9109,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+9114,2,"[""chinese"", ""north indian""]",0.225
+9115,4,"[""chinese"", ""fast food"", ""north indian"", ""south indian""]",0.225
+9117,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+9118,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+9124,2,"[""chinese"", ""north indian""]",0.225
+9137,3,"[""continental"", ""italian"", ""north indian""]",0.225
+9146,0,[],0.225
+9153,2,"[""bakery"", ""desserts""]",0.225
+9155,3,"[""continental"", ""italian"", ""north indian""]",0.225
+9156,4,"[""continental"", ""italian"", ""mughlai"", ""north indian""]",0.225
+9158,2,"[""continental"", ""north indian""]",0.225
+9160,4,"[""continental"", ""european"", ""italian"", ""north indian""]",0.225
+9163,2,"[""desserts"", ""north indian""]",0.225
+9165,3,"[""continental"", ""italian"", ""north indian""]",0.225
+9171,7,"[""american"", ""chinese"", ""continental"", ""european"", ""italian"", ""mughlai"", ""north indian""]",0.225
+9173,2,"[""continental"", ""north indian""]",0.225
+9176,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+9181,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+9188,3,"[""chinese"", ""north indian"", ""south indian""]",0.225
+9190,3,"[""chinese"", ""continental"", ""north indian""]",0.225
+9192,3,"[""chinese"", ""north indian"", ""south indian""]",0.225
+9200,4,"[""chinese"", ""italian"", ""mexican"", ""north indian""]",0.225
+9217,3,"[""chinese"", ""italian"", ""north indian""]",0.225
+9222,4,"[""chinese"", ""continental"", ""italian"", ""north indian""]",0.225
+9225,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+9232,3,"[""cafe"", ""italian"", ""north indian""]",0.225
+9235,3,"[""chinese"", ""italian"", ""north indian""]",0.225
+9238,3,"[""cafe"", ""chinese"", ""north indian""]",0.225
+9247,2,"[""chinese"", ""north indian""]",0.225
+9248,2,"[""chinese"", ""north indian""]",0.225
+9256,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+9273,3,"[""chinese"", ""fast food"", ""north indian""]",0.225
+9280,2,"[""cafe"", ""western""]",0.225
+9282,2,"[""cafe"", ""western""]",0.225
+9290,1,"[""western""]",0.225
+9291,3,"[""cafe"", ""indonesian"", ""western""]",0.225
+9299,1,"[""cafe""]",0.225
+9300,1,"[""cafe""]",0.225
+9306,1,"[""kiwi""]",0.225
+9309,1,"[""cafe""]",0.225
+9316,2,"[""cafe"", ""european""]",0.225
+9320,3,"[""cafe"", ""european"", ""kiwi""]",0.225
+9325,1,"[""cafe""]",0.225
+9328,3,"[""cafe"", ""european"", ""kiwi""]",0.225
+9331,3,"[""cafe"", ""european"", ""kiwi""]",0.225
+9334,3,"[""cafe"", ""european"", ""kiwi""]",0.225
+9338,1,"[""ice cream""]",0.225
+9342,0,[],0.225
+9343,0,[],0.225
+9352,0,[],0.225
+9360,1,"[""cafe""]",0.225
+9366,0,[],0.225
+9372,1,"[""cafe""]",0.225
+9380,2,"[""american"", ""burger""]",0.225
+9381,0,[],0.225
+9382,4,"[""american"", ""british"", ""indian"", ""italian""]",0.225
+9383,1,"[""american""]",0.225
+9384,2,"[""american"", ""italian""]",0.225
+9391,4,"[""american"", ""british"", ""indian"", ""italian""]",0.225
+9397,1,"[""indian""]",0.225
+9404,0,[],0.225
+9406,1,"[""indian""]",0.225
+9414,0,[],0.225
+9424,1,"[""indian""]",0.225
+9427,1,"[""indian""]",0.225
+9432,1,"[""indian""]",0.225
+9438,2,"[""grill"", ""sushi""]",0.225
+9443,0,[],0.225
+9450,5,"[""asian"", ""grill"", ""japanese"", ""seafood"", ""sushi""]",0.225
+9451,1,"[""cafe""]",0.225
+9457,2,"[""cafe"", ""seafood""]",0.225
+9460,2,"[""american"", ""burger""]",0.225
+9465,4,"[""burger"", ""cafe"", ""european"", ""grill""]",0.225
+9471,2,"[""burger"", ""grill""]",0.225
+9476,1,"[""burger""]",0.225
+9479,2,"[""burger"", ""grill""]",0.225
+9480,2,"[""burger"", ""desserts""]",0.225
+9485,1,"[""burger""]",0.225
+9490,0,[],0.225
+9491,1,"[""italian""]",0.225
+9503,1,"[""cafe""]",0.225
+9510,1,"[""desserts""]",0.225
+9532,1,"[""kebab""]",0.225
+9535,1,"[""kebab""]",0.225
+9538,2,"[""cafe"", ""desserts""]",0.225
+9541,1,"[""cafe""]",0.225
+9548,1,"[""restaurant cafe""]",0.225

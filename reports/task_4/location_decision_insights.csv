@@ -1,0 +1,5 @@
+Category,Location,Score,Reason
+Top City Recommendation,Orlando,78.659,Highest composite recommendation score among eligible cities using sample-size-adjusted ratings.
+Top Locality Recommendation,"Connaught Place, New Delhi",91.364,Highest composite recommendation score among eligible localities using sample-size-adjusted ratings.
+Highest City Rating Coverage,Orlando,100.0,Highest rating coverage among eligible cities with at least 80 percent coverage.
+Highly Recommended Locality,"Connaught Place, New Delhi",91.364,Highest-ranked locality within the highly recommended tier.

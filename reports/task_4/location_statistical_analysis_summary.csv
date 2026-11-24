@@ -1,0 +1,16 @@
+Metric,Value
+Total Restaurants,9551
+Rated Restaurants,7403
+Eligible Cities,82
+Eligible Localities,176
+Eligible Price Groups,4
+City Groups in Kruskal-Wallis Test,10
+Locality Groups in Kruskal-Wallis Test,30
+Price Groups in Kruskal-Wallis Test,4
+Budget Restaurant Sample Size,2744
+Premium Restaurant Sample Size,575
+Cuisine Correlation Sample Size,82
+Coverage Correlation Sample Size,141
+Votes Correlation Sample Size,7403
+Completed Statistical Tests,7
+Significant Statistical Tests,6

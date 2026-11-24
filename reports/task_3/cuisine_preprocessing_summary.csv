@@ -1,0 +1,16 @@
+Metric,Value
+Original Dataset Records,9551.0
+Missing Cuisine Records,9.0
+Records Without Usable Labels,0.0
+Records Used for Classification,9542.0
+Total Cuisine Classes,145.0
+Common Cuisine Classes,82.0
+Rare Cuisine Classes,63.0
+Training Records,7621.0
+Testing Records,1921.0
+Training Percentage,79.87
+Testing Percentage,20.13
+Training Labels Present,145.0
+Testing Labels Present,115.0
+Labels Missing From Training,0.0
+Labels Missing From Testing,30.0

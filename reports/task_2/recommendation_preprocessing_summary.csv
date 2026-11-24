@@ -1,0 +1,11 @@
+Metric,Value
+Original Records,9551
+Final Records,9551
+Records Removed,0
+Missing Cuisines Before,9
+Missing Cuisines After,0
+Unrated Restaurants,2148
+Missing Ratings After Conversion,2148
+Unique Individual Cuisines,146
+Unique Cities,141
+Duplicate Restaurant IDs,0

@@ -1,0 +1,22 @@
+Metric,Value
+Testing Records,1921
+Total Cuisine Classes,145
+Classes Represented in Test,115
+Classes Absent from Test,30
+Baseline Model,Program 04 selected model
+Tuned Model,Program 05 tuned Logistic Regression
+Selected Threshold,0.225
+Baseline Micro F1,0.1544519798731131
+Tuned Micro F1,0.41236435383097664
+Baseline Micro Precision,0.5585443037974683
+Tuned Micro Precision,0.3628472222222222
+Baseline Micro Recall,0.08961665397308961
+Tuned Micro Recall,0.4775323686214775
+Baseline Macro F1 - Test Supported,0.013227761890473345
+Tuned Macro F1 - Test Supported,0.08905648917794416
+Baseline Hamming Loss,0.013875675384587768
+Tuned Hamming Loss,0.019246441329049166
+Tuned True Positives,1881
+Tuned False Positives,3303
+Tuned False Negatives,2058
+Tuned True Negatives,271303

@@ -1,0 +1,61 @@
+DINESCOPE - RESTAURANT INTELLIGENCE & ANALYTICS
+TASK 03: CUISINE CLASSIFICATION
+FINAL VISUALIZATION AND REPORTING
+======================================================================
+
+1. DATASET AND CLASS INFORMATION
+Test restaurants: 1921
+Total cuisine classes: 145
+Classes represented in test: 115
+Classes absent from test: 30
+Rare represented classes: 80
+
+2. BASELINE MODEL PERFORMANCE
+Micro Precision: 0.5585
+Micro Recall: 0.0896
+Micro F1: 0.1545
+Macro F1 - All Classes: 0.0105
+Macro F1 - Test-Supported: 0.0132
+Weighted F1: 0.1211
+Subset Accuracy: 0.0156
+Hamming Loss: 0.0139
+
+3. TUNED MODEL PERFORMANCE
+Micro Precision: 0.3628
+Micro Recall: 0.4775
+Micro F1: 0.4124
+Macro F1 - All Classes: 0.0706
+Macro F1 - Test-Supported: 0.0891
+Weighted F1: 0.3177
+Subset Accuracy: 0.0432
+Hamming Loss: 0.0192
+
+4. MODEL COMPARISON
+Micro F1 relative change: 166.99%
+Selected threshold: 0.225
+Baseline predicted labels: 632
+Tuned predicted labels: 5184
+
+5. PREDICTION PIPELINE
+Restaurants with predictions: 1877
+Restaurants without predictions: 44
+Average predicted cuisines per restaurant: 2.6986
+Program 06 and Program 07 prediction agreement: 100%
+
+6. INTERPRETATION AND LIMITATIONS
+- The task is a multi-label cuisine classification problem.
+- A restaurant can be associated with multiple cuisine labels.
+- The tuned model improves recall and overall Micro F1 compared with the baseline.
+- The tuned model also produces more false-positive predictions.
+- The selected threshold controls the precision-recall trade-off.
+- Some cuisine classes have very limited test support.
+- Classes absent from the test set cannot be meaningfully evaluated on this test split.
+- Rare-class metrics should be interpreted cautiously.
+- Probability values are model estimates and have not been established as calibrated probabilities.
+- These results describe the held-out test set, not independent external validation.
+
+7. FINAL STATUS
+Program 08 visualization and reporting completed.
+Program 06 and Program 07 consistency: PASS
+
+======================================================================

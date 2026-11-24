@@ -1,0 +1,10 @@
+Metric,Value
+Total Restaurants,9551
+Rated Restaurants,7403
+Unrated Restaurants,2148
+Unique Cities,141
+Unique Cuisine Labels,146
+Missing Cuisine Values,9
+Duplicate Records,0
+Total Missing Values,9
+Rated Restaurants with Zero Votes,0

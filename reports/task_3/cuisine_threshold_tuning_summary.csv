@@ -1,0 +1,16 @@
+Metric,Value
+Original Training Records,7621
+Sub-training Records,6097
+Validation Records,1524
+Cuisine Classes,145
+Model,Logistic Regression
+Classification Strategy,OneVsRestClassifier
+Threshold Search Range,0.05 to 0.50
+Threshold Search Step,0.025
+Selected Threshold,0.225
+Validation Micro Precision,0.36032093362509116
+Validation Micro Recall,0.4762210796915167
+Validation Micro F1,0.41024221453287196
+Validation Macro F1,0.057003428201520365
+Validation Hamming Loss,0.019282287989863336
+Final Model Training Records,7621

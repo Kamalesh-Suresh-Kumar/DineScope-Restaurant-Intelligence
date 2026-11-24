@@ -1,0 +1,16 @@
+Cuisine,Training Support,Testing Support,Baseline Predicted Support,Tuned Predicted Support,True Positive,False Positive,False Negative,True Negative,Baseline F1,Tuned Precision,Tuned Recall,Tuned F1,Tuned Specificity,Test Support Available
+fusion,3,1,0,0,0,0,1,1920,0.0,0.0,0.0,0.0,1.0,True
+iranian,2,1,0,0,0,0,1,1920,0.0,0.0,0.0,0.0,1.0,True
+kiwi,5,1,0,5,0,5,1,1915,0.0,0.0,0.0,0.0,0.9973958333333334,True
+moroccan,4,1,0,0,0,0,1,1920,0.0,0.0,0.0,0.0,1.0,True
+mangalorean,3,1,0,0,0,0,1,1920,0.0,0.0,0.0,0.0,1.0,True
+restaurant cafe,3,1,0,1,0,1,1,1919,0.0,0.0,0.0,0.0,0.9994791666666667,True
+patisserie,3,1,0,0,0,0,1,1920,0.0,0.0,0.0,0.0,1.0,True
+southwestern,6,1,0,0,0,0,1,1920,0.0,0.0,0.0,0.0,1.0,True
+scottish,2,1,0,0,0,0,1,1920,0.0,0.0,0.0,0.0,1.0,True
+singaporean,3,1,0,0,0,0,1,1920,0.0,0.0,0.0,0.0,1.0,True
+south african,5,1,0,0,0,0,1,1920,0.0,0.0,0.0,0.0,1.0,True
+portuguese,6,1,0,0,0,0,1,1920,0.0,0.0,0.0,0.0,1.0,True
+sunda,2,1,0,0,0,0,1,1920,0.0,0.0,0.0,0.0,1.0,True
+sri lankan,4,1,0,0,0,0,1,1920,0.0,0.0,0.0,0.0,1.0,True
+world cuisine,3,1,0,0,0,0,1,1920,0.0,0.0,0.0,0.0,1.0,True

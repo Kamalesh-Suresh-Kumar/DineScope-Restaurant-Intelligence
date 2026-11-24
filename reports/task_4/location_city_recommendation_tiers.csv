@@ -1,0 +1,4 @@
+Recommendation_Tier,Location_Count,Average_Recommendation_Score,Average_Original_Rating,Average_Adjusted_Rating,Total_Restaurants
+Lower Priority,22,33.3980044345898,3.6708152417467512,3.5164792630492347,662
+Moderately Recommended,35,49.29616724738676,3.9624307724691756,3.6370649322601043,8306
+Recommended,25,67.59512195121951,4.26528253968254,3.770271441413523,501

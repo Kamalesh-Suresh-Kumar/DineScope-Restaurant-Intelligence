@@ -1,0 +1,14 @@
+Metric,Value
+Input Records,1921
+Selected Input Features,13
+Categorical Features,7
+Numerical Features,6
+Engineered Features,170
+Cuisine Classes,145
+Prediction Threshold,0.225
+Total Predicted Cuisine Labels,5184
+Restaurants With Predictions,1877
+Restaurants Without Predictions,44
+Average Predicted Cuisines Per Restaurant,2.698594482040604
+Prediction Agreement With Program 06,PASS
+Prediction Agreement Percentage,100.0

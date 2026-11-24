@@ -1,0 +1,255 @@
+Feature,Importance
+numerical__Votes,0.5224036251737816
+numerical__Longitude,0.15869626321261462
+numerical__Latitude,0.13644063250998772
+categorical__Country Code_1,0.039786109947288074
+numerical__Price range,0.023907783369076837
+categorical__Cuisines_infrequent_sklearn,0.010243278247481
+"categorical__Cuisines_North Indian, Chinese",0.007871440714113767
+categorical__Country Code_30,0.007133684172888077
+categorical__Has Online delivery_Yes,0.006335974412056387
+categorical__Has Online delivery_No,0.006055196439235536
+"categorical__Cuisines_Pizza, Fast Food",0.0048970833238516686
+"categorical__Cuisines_American, Fast Food, Salad, Healthy Food",0.0043457982568229836
+"categorical__Cuisines_North Indian, Mughlai, Chinese",0.0034543587535380417
+"categorical__Cuisines_North Indian, Mughlai",0.0034278657646186965
+categorical__Cuisines_North Indian,0.0033068152752774335
+categorical__Has Table booking_No,0.002684761877906649
+categorical__Has Table booking_Yes,0.0026289443589675057
+categorical__Cuisines_Chinese,0.002180238956851124
+categorical__Cuisines_Cafe,0.0019505388544448865
+"categorical__Cuisines_Italian, Pizza, Bakery",0.001914452178930435
+"categorical__Cuisines_Italian, Pizza, Fast Food",0.0018445457636290803
+"categorical__Cuisines_North Indian, Chinese, Mughlai",0.0018164177613017932
+"categorical__Cuisines_South Indian, North Indian, Chinese",0.0017338230732584891
+categorical__City_Rio de Janeiro,0.0017198199232384714
+"categorical__Cuisines_Chinese, Fast Food",0.001717927702824155
+"categorical__Cuisines_Biryani, North Indian",0.0017052672896717806
+categorical__City_New Delhi,0.0016031292234114066
+"categorical__Cuisines_Bakery, Desserts",0.0015125469411516928
+categorical__Cuisines_Ice Cream,0.0013788069806007573
+"categorical__Cuisines_North Indian, Chinese, Italian, Continental",0.0011939727104742105
+categorical__Cuisines_Fast Food,0.0011702150313564203
+categorical__City_Noida,0.0010794297157904833
+categorical__City_Puducherry,0.0009714744739987346
+"categorical__Cuisines_Chinese, North Indian",0.0009480888298434827
+categorical__Cuisines_Street Food,0.0009428538353648327
+"categorical__Cuisines_Bakery, Fast Food",0.0007644033760188906
+"categorical__Cuisines_North Indian, Chinese, Continental",0.0007553642522096678
+categorical__Cuisines_South Indian,0.0007347128536159999
+"categorical__Cuisines_North Indian, Chinese, Fast Food",0.0007131556833470986
+categorical__Cuisines_Bakery,0.0006561044614510712
+categorical__City_Gurgaon,0.00059682403719323
+categorical__City_Ankara,0.0005935050252843419
+categorical__Country Code_14,0.0005689546905593492
+"categorical__Cuisines_American, Fast Food, Burger",0.0005584017242852179
+"categorical__Cuisines_North Indian, South Indian, Chinese",0.0005370218181771813
+categorical__City_infrequent_sklearn,0.0005253557022537485
+categorical__City_Ghaziabad,0.0005050735338407602
+"categorical__Cuisines_Continental, Healthy Food",0.0004904948309556739
+categorical__Country Code_216,0.000470524538763418
+categorical__City_Guwahati,0.0004410499791735253
+"categorical__Cuisines_Ice Cream, Desserts",0.0004220911950214339
+categorical__Country Code_208,0.000416193912006812
+categorical__Country Code_215,0.00039983479703881316
+categorical__City_Sharjah,0.00038587692297501164
+categorical__Cuisines_Finger Food,0.00038148882299308886
+"categorical__Cuisines_Mithai, Street Food",0.00035864009850794314
+categorical__City_Aurangabad,0.00035822299221314346
+categorical__City_Nashik,0.0003533840677373705
+"categorical__Cuisines_Fast Food, Burger",0.00035093977033571545
+categorical__Cuisines_Modern Indian,0.0003504797239547503
+"categorical__Cuisines_Cafe, Tea",0.00034738541857720813
+categorical__City_Mangalore,0.00033224073866524516
+categorical__City_Nagpur,0.00031774459586250616
+categorical__City_Vizag,0.0003105479340353052
+categorical__City_Savannah,0.00030428688183269873
+"categorical__Cuisines_North Indian, South Indian, Chinese, Fast Food",0.0002989248443181947
+"categorical__Cuisines_Fast Food, Beverages",0.00029666972679984687
+categorical__City_Gainesville,0.00027775105076537873
+categorical__City_Dalton,0.0002731377449423817
+categorical__City_Mysore,0.00027248446707824785
+categorical__Cuisines_Beverages,0.00027218754694772465
+categorical__City_Faridabad,0.0002715696860547619
+"categorical__Cuisines_Desserts, Ice Cream",0.00025249029845397835
+categorical__Cuisines_Mughlai,0.0002500716987126165
+categorical__Cuisines_Pizza,0.0002469310045457222
+"categorical__Cuisines_Fast Food, Pizza",0.00024652497625473143
+categorical__City_London,0.00023640991208937303
+categorical__City_Dehradun,0.00023580129159551366
+"categorical__Cuisines_Bakery, Desserts, Fast Food",0.0002276865191353821
+"categorical__Cuisines_Mughlai, North Indian",0.0002246062270163929
+"categorical__Cuisines_Desserts, Beverages",0.00022326962979831951
+categorical__City_Davenport,0.0002221023451428034
+categorical__Cuisines_Desserts,0.00022204486406591676
+"categorical__Cuisines_North Indian, Fast Food",0.00021127601967038944
+categorical__Country Code_191,0.00020846955111383022
+categorical__City_Valdosta,0.00020810430920020607
+"categorical__Cuisines_Cafe, Continental, Italian",0.00020682780857531673
+categorical__City_Amritsar,0.00019980220930612715
+categorical__City_Pensacola,0.00019538316705100292
+"categorical__Cuisines_Italian, Pizza",0.00018453978787928677
+categorical__Country Code_189,0.00018427619223895854
+categorical__Country Code_148,0.00018390454130836224
+"categorical__Cuisines_South Indian, North Indian",0.0001816900026941025
+"categorical__Cuisines_South Indian, Chinese",0.00018053379561723228
+categorical__City_Bhubaneshwar,0.00017189184739412785
+"categorical__Cuisines_Chinese, North Indian, Mughlai",0.00016871395886575714
+categorical__Cuisines_Seafood,0.000168079298681248
+categorical__City_Hyderabad,0.00016591435171859793
+categorical__City_Agra,0.00016496143307950567
+categorical__City_Dubai,0.00016349481362963698
+categorical__City_Allahabad,0.0001576216459310707
+categorical__Cuisines_Mithai,0.00015545935677894465
+categorical__City_Goa,0.00015127232597177899
+categorical__City_Indore,0.00015100824171649545
+"categorical__Cuisines_Fast Food, Chinese",0.00014732850342050223
+categorical__Country Code_214,0.00013811243110001828
+categorical__City_Colombo,0.000133112247229593
+"categorical__Cuisines_Desserts, Fast Food",0.00013289967703244193
+categorical__Country Code_162,0.00013259029558556972
+categorical__City_Doha,0.00013171529813818455
+categorical__City_Abu Dhabi,0.00013143351671999915
+categorical__City_Chandigarh,0.00012907518212477068
+categorical__City_Jaipur,0.00012602543591098853
+categorical__Country Code_166,0.00012231890901815584
+categorical__Cuisines_Italian,0.00011838329271286846
+categorical__City_Mumbai,0.00011402617013466403
+"categorical__Cuisines_Chinese, Thai",0.00011182487014849975
+categorical__City_Lucknow,0.00010951007486475953
+categorical__City_Varanasi,0.0001082284834507446
+categorical__Cuisines_European,0.00010626116703502441
+categorical__City_Coimbatore,0.00010542038530716427
+categorical__City_Ahmedabad,0.00010355668518586038
+"categorical__Cuisines_American, Fast Food",0.00010140455387053356
+categorical__City_Bhopal,9.98181550022524e-05
+"categorical__Cuisines_Continental, North Indian",9.759171651164709e-05
+"categorical__Cuisines_Mughlai, North Indian, Chinese",9.504262757428993e-05
+"categorical__Cuisines_Burger, American, Fast Food",9.188122698652378e-05
+categorical__City_Sandton,8.978175843566925e-05
+categorical__City_Dubuque,8.697647000610419e-05
+categorical__City_Augusta,8.569675098146526e-05
+categorical__City_Vadodara,8.488149780027652e-05
+categorical__Cuisines_Indian,8.382973066473691e-05
+"categorical__Cuisines_North Indian, Continental, Chinese",8.27313171354662e-05
+categorical__Cuisines_American,8.217166252842086e-05
+categorical__City_Cape Town,7.892337276382239e-05
+categorical__City_Patna,7.864449686387882e-05
+categorical__City_Ranchi,7.791798215380042e-05
+categorical__City_São Paulo,7.553801572495746e-05
+"categorical__Cuisines_Street Food, North Indian",7.336488417779445e-05
+categorical__Cuisines_International,7.332235452366075e-05
+"categorical__Cuisines_Burger, Fast Food",7.294207065538601e-05
+"categorical__Cuisines_Continental, North Indian, Chinese",7.079863864947935e-05
+categorical__Cuisines_Biryani,7.074456114560952e-05
+categorical__City_Manchester,6.863843707791232e-05
+categorical__Country Code_94,6.85076759718897e-05
+categorical__City_Pretoria,6.806653440292586e-05
+categorical__Cuisines_French,6.643313706200727e-05
+categorical__City_Kanpur,6.423151353263444e-05
+categorical__Cuisines_Asian,6.349020175757975e-05
+"categorical__Cuisines_North Indian, Chinese, Continental, Italian",6.340457145187385e-05
+"categorical__Cuisines_North Indian, European, Mediterranean",6.20666934897512e-05
+"categorical__Cuisines_North Indian, South Indian",6.156194087510401e-05
+"categorical__Cuisines_Cafe, North Indian, Chinese",5.367771362840126e-05
+categorical__City_Macon,5.324211703862733e-05
+"categorical__Cuisines_Raw Meats, North Indian, Fast Food",5.304841824098533e-05
+categorical__City_Tampa Bay,5.227091740271066e-05
+categorical__City_Kolkata,5.183489378697794e-05
+categorical__City_Jakarta,4.798002840955689e-05
+categorical__Cuisines_Thai,4.7114903614180005e-05
+categorical__City_Surat,4.5990869770917424e-05
+categorical__City_Birmingham,4.580152241512909e-05
+"categorical__Cuisines_Fast Food, Street Food",4.480488130796922e-05
+categorical__City_Bangalore,4.1081849631414054e-05
+categorical__City_Ludhiana,4.0189499313140595e-05
+categorical__City_İstanbul,3.8610458229141024e-05
+"categorical__Cuisines_Continental, Italian",3.797621337709127e-05
+"categorical__Cuisines_Fast Food, North Indian",3.7259421773353226e-05
+categorical__City_Brasília,3.539852086892882e-05
+categorical__City_Athens,3.4577191920770926e-05
+categorical__City_Chennai,3.36518706666206e-05
+categorical__City_Columbus,3.345983358301446e-05
+categorical__City_Kochi,3.2981500310844106e-05
+"categorical__Cuisines_Raw Meats, Fast Food",3.214511458070966e-05
+categorical__City_Des Moines,3.208944491800719e-05
+categorical__Country Code_184,3.194701198022559e-05
+categorical__City_Edinburgh,3.101570110479415e-05
+categorical__City_Cedar Rapids/Iowa City,3.0797679241073316e-05
+categorical__City_Wellington City,3.055838627923132e-05
+"categorical__Cuisines_Desserts, Bakery",3.055721877749919e-05
+categorical__City_Singapore,2.8936818774862026e-05
+"categorical__Cuisines_American, Burger",2.8334539546007024e-05
+categorical__City_Albany,2.817905505568145e-05
+"categorical__Cuisines_Tibetan, Chinese",2.8108868296709137e-05
+categorical__City_Johannesburg,2.783953796186676e-05
+categorical__Cuisines_Continental,2.6822048614740663e-05
+"categorical__Cuisines_Japanese, Sushi",2.62625872020405e-05
+"categorical__Cuisines_North Indian, Biryani",2.6098044893300408e-05
+"categorical__Cuisines_North Indian, Chinese, South Indian",2.5674662308104182e-05
+categorical__City_Pune,2.4305181354991786e-05
+"categorical__Cuisines_North Indian, Mughlai, Chinese, Fast Food",2.3722098125911477e-05
+categorical__City_Pocatello,2.3560196672747933e-05
+categorical__City_Orlando,2.3107784547442038e-05
+categorical__City_Sioux City,2.2900710401745264e-05
+categorical__Cuisines_BBQ,2.098309643444516e-05
+"categorical__Cuisines_Pizza, Italian",1.8355799258714998e-05
+"categorical__Cuisines_Japanese, Steak, Sushi",1.7530749933577392e-05
+"categorical__Cuisines_Chinese, Thai, Asian",1.6637868364081183e-05
+"categorical__Cuisines_Biryani, Mughlai",1.58277473086077e-05
+"categorical__Cuisines_Cafe, Bakery, Desserts",1.566853965551315e-05
+"categorical__Cuisines_North Indian, Italian, Continental",1.5561042361014912e-05
+"categorical__Cuisines_North Indian, Fast Food, Chinese",1.51455094969104e-05
+"categorical__Cuisines_North Indian, South Indian, Chinese, Street Food, Fast Food, Mithai, Desserts",1.4049052988051215e-05
+categorical__Cuisines_Japanese,1.3140950666503643e-05
+"categorical__Cuisines_Fast Food, North Indian, Chinese",1.2622383606686574e-05
+"categorical__Cuisines_North Indian, Continental",1.2577379296987399e-05
+categorical__Cuisines_Steak,1.256115254447385e-05
+"categorical__Cuisines_North Indian, Italian, Chinese",1.1272842552408769e-05
+categorical__Cuisines_Mexican,1.0880508214337305e-05
+"categorical__Cuisines_Fast Food, Bakery",1.0359088898148085e-05
+"categorical__Cuisines_North Indian, Mughlai, Biryani",9.952311430618817e-06
+"categorical__Cuisines_Cafe, Italian, Continental",9.69678098827509e-06
+categorical__Cuisines_Healthy Food,9.465131614123342e-06
+"categorical__Cuisines_Cafe, Fast Food",9.340423961759409e-06
+"categorical__Cuisines_Cafe, Desserts",9.165859160026846e-06
+categorical__City_Rest of Hawaii,9.129427645247217e-06
+"categorical__Cuisines_Chinese, South Indian",9.123661828795337e-06
+"categorical__Cuisines_Healthy Food, Salad",8.8420930651606e-06
+"categorical__Cuisines_Burger, Desserts, Fast Food",8.204312582753487e-06
+categorical__City_Auckland,8.001906996434406e-06
+categorical__City_Boise,7.855448722627867e-06
+"categorical__Cuisines_Chinese, Mughlai, North Indian",7.691164521472868e-06
+categorical__Cuisines_Brazilian,5.790690968037555e-06
+"categorical__Cuisines_Mughlai, Biryani",5.4617476491094215e-06
+"categorical__Cuisines_Street Food, Mithai",4.865943528395401e-06
+"categorical__Cuisines_North Indian, Biryani, Chinese, Fast Food",4.7338833400069955e-06
+"categorical__Cuisines_North Indian, Continental, Asian",4.447852158915212e-06
+"categorical__Cuisines_Continental, American",4.22265427694057e-06
+"categorical__Cuisines_North Indian, Chinese, Italian",3.4849166169285086e-06
+"categorical__Cuisines_North Indian, South Indian, Fast Food, Street Food, Chinese, Beverages, Desserts, Mithai",3.3047516597843735e-06
+"categorical__Cuisines_Cafe, Bakery",3.003958428211833e-06
+"categorical__Cuisines_Beverages, Fast Food",2.8690697223921287e-06
+"categorical__Cuisines_Italian, Pizza, Sandwich",2.6712484542972854e-06
+categorical__City_Waterloo,2.480119743958834e-06
+categorical__Cuisines_Lebanese,2.09352492520445e-06
+categorical__Cuisines_Kashmiri,1.6304243672541544e-06
+"categorical__Cuisines_Cafe, Chinese",1.2636412098905109e-06
+"categorical__Cuisines_North Indian, Street Food",1.1053540078758138e-06
+"categorical__Cuisines_Cafe, Continental",1.0562007133407263e-06
+"categorical__Cuisines_North Indian, Continental, Italian",9.87540050927286e-07
+"categorical__Cuisines_Asian, Chinese",8.776207361812803e-07
+"categorical__Cuisines_Italian, Fast Food",4.798651097234133e-07
+"categorical__Cuisines_American, Seafood, Steak",2.6340735536917174e-08
+"categorical__Cuisines_Biryani, Hyderabadi",0.0
+categorical__Cuisines_Bengali,0.0
+categorical__Country Code_infrequent_sklearn,0.0
+"categorical__Cuisines_Continental, North Indian, Italian",0.0
+"categorical__Cuisines_Chinese, Asian, Thai",0.0
+"categorical__Cuisines_Chinese, Continental, North Indian",0.0
+"categorical__Cuisines_Cafe, European",0.0
+"categorical__Cuisines_Cafe, Italian",0.0
+"categorical__Cuisines_Continental, Chinese, North Indian",0.0
+"categorical__Cuisines_North Indian, Chinese, South Indian, Fast Food",0.0
+"categorical__Cuisines_North Indian, European",0.0
+"categorical__Cuisines_North Indian, South Indian, Fast Food",0.0

@@ -1,0 +1,16 @@
+Metric,Value
+Total Restaurant Records,9551.0
+Technically Valid Coordinate Records,9551.0
+Suspicious Zero Coordinate Records,497.0
+Usable Coordinate Records,9054.0
+Invalid Coordinate Records,0.0
+Unique Coordinate Pairs,8704.0
+Coordinate Pairs with Multiple Restaurants,228.0
+Unique Countries,15.0
+Unique Cities,141.0
+India Restaurant Records,8157.0
+DBSCAN Clusters,172.0
+Restaurants Assigned to Clusters,7463.0
+Restaurants Classified as Noise,1591.0
+DBSCAN Epsilon in Kilometers,0.5
+DBSCAN Minimum Samples,5.0

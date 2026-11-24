@@ -1,0 +1,25 @@
+Metric,Value
+Test Restaurants,1921
+Total Cuisine Classes,145
+Classes Represented in Test,115
+Classes Absent from Test,30
+Rare Classes in Test,80
+Prediction Threshold,0.225
+Baseline Micro F1,0.1544519798731131
+Tuned Micro F1,0.41236435383097664
+Baseline Macro F1 - All Classes,0.010490983568306448
+Tuned Macro F1 - All Classes,0.07063100865836952
+Baseline Macro F1 - Test-Supported,0.013227761890473345
+Tuned Macro F1 - Test-Supported,0.08905648917794416
+Baseline Weighted F1,0.12114184932549592
+Tuned Weighted F1,0.3176951885192161
+Baseline Subset Accuracy,0.015616866215512754
+Tuned Subset Accuracy,0.04320666319625195
+Baseline Hamming Loss,0.013875675384587768
+Tuned Hamming Loss,0.019246441329049166
+Baseline Predicted Labels,632
+Tuned Predicted Labels,5184
+Restaurants With Tuned Predictions,1877
+Restaurants Without Tuned Predictions,44
+Average Tuned Predictions Per Restaurant,2.698594482040604
+Program 06 and Program 07 Agreement,PASS

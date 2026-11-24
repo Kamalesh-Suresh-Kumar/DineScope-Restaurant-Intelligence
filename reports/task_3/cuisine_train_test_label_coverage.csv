@@ -1,0 +1,146 @@
+Cuisine,Total Records,Training Records,Testing Records,Training Coverage,Testing Coverage,Training Only,Testing Only
+afghani,14,11,3,True,True,False,False
+african,8,6,2,True,True,False,False
+american,390,312,78,True,True,False,False
+andhra,10,8,2,True,True,False,False
+arabian,28,22,6,True,True,False,False
+argentine,2,2,0,True,False,True,False
+armenian,3,2,1,True,True,False,False
+asian,233,186,47,True,True,False,False
+asian fusion,2,2,0,True,False,True,False
+assamese,4,3,1,True,True,False,False
+australian,5,4,1,True,True,False,False
+awadhi,11,9,2,True,True,False,False
+bakery,744,595,149,True,True,False,False
+bar food,39,31,8,True,True,False,False
+bbq,33,26,7,True,True,False,False
+belgian,2,2,0,True,False,True,False
+bengali,29,23,6,True,True,False,False
+beverages,228,182,46,True,True,False,False
+bihari,6,5,1,True,True,False,False
+biryani,177,142,35,True,True,False,False
+brazilian,28,22,6,True,True,False,False
+breakfast,41,33,8,True,True,False,False
+british,16,13,3,True,True,False,False
+bubble tea,1,1,0,True,False,True,False
+burger,251,201,50,True,True,False,False
+burmese,10,8,2,True,True,False,False
+börek,1,1,0,True,False,True,False
+cafe,703,562,141,True,True,False,False
+cajun,10,8,2,True,True,False,False
+canadian,1,1,0,True,False,True,False
+cantonese,2,2,0,True,False,True,False
+caribbean,7,6,1,True,True,False,False
+charcoal grill,4,3,1,True,True,False,False
+chettinad,11,9,2,True,True,False,False
+chinese,2733,2186,547,True,True,False,False
+coffee and tea,19,15,4,True,True,False,False
+contemporary,9,7,2,True,True,False,False
+continental,736,589,147,True,True,False,False
+cuban,2,2,0,True,False,True,False
+cuisine varies,1,1,0,True,False,True,False
+curry,6,5,1,True,True,False,False
+deli,3,2,1,True,True,False,False
+desserts,653,522,131,True,True,False,False
+dim sum,3,2,1,True,True,False,False
+diner,6,5,1,True,True,False,False
+drinks only,2,2,0,True,False,True,False
+durban,1,1,0,True,False,True,False
+döner,1,1,0,True,False,True,False
+european,148,118,30,True,True,False,False
+fast food,1986,1589,397,True,True,False,False
+filipino,10,8,2,True,True,False,False
+finger food,114,91,23,True,True,False,False
+fish and chips,1,1,0,True,False,True,False
+french,29,23,6,True,True,False,False
+fusion,4,3,1,True,True,False,False
+german,10,8,2,True,True,False,False
+goan,20,16,4,True,True,False,False
+gourmet fast food,1,1,0,True,False,True,False
+greek,15,12,3,True,True,False,False
+grill,21,17,4,True,True,False,False
+gujarati,11,9,2,True,True,False,False
+hawaiian,8,6,2,True,True,False,False
+healthy food,150,120,30,True,True,False,False
+hyderabadi,26,21,5,True,True,False,False
+ice cream,226,181,45,True,True,False,False
+indian,70,56,14,True,True,False,False
+indonesian,14,11,3,True,True,False,False
+international,21,17,4,True,True,False,False
+iranian,3,2,1,True,True,False,False
+irish,1,1,0,True,False,True,False
+italian,764,611,153,True,True,False,False
+izgara,2,2,0,True,False,True,False
+japanese,135,108,27,True,True,False,False
+juices,29,23,6,True,True,False,False
+kashmiri,20,16,4,True,True,False,False
+kebab,10,8,2,True,True,False,False
+kerala,23,18,5,True,True,False,False
+kiwi,6,5,1,True,True,False,False
+korean,21,17,4,True,True,False,False
+latin american,11,9,2,True,True,False,False
+lebanese,69,55,14,True,True,False,False
+lucknowi,13,10,3,True,True,False,False
+maharashtrian,10,8,2,True,True,False,False
+malay,1,1,0,True,False,True,False
+malaysian,22,18,4,True,True,False,False
+malwani,1,1,0,True,False,True,False
+mangalorean,4,3,1,True,True,False,False
+mediterranean,112,90,22,True,True,False,False
+mexican,181,145,36,True,True,False,False
+middle eastern,22,18,4,True,True,False,False
+mineira,1,1,0,True,False,True,False
+mithai,380,304,76,True,True,False,False
+modern australian,11,9,2,True,True,False,False
+modern indian,16,13,3,True,True,False,False
+moroccan,5,4,1,True,True,False,False
+mughlai,994,795,199,True,True,False,False
+naga,8,6,2,True,True,False,False
+nepalese,9,7,2,True,True,False,False
+new american,2,2,0,True,False,True,False
+north eastern,9,7,2,True,True,False,False
+north indian,3960,3168,792,True,True,False,False
+oriya,2,2,0,True,False,True,False
+pakistani,12,10,2,True,True,False,False
+parsi,8,6,2,True,True,False,False
+patisserie,4,3,1,True,True,False,False
+peranakan,1,1,0,True,False,True,False
+persian,2,2,0,True,False,True,False
+peruvian,1,1,0,True,False,True,False
+pizza,381,305,76,True,True,False,False
+portuguese,7,6,1,True,True,False,False
+pub food,2,2,0,True,False,True,False
+rajasthani,21,17,4,True,True,False,False
+ramen,2,2,0,True,False,True,False
+raw meats,114,91,23,True,True,False,False
+restaurant cafe,4,3,1,True,True,False,False
+salad,93,74,19,True,True,False,False
+sandwich,53,42,11,True,True,False,False
+scottish,3,2,1,True,True,False,False
+seafood,174,139,35,True,True,False,False
+singaporean,4,3,1,True,True,False,False
+soul food,1,1,0,True,False,True,False
+south african,6,5,1,True,True,False,False
+south american,2,2,0,True,False,True,False
+south indian,636,509,127,True,True,False,False
+southern,24,19,5,True,True,False,False
+southwestern,7,6,1,True,True,False,False
+spanish,16,13,3,True,True,False,False
+sri lankan,5,4,1,True,True,False,False
+steak,62,50,12,True,True,False,False
+street food,562,450,112,True,True,False,False
+sunda,3,2,1,True,True,False,False
+sushi,75,60,15,True,True,False,False
+taiwanese,2,2,0,True,False,True,False
+tapas,19,15,4,True,True,False,False
+tea,48,38,10,True,True,False,False
+teriyaki,2,2,0,True,False,True,False
+tex-mex,19,15,4,True,True,False,False
+thai,234,187,47,True,True,False,False
+tibetan,44,35,9,True,True,False,False
+turkish,15,12,3,True,True,False,False
+turkish pizza,8,6,2,True,True,False,False
+vegetarian,23,18,5,True,True,False,False
+vietnamese,21,17,4,True,True,False,False
+western,10,8,2,True,True,False,False
+world cuisine,4,3,1,True,True,False,False

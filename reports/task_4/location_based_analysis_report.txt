@@ -1,0 +1,33 @@
+DINESCOPE - RESTAURANT INTELLIGENCE & ANALYTICS
+TASK 04: LOCATION-BASED ANALYSIS
+PROGRAM 04: LOCATION-BASED ANALYSIS
+
+======================================================================
+ANALYSIS SUMMARY
+======================================================================
+
+Total Restaurants: 9551
+Cities Analyzed: 141
+Localities Analyzed: 1265
+Top 3 City Restaurant Share (%): 80.32
+Top 10 City Restaurant Share (%): 84.31
+Eligible Cities for Rating Comparison: 82
+Eligible Localities for Rating Comparison: 296
+City-Cuisine Records: 1850
+Locality-Cuisine Records: 7914
+Cities with Cost Data: 141
+Localities with Cost Data: 1265
+Valid Coordinate Records: 9551
+Key Insights Generated: 5
+
+======================================================================
+KEY INSIGHTS
+======================================================================
+
+Restaurant Concentration: New Delhi has the highest restaurant count with 5473 restaurants.
+Highest Rated City: London has the highest average rating among eligible cities.
+Highest Rated Locality: Jubilee Hills, Hyderabad has the highest average rating among eligible localities.
+Cuisine Diversity: New Delhi has the highest number of distinct cuisine labels.
+Rating Coverage: Bhubaneshwar has the highest rating coverage among cities.
+
+Rating comparisons use minimum sample-size filters. Average costs are grouped by currency. Restaurant density represents recorded restaurant counts per location, not restaurants per unit area.

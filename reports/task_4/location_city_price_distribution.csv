@@ -1,0 +1,350 @@
+Country Code,City,Price range,Restaurant_Count,Price_Share_Percentage
+214,Abu Dhabi,2,4,20.0
+214,Abu Dhabi,3,6,30.0
+214,Abu Dhabi,4,10,50.0
+1,Agra,1,3,15.0
+1,Agra,2,6,30.0
+1,Agra,3,6,30.0
+1,Agra,4,5,25.0
+1,Ahmedabad,1,1,4.761904761904762
+1,Ahmedabad,2,8,38.095238095238095
+1,Ahmedabad,3,11,52.38095238095239
+1,Ahmedabad,4,1,4.761904761904762
+216,Albany,1,11,55.00000000000001
+216,Albany,2,5,25.0
+216,Albany,3,3,15.0
+216,Albany,4,1,5.0
+1,Allahabad,1,2,10.0
+1,Allahabad,2,4,20.0
+1,Allahabad,3,13,65.0
+1,Allahabad,4,1,5.0
+1,Amritsar,1,7,33.33333333333333
+1,Amritsar,2,11,52.38095238095239
+1,Amritsar,3,3,14.285714285714285
+208,Ankara,2,6,30.0
+208,Ankara,3,12,60.0
+208,Ankara,4,2,10.0
+14,Armidale,2,1,100.0
+216,Athens,1,12,60.0
+216,Athens,2,4,20.0
+216,Athens,3,4,20.0
+148,Auckland,1,2,10.0
+148,Auckland,2,2,10.0
+148,Auckland,3,9,45.0
+148,Auckland,4,7,35.0
+216,Augusta,1,4,20.0
+216,Augusta,2,9,45.0
+216,Augusta,3,7,35.0
+1,Aurangabad,1,1,5.0
+1,Aurangabad,2,15,75.0
+1,Aurangabad,3,3,15.0
+1,Aurangabad,4,1,5.0
+14,Balingup,2,1,100.0
+94,Bandung,3,1,100.0
+1,Bangalore,1,1,5.0
+1,Bangalore,2,6,30.0
+1,Bangalore,3,11,55.00000000000001
+1,Bangalore,4,2,10.0
+14,Beechworth,2,1,100.0
+1,Bhopal,1,2,10.0
+1,Bhopal,2,14,70.0
+1,Bhopal,3,3,15.0
+1,Bhopal,4,1,5.0
+1,Bhubaneshwar,1,6,28.57142857142857
+1,Bhubaneshwar,2,12,57.14285714285714
+1,Bhubaneshwar,3,3,14.285714285714285
+215,Birmingham,1,3,15.0
+215,Birmingham,2,8,40.0
+215,Birmingham,3,7,35.0
+215,Birmingham,4,2,10.0
+94,Bogor,2,1,50.0
+94,Bogor,3,1,50.0
+216,Boise,1,6,30.0
+216,Boise,2,9,45.0
+216,Boise,3,3,15.0
+216,Boise,4,2,10.0
+30,Brasília,1,2,10.0
+30,Brasília,2,4,20.0
+30,Brasília,3,4,20.0
+30,Brasília,4,10,50.0
+189,Cape Town,2,4,20.0
+189,Cape Town,3,8,40.0
+189,Cape Town,4,8,40.0
+216,Cedar Rapids/Iowa City,1,5,25.0
+216,Cedar Rapids/Iowa City,2,9,45.0
+216,Cedar Rapids/Iowa City,3,6,30.0
+1,Chandigarh,1,1,5.555555555555555
+1,Chandigarh,2,8,44.44444444444444
+1,Chandigarh,3,8,44.44444444444444
+1,Chandigarh,4,1,5.555555555555555
+37,Chatham-Kent,2,1,100.0
+1,Chennai,1,2,10.0
+1,Chennai,2,8,40.0
+1,Chennai,3,9,45.0
+1,Chennai,4,1,5.0
+216,Clatskanie,1,1,100.0
+216,Cochrane,2,1,100.0
+1,Coimbatore,1,1,5.0
+1,Coimbatore,2,11,55.00000000000001
+1,Coimbatore,3,7,35.0
+1,Coimbatore,4,1,5.0
+191,Colombo,2,6,30.0
+191,Colombo,3,11,55.00000000000001
+191,Colombo,4,3,15.0
+216,Columbus,1,4,20.0
+216,Columbus,2,9,45.0
+216,Columbus,3,7,35.0
+37,Consort,2,1,100.0
+216,Dalton,1,13,65.0
+216,Dalton,2,6,30.0
+216,Dalton,3,1,5.0
+216,Davenport,1,4,20.0
+216,Davenport,2,13,65.0
+216,Davenport,3,2,10.0
+216,Davenport,4,1,5.0
+1,Dehradun,1,1,5.0
+1,Dehradun,2,2,10.0
+1,Dehradun,3,12,60.0
+1,Dehradun,4,5,25.0
+216,Des Moines,1,4,20.0
+216,Des Moines,2,10,50.0
+216,Des Moines,3,5,25.0
+216,Des Moines,4,1,5.0
+14,Dicky Beach,1,1,100.0
+166,Doha,2,1,5.0
+166,Doha,3,5,25.0
+166,Doha,4,14,70.0
+214,Dubai,2,2,10.0
+214,Dubai,3,15,75.0
+214,Dubai,4,3,15.0
+216,Dubuque,1,7,35.0
+216,Dubuque,2,9,45.0
+216,Dubuque,3,3,15.0
+216,Dubuque,4,1,5.0
+14,East Ballina,2,1,100.0
+215,Edinburgh,2,6,30.0
+215,Edinburgh,3,10,50.0
+215,Edinburgh,4,4,20.0
+1,Faridabad,1,151,60.1593625498008
+1,Faridabad,2,86,34.26294820717131
+1,Faridabad,3,14,5.577689243027888
+216,Fernley,1,1,100.0
+14,Flaxton,3,1,100.0
+14,Forrest,2,1,100.0
+216,Gainesville,1,8,40.0
+216,Gainesville,2,9,45.0
+216,Gainesville,3,3,15.0
+1,Ghaziabad,1,9,36.0
+1,Ghaziabad,2,13,52.0
+1,Ghaziabad,3,2,8.0
+1,Ghaziabad,4,1,4.0
+1,Goa,3,7,35.0
+1,Goa,4,13,65.0
+1,Gurgaon,1,453,40.51878354203936
+1,Gurgaon,2,440,39.35599284436494
+1,Gurgaon,3,158,14.132379248658319
+1,Gurgaon,4,67,5.992844364937388
+1,Guwahati,1,1,4.761904761904762
+1,Guwahati,2,10,47.61904761904761
+1,Guwahati,3,8,38.095238095238095
+1,Guwahati,4,2,9.523809523809524
+14,Hepburn Springs,1,1,50.0
+14,Hepburn Springs,2,1,50.0
+14,Huskisson,2,1,100.0
+1,Hyderabad,2,3,16.666666666666664
+1,Hyderabad,3,14,77.77777777777779
+1,Hyderabad,4,1,5.555555555555555
+1,Indore,1,1,5.0
+1,Indore,2,7,35.0
+1,Indore,3,8,40.0
+1,Indore,4,4,20.0
+189,Inner City,4,2,100.0
+14,Inverloch,1,1,100.0
+1,Jaipur,2,6,30.0
+1,Jaipur,3,11,55.00000000000001
+1,Jaipur,4,3,15.0
+94,Jakarta,3,16,100.0
+189,Johannesburg,4,6,100.0
+1,Kanpur,1,2,10.0
+1,Kanpur,2,7,35.0
+1,Kanpur,3,6,30.0
+1,Kanpur,4,5,25.0
+1,Kochi,1,4,20.0
+1,Kochi,2,11,55.00000000000001
+1,Kochi,3,5,25.0
+1,Kolkata,2,3,15.0
+1,Kolkata,3,17,85.0
+14,Lakes Entrance,1,1,100.0
+216,Lakeview,1,1,100.0
+216,Lincoln,2,1,100.0
+215,London,2,6,30.0
+215,London,3,8,40.0
+215,London,4,6,30.0
+14,Lorn,2,1,100.0
+1,Lucknow,1,2,9.523809523809524
+1,Lucknow,2,7,33.33333333333333
+1,Lucknow,3,10,47.61904761904761
+1,Lucknow,4,2,9.523809523809524
+1,Ludhiana,1,1,5.0
+1,Ludhiana,2,6,30.0
+1,Ludhiana,3,12,60.0
+1,Ludhiana,4,1,5.0
+14,Macedon,2,1,100.0
+216,Macon,1,6,30.0
+216,Macon,2,9,45.0
+216,Macon,3,3,15.0
+216,Macon,4,2,10.0
+162,Makati City,3,2,100.0
+215,Manchester,1,1,5.0
+215,Manchester,2,8,40.0
+215,Manchester,3,7,35.0
+215,Manchester,4,4,20.0
+162,Mandaluyong City,3,1,25.0
+162,Mandaluyong City,4,3,75.0
+1,Mangalore,1,1,5.0
+1,Mangalore,2,10,50.0
+1,Mangalore,3,7,35.0
+1,Mangalore,4,2,10.0
+14,Mayfield,2,1,100.0
+216,Mc Millan,1,1,100.0
+14,Middleton Beach,3,1,100.0
+216,Miller,1,1,100.0
+1,Mohali,2,1,100.0
+216,Monroe,2,1,100.0
+14,Montville,3,1,100.0
+1,Mumbai,2,5,25.0
+1,Mumbai,3,15,75.0
+1,Mysore,1,2,10.0
+1,Mysore,2,10,50.0
+1,Mysore,3,5,25.0
+1,Mysore,4,3,15.0
+1,Nagpur,1,3,15.0
+1,Nagpur,2,9,45.0
+1,Nagpur,3,7,35.0
+1,Nagpur,4,1,5.0
+1,Nashik,1,2,10.0
+1,Nashik,2,4,20.0
+1,Nashik,3,10,50.0
+1,Nashik,4,4,20.0
+1,New Delhi,1,3052,55.76466289055363
+1,New Delhi,2,1656,30.257628357390825
+1,New Delhi,3,549,10.031061575004568
+1,New Delhi,4,216,3.946647177050978
+1,Noida,1,565,52.31481481481482
+1,Noida,2,401,37.129629629629626
+1,Noida,3,93,8.61111111111111
+1,Noida,4,21,1.9444444444444444
+216,Ojo Caliente,3,1,100.0
+216,Orlando,1,1,5.0
+216,Orlando,2,4,20.0
+216,Orlando,3,11,55.00000000000001
+216,Orlando,4,4,20.0
+14,Palm Cove,3,1,100.0
+1,Panchkula,4,1,100.0
+162,Pasay City,4,3,100.0
+162,Pasig City,3,3,100.0
+1,Patna,1,1,5.0
+1,Patna,2,11,55.00000000000001
+1,Patna,3,6,30.0
+1,Patna,4,2,10.0
+14,Paynesville,4,1,100.0
+14,Penola,2,1,100.0
+216,Pensacola,1,3,15.0
+216,Pensacola,2,7,35.0
+216,Pensacola,3,10,50.0
+14,Phillip Island,2,1,100.0
+216,Pocatello,1,9,45.0
+216,Pocatello,2,6,30.0
+216,Pocatello,3,5,25.0
+216,Potrero,2,1,100.0
+189,Pretoria,3,6,30.0
+189,Pretoria,4,14,70.0
+216,Princeton,4,1,100.0
+1,Puducherry,1,2,10.0
+1,Puducherry,2,4,20.0
+1,Puducherry,3,6,30.0
+1,Puducherry,4,8,40.0
+1,Pune,2,3,15.0
+1,Pune,3,15,75.0
+1,Pune,4,2,10.0
+162,Quezon City,3,1,100.0
+1,Ranchi,1,7,35.0
+1,Ranchi,2,6,30.0
+1,Ranchi,3,6,30.0
+1,Ranchi,4,1,5.0
+189,Randburg,3,1,100.0
+216,Rest of Hawaii,1,6,30.0
+216,Rest of Hawaii,2,4,20.0
+216,Rest of Hawaii,3,7,35.0
+216,Rest of Hawaii,4,3,15.0
+30,Rio de Janeiro,2,1,5.0
+30,Rio de Janeiro,3,8,40.0
+30,Rio de Janeiro,4,11,55.00000000000001
+162,San Juan City,3,2,100.0
+189,Sandton,3,2,18.181818181818183
+189,Sandton,4,9,81.81818181818183
+162,Santa Rosa,3,2,100.0
+216,Savannah,1,5,25.0
+216,Savannah,2,6,30.0
+216,Savannah,3,6,30.0
+216,Savannah,4,3,15.0
+1,Secunderabad,2,2,100.0
+214,Sharjah,2,3,15.0
+214,Sharjah,3,8,40.0
+214,Sharjah,4,9,45.0
+184,Singapore,2,1,5.0
+184,Singapore,3,5,25.0
+184,Singapore,4,14,70.0
+216,Sioux City,1,9,45.0
+216,Sioux City,2,5,25.0
+216,Sioux City,3,5,25.0
+216,Sioux City,4,1,5.0
+1,Surat,1,2,10.0
+1,Surat,2,5,25.0
+1,Surat,3,11,55.00000000000001
+1,Surat,4,2,10.0
+30,São Paulo,2,2,10.0
+30,São Paulo,3,4,20.0
+30,São Paulo,4,14,70.0
+162,Tagaytay City,3,1,100.0
+162,Taguig City,2,1,25.0
+162,Taguig City,4,3,75.0
+216,Tampa Bay,1,2,10.0
+216,Tampa Bay,2,7,35.0
+216,Tampa Bay,3,9,45.0
+216,Tampa Bay,4,2,10.0
+94,Tangerang,3,2,100.0
+14,Tanunda,3,1,100.0
+14,Trentham East,2,1,100.0
+1,Vadodara,1,1,5.0
+1,Vadodara,2,8,40.0
+1,Vadodara,3,9,45.0
+1,Vadodara,4,2,10.0
+216,Valdosta,1,3,15.0
+216,Valdosta,2,10,50.0
+216,Valdosta,3,6,30.0
+216,Valdosta,4,1,5.0
+1,Varanasi,1,3,15.0
+1,Varanasi,2,7,35.0
+1,Varanasi,3,8,40.0
+1,Varanasi,4,2,10.0
+216,Vernonia,1,1,100.0
+14,Victor Harbor,2,1,100.0
+37,Vineland Station,4,1,100.0
+1,Vizag,1,2,10.0
+1,Vizag,2,12,60.0
+1,Vizag,3,3,15.0
+1,Vizag,4,3,15.0
+216,Waterloo,1,8,40.0
+216,Waterloo,2,9,45.0
+216,Waterloo,3,3,15.0
+216,Weirton,2,1,100.0
+148,Wellington City,1,1,5.0
+148,Wellington City,2,2,10.0
+148,Wellington City,3,8,40.0
+148,Wellington City,4,9,45.0
+216,Winchester Bay,2,1,100.0
+37,Yorkton,2,1,100.0
+208,İstanbul,2,5,35.714285714285715
+208,İstanbul,3,6,42.857142857142854
+208,İstanbul,4,3,21.428571428571427

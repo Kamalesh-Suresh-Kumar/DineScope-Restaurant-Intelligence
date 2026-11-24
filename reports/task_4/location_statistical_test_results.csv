@@ -1,0 +1,8 @@
+Analysis,Test,Statistic,P_Value,Status,Significant_At_0_05,Interpretation
+City Rating Comparison,Kruskal-Wallis,286.62181696090653,1.7900201533885629e-56,Completed,True,Statistically significant at 0.05
+Locality Rating Comparison,Kruskal-Wallis,501.49244025690956,1.4204596472076247e-87,Completed,True,Statistically significant at 0.05
+Price Range Rating Comparison,Kruskal-Wallis,1326.0665644728786,3.24978078553491e-287,Completed,True,Statistically significant at 0.05
+Budget vs Premium Rating,Mann-Whitney U,262135.0,7.858931647824047e-141,Completed,True,Statistically significant at 0.05
+Cuisine Diversity vs Rating,Spearman Correlation,0.0852566868125626,0.44631783480708137,Completed,False,Not statistically significant at 0.05
+Restaurant Count vs Rating Coverage,Spearman Correlation,-0.35713158829974334,1.3789003720494642e-05,Completed,True,Statistically significant at 0.05
+Votes vs Rating,Spearman Correlation,0.6821056608097716,0.0,Completed,True,Statistically significant at 0.05

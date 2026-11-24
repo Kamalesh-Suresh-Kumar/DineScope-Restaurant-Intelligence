@@ -1,0 +1,142 @@
+Country Code,City,Currency,Restaurant_Count,Average_Cost,Median_Cost,Minimum_Cost,Maximum_Cost
+94,Jakarta,Indonesian Rupiah(IDR),16,308437.5,200000.0,100000,800000
+94,Tangerang,Indonesian Rupiah(IDR),2,250000.0,250000.0,200000,300000
+94,Bogor,Indonesian Rupiah(IDR),2,160000.0,160000.0,70000,250000
+94,Bandung,Indonesian Rupiah(IDR),1,150000.0,150000.0,150000,150000
+162,Pasay City,Botswana Pula(P),3,3333.3333333333335,2000.0,2000,6000
+191,Colombo,Sri Lankan Rupee(LKR),20,2375.0,2200.0,1000,4500
+1,Panchkula,Indian Rupees(Rs.),1,2000.0,2000.0,2000,2000
+162,Mandaluyong City,Botswana Pula(P),4,2000.0,1500.0,1000,4000
+162,Taguig City,Botswana Pula(P),4,1725.0,1650.0,600,3000
+1,Hyderabad,Indian Rupees(Rs.),18,1361.111111111111,1450.0,500,2000
+1,Pune,Indian Rupees(Rs.),20,1337.5,1300.0,800,2100
+1,Jaipur,Indian Rupees(Rs.),20,1310.0,1250.0,650,2500
+1,Kolkata,Indian Rupees(Rs.),20,1272.5,1200.0,800,1900
+1,Bangalore,Indian Rupees(Rs.),20,1232.5,1300.0,400,2400
+162,Tagaytay City,Botswana Pula(P),1,1200.0,1200.0,1200,1200
+1,Goa,Indian Rupees(Rs.),20,1175.0,1100.0,600,2000
+1,Ludhiana,Indian Rupees(Rs.),20,1160.0,1200.0,400,2000
+162,Makati City,Botswana Pula(P),2,1150.0,1150.0,1100,1200
+189,Inner City,Rand(R),2,1120.0,1120.0,700,1540
+1,Chennai,Indian Rupees(Rs.),20,1085.0,950.0,350,2000
+1,Mumbai,Indian Rupees(Rs.),20,1072.5,1000.0,500,1500
+1,Chandigarh,Indian Rupees(Rs.),18,1072.2222222222222,925.0,450,2200
+1,Agra,Indian Rupees(Rs.),20,1065.0,825.0,0,3600
+1,Indore,Indian Rupees(Rs.),20,960.0,825.0,250,2000
+162,Pasig City,Botswana Pula(P),3,933.3333333333334,900.0,800,1100
+1,Kanpur,Indian Rupees(Rs.),20,915.0,825.0,0,3000
+1,Lucknow,Indian Rupees(Rs.),21,859.5238095238095,1000.0,200,2000
+1,Ahmedabad,Indian Rupees(Rs.),21,857.1428571428571,900.0,300,1800
+162,San Juan City,Botswana Pula(P),2,850.0,850.0,700,1000
+1,Puducherry,Indian Rupees(Rs.),20,842.5,800.0,150,1500
+1,Secunderabad,Indian Rupees(Rs.),2,825.0,825.0,800,850
+162,Santa Rosa,Botswana Pula(P),2,825.0,825.0,800,850
+1,Guwahati,Indian Rupees(Rs.),21,821.4285714285714,700.0,300,1650
+1,Vadodara,Indian Rupees(Rs.),20,820.0,800.0,300,1500
+1,Mysore,Indian Rupees(Rs.),20,814.5,700.0,290,1700
+1,Surat,Indian Rupees(Rs.),20,812.5,800.0,250,1500
+162,Quezon City,Botswana Pula(P),1,800.0,800.0,800,800
+1,Patna,Indian Rupees(Rs.),20,797.5,650.0,300,1600
+1,Mangalore,Indian Rupees(Rs.),20,782.5,700.0,200,1600
+1,Coimbatore,Indian Rupees(Rs.),20,782.5,650.0,300,1500
+1,Vizag,Indian Rupees(Rs.),20,780.0,600.0,300,1700
+1,Ranchi,Indian Rupees(Rs.),20,735.0,575.0,200,2000
+1,Kochi,Indian Rupees(Rs.),20,730.0,675.0,350,1500
+1,Dehradun,Indian Rupees(Rs.),20,727.5,600.0,0,1600
+1,Nagpur,Indian Rupees(Rs.),20,715.0,575.0,250,1600
+1,Gurgaon,Indian Rupees(Rs.),1118,714.0161001788908,500.0,100,5000
+1,Bhubaneshwar,Indian Rupees(Rs.),21,678.5714285714286,500.0,300,1500
+1,Nashik,Indian Rupees(Rs.),20,662.5,600.0,100,1500
+1,Aurangabad,Indian Rupees(Rs.),20,622.5,500.0,300,1800
+1,Bhopal,Indian Rupees(Rs.),20,620.0,500.0,200,1800
+1,Ghaziabad,Indian Rupees(Rs.),25,602.0,500.0,100,2500
+1,New Delhi,Indian Rupees(Rs.),5473,596.0880687008953,400.0,50,8000
+1,Mohali,Indian Rupees(Rs.),1,550.0,550.0,550,550
+1,Noida,Indian Rupees(Rs.),1080,539.4907407407408,450.0,50,3500
+1,Allahabad,Indian Rupees(Rs.),20,517.5,500.0,0,1000
+1,Varanasi,Indian Rupees(Rs.),20,505.0,475.0,0,1100
+189,Pretoria,Rand(R),20,492.25,340.0,200,3210
+1,Amritsar,Indian Rupees(Rs.),21,480.95238095238096,500.0,100,1200
+189,Johannesburg,Rand(R),6,470.0,350.0,300,955
+1,Faridabad,Indian Rupees(Rs.),251,447.60956175298804,400.0,100,1900
+189,Sandton,Rand(R),11,375.90909090909093,400.0,250,545
+189,Cape Town,Rand(R),20,297.2,260.0,110,570
+166,Doha,Qatari Rial(QR),20,223.75,185.0,50,550
+214,Dubai,Emirati Diram(AED),20,211.75,160.0,90,500
+189,Randburg,Rand(R),1,200.0,200.0,200,200
+214,Abu Dhabi,Emirati Diram(AED),20,182.0,165.0,50,500
+30,São Paulo,Brazilian Real(R$),20,157.25,120.0,50,400
+184,Singapore,Dollar($),20,155.75,80.0,20,500
+30,Rio de Janeiro,Brazilian Real(R$),20,126.75,100.0,40,300
+14,Paynesville,Dollar($),1,120.0,120.0,120,120
+30,Brasília,Brazilian Real(R$),20,120.0,95.0,30,350
+214,Sharjah,Emirati Diram(AED),20,105.5,87.5,40,250
+208,Ankara,Turkish Lira(TL),20,87.25,70.0,35,400
+208,İstanbul,Turkish Lira(TL),14,81.42857142857143,80.0,30,170
+148,Wellington City,NewZealand($),20,71.25,57.5,25,200
+37,Vineland Station,Dollar($),1,70.0,70.0,70,70
+216,Princeton,Dollar($),1,70.0,70.0,70,70
+148,Auckland,NewZealand($),20,68.25,60.0,20,190
+215,London,Pounds(��),20,64.5,47.5,20,230
+215,Manchester,Pounds(��),20,49.25,42.5,15,160
+216,Orlando,Dollar($),20,40.25,40.0,10,100
+216,Ojo Caliente,Dollar($),1,40.0,40.0,40,40
+215,Birmingham,Pounds(��),20,39.0,32.5,10,120
+215,Edinburgh,Pounds(��),20,38.5,32.5,15,100
+216,Tampa Bay,Dollar($),20,34.75,40.0,10,70
+216,Savannah,Dollar($),20,32.5,25.0,10,70
+216,Rest of Hawaii,Dollar($),20,31.75,27.5,10,70
+216,Pensacola,Dollar($),20,30.25,32.5,10,40
+14,Flaxton,Dollar($),1,30.0,30.0,30,30
+14,Middleton Beach,Dollar($),1,30.0,30.0,30,30
+14,Palm Cove,Dollar($),1,30.0,30.0,30,30
+14,Tanunda,Dollar($),1,30.0,30.0,30,30
+14,Montville,Dollar($),1,30.0,30.0,30,30
+216,Valdosta,Dollar($),20,29.25,25.0,10,70
+216,Des Moines,Dollar($),20,28.0,25.0,10,70
+216,Macon,Dollar($),20,27.25,25.0,10,70
+216,Boise,Dollar($),20,27.25,25.0,10,70
+216,Augusta,Dollar($),20,27.0,25.0,10,40
+216,Columbus,Dollar($),20,26.75,25.0,0,40
+216,Cedar Rapids/Iowa City,Dollar($),20,25.75,25.0,10,40
+216,Davenport,Dollar($),20,25.25,25.0,0,70
+216,Monroe,Dollar($),1,25.0,25.0,25,25
+37,Yorkton,Dollar($),1,25.0,25.0,25,25
+37,Chatham-Kent,Dollar($),1,25.0,25.0,25,25
+37,Consort,Dollar($),1,25.0,25.0,25,25
+216,Weirton,Dollar($),1,25.0,25.0,25,25
+216,Potrero,Dollar($),1,25.0,25.0,25,25
+216,Lincoln,Dollar($),1,25.0,25.0,25,25
+216,Cochrane,Dollar($),1,25.0,25.0,25,25
+216,Winchester Bay,Dollar($),1,25.0,25.0,25,25
+216,Sioux City,Dollar($),20,24.25,25.0,10,70
+216,Dubuque,Dollar($),20,23.75,25.0,0,70
+216,Gainesville,Dollar($),20,21.25,25.0,10,40
+216,Waterloo,Dollar($),20,21.25,25.0,10,40
+216,Pocatello,Dollar($),20,20.75,25.0,0,45
+14,Armidale,Dollar($),1,20.0,20.0,20,20
+14,Victor Harbor,Dollar($),1,20.0,20.0,20,20
+14,Macedon,Dollar($),1,20.0,20.0,20,20
+14,Mayfield,Dollar($),1,20.0,20.0,20,20
+14,Lorn,Dollar($),1,20.0,20.0,20,20
+14,Huskisson,Dollar($),1,20.0,20.0,20,20
+14,East Ballina,Dollar($),1,20.0,20.0,20,20
+14,Beechworth,Dollar($),1,20.0,20.0,20,20
+14,Forrest,Dollar($),1,20.0,20.0,20,20
+14,Balingup,Dollar($),1,20.0,20.0,20,20
+14,Trentham East,Dollar($),1,20.0,20.0,20,20
+14,Phillip Island,Dollar($),1,20.0,20.0,20,20
+14,Penola,Dollar($),1,20.0,20.0,20,20
+216,Albany,Dollar($),20,19.75,10.0,0,70
+216,Athens,Dollar($),20,19.0,10.0,10,40
+216,Dalton,Dollar($),20,16.0,10.0,10,40
+14,Hepburn Springs,Dollar($),2,13.5,13.5,7,20
+216,Clatskanie,Dollar($),1,10.0,10.0,10,10
+216,Fernley,Dollar($),1,10.0,10.0,10,10
+216,Mc Millan,Dollar($),1,10.0,10.0,10,10
+216,Vernonia,Dollar($),1,10.0,10.0,10,10
+216,Lakeview,Dollar($),1,10.0,10.0,10,10
+14,Inverloch,Dollar($),1,7.0,7.0,7,7
+14,Dicky Beach,Dollar($),1,7.0,7.0,7,7
+14,Lakes Entrance,Dollar($),1,7.0,7.0,7,7
+216,Miller,Dollar($),1,0.0,0.0,0,0

@@ -1,0 +1,21 @@
+Metric,Value
+Original Records,9551
+Final Records,9551
+Rows Removed,0
+Unique Restaurants,9551
+Unique Cities,141
+Unique Localities,1208
+Missing City Values Before Cleaning,0
+Missing Locality Values Before Cleaning,0
+Missing Address Values Before Cleaning,0
+Valid Coordinates,9551
+Invalid or Incomplete Coordinates,0
+Rows Sharing Coordinate Pairs,1075
+Unique Coordinate Pairs,8705
+Unrated Restaurants,2148
+Rated Restaurants,7403
+Missing Cuisine Values Before Cleaning,9
+Restaurants Without Known Cuisine,9
+Invalid Price Ranges,0
+Negative Average Costs,0
+Negative Votes,0

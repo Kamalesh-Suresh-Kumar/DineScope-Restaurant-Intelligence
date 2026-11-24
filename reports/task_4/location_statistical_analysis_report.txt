@@ -1,0 +1,56 @@
+DINESCOPE - RESTAURANT INTELLIGENCE & ANALYTICS
+TASK 04: LOCATION-BASED ANALYSIS
+PROGRAM 06: STATISTICAL ANALYSIS AND COMPARATIVE INSIGHTS
+
+======================================================================
+ANALYSIS SUMMARY
+======================================================================
+
+Total Restaurants: 9551
+Rated Restaurants: 7403
+Eligible Cities: 82
+Eligible Localities: 176
+Eligible Price Groups: 4
+City Groups in Kruskal-Wallis Test: 10
+Locality Groups in Kruskal-Wallis Test: 30
+Price Groups in Kruskal-Wallis Test: 4
+Budget Restaurant Sample Size: 2744
+Premium Restaurant Sample Size: 575
+Cuisine Correlation Sample Size: 82
+Coverage Correlation Sample Size: 141
+Votes Correlation Sample Size: 7403
+Completed Statistical Tests: 7
+Significant Statistical Tests: 6
+
+======================================================================
+STATISTICAL TEST RESULTS
+======================================================================
+
+                           Analysis                 Test     Statistic       P_Value    Status  Significant_At_0_05                        Interpretation
+             City Rating Comparison       Kruskal-Wallis    286.621817  1.790020e-56 Completed                 True     Statistically significant at 0.05
+         Locality Rating Comparison       Kruskal-Wallis    501.492440  1.420460e-87 Completed                 True     Statistically significant at 0.05
+      Price Range Rating Comparison       Kruskal-Wallis   1326.066564 3.249781e-287 Completed                 True     Statistically significant at 0.05
+           Budget vs Premium Rating       Mann-Whitney U 262135.000000 7.858932e-141 Completed                 True     Statistically significant at 0.05
+        Cuisine Diversity vs Rating Spearman Correlation      0.085257  4.463178e-01 Completed                False Not statistically significant at 0.05
+Restaurant Count vs Rating Coverage Spearman Correlation     -0.357132  1.378900e-05 Completed                 True     Statistically significant at 0.05
+                    Votes vs Rating Spearman Correlation      0.682106  0.000000e+00 Completed                 True     Statistically significant at 0.05
+
+======================================================================
+DESCRIPTIVE INSIGHTS
+======================================================================
+
+City Rating: London has the highest average rating among cities meeting the minimum sample threshold.
+Locality Rating: Macon, Macon has the highest average rating among eligible localities.
+Price Range: Price range 4 has the highest average rating among eligible price groups.
+Statistical Tests: 6 of 7 completed tests have p-values below 0.05.
+
+======================================================================
+INTERPRETATION LIMITATIONS
+======================================================================
+
+1. Statistical significance does not necessarily indicate practical importance.
+2. Correlation does not establish causation.
+3. Kruskal-Wallis tests indicate whether group distributions differ, but do not identify which specific groups differ.
+4. Multiple group comparisons may require post-hoc testing and multiple-testing correction.
+5. Groups are subject to minimum sample-size filters.
+6. City and locality comparisons are descriptive of the available dataset and should not automatically be generalized to all restaurants in those locations.

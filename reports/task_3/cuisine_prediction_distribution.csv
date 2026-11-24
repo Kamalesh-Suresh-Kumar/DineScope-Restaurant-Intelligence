@@ -1,0 +1,21 @@
+Cuisine,Actual Count,Baseline Predicted Count,Tuned Predicted Count
+north indian,792,471,1725
+chinese,547,80,1455
+fast food,397,7,973
+continental,147,34,218
+italian,153,12,202
+mughlai,199,0,118
+cafe,141,0,80
+street food,112,2,80
+american,78,9,67
+seafood,35,5,28
+european,30,0,19
+indian,14,5,19
+finger food,23,0,19
+desserts,131,0,16
+mithai,76,1,15
+steak,12,1,11
+asian,47,0,10
+burger,50,0,10
+brazilian,6,0,9
+japanese,27,1,9
